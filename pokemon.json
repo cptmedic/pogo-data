@@ -1,6 +1,6 @@
 [
    {
-      "version": "20182711b"
+      "version": "20182711c"
    },
    {
       "tier": 1
@@ -1232,6 +1232,7 @@
       "name": "suicune",
       "number": 245,
       "tier": 5,
+      "active": true,
       "trainers": 8
    },
    {
