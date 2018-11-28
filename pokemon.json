@@ -1,6 +1,6 @@
 [
    {
-      "version": 20182711
+      "version": "20182711b"
    },
    {
       "tier": 1
@@ -516,7 +516,7 @@
       "name": "Alolan Exeggutor",
       "number": 103,
       "tier": 4,
-      "active": true,
+      "active": false,
       "trainers": 6
    },
    {
@@ -1246,6 +1246,7 @@
       "name": "tyranitar",
       "number": 248,
       "tier": 4,
+      "active": true,
       "trainers": 7,
       "nickname": [
          "ttar"
