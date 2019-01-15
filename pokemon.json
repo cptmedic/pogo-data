@@ -1,5 +1,5 @@
 {
-  "version": "20190102",
+  "version": "20190114",
   "pokemon_data": [
    {
       "tier": 1
@@ -1910,6 +1910,7 @@
       "name": "kyogre",
       "number": 382,
       "tier": 5,
+      "active": true,
       "shiny": true,
       "trainers": 9
    },
@@ -1917,6 +1918,7 @@
       "name": "groudon",
       "number": 383,
       "tier": 5,
+      "active": true,
       "trainers": 9
    },
    {
