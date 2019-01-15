@@ -1739,7 +1739,8 @@
       "name": "crawdaunt",
       "number": 342,
       "tier": 3,
-      "trainers": 3
+      "trainers": 3,
+      "active": true
    },
    {
       "name": "baltoy",
