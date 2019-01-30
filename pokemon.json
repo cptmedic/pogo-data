@@ -1,5 +1,5 @@
 {
-  "version": "20190118",
+  "version": "20190119",
   "pokemon_data": [
    {
       "tier": 1
@@ -331,6 +331,7 @@
       "name": "alakazam",
       "number": 65,
       "tier": 3,
+      "active": true,
       "trainers": 3
    },
    {
@@ -384,7 +385,7 @@
       "name": "golem",
       "number": 76,
       "tier": 4,
-      "active": true,
+      "active": false,
       "trainers": 5
    },
    {
@@ -484,7 +485,7 @@
       "name": "onix",
       "number": 95,
       "tier": 3,
-      "active": true,
+      "active": false,
       "trainers": 4
    },
    {
@@ -523,8 +524,8 @@
       "name": "Alolan Exeggutor",
       "number": 103,
       "tier": 2,
-      "active": false,
-      "trainers": 6
+      "active": true,
+      "trainers": 1
    },
    {
       "name": "cubone",
@@ -534,7 +535,7 @@
       "name": "Alolan Marowak",
       "number": 105,
       "tier": 4,
-      "active": false,
+      "active": true,
       "shiny": true,
       "trainers": 7
    },
@@ -574,7 +575,7 @@
       "name": "rhydon",
       "number": 112,
       "tier": 4,
-      "active": true,
+      "active": false,
       "trainers": 4
    },
    {
@@ -640,7 +641,7 @@
       "name": "electabuzz",
       "number": 125,
       "tier": 2,
-      "active": true,
+      "active": false,
       "trainers": 2
    },
    {
@@ -701,7 +702,7 @@
       "name": "jolteon",
       "number": 135,
       "tier": 3,
-      "active": true,
+      "active": false,
       "trainers": 3
    },
    {
@@ -720,7 +721,7 @@
       "name": "omanyte",
       "number": 138,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -734,7 +735,7 @@
       "name": "kabuto",
       "number": 140,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -748,7 +749,7 @@
       "name": "aerodactyl",
       "number": 142,
       "tier": 3,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 3
    },
@@ -792,6 +793,7 @@
       "name": "dratini",
       "number": 147,
       "tier": 1,
+      "active": true,
       "shiny": true,
       "trainers": 1
    },
@@ -930,6 +932,7 @@
       "name": "togetic",
       "number": 176,
       "tier": 4,
+      "active": true,
       "trainers": 8
    },
    {
@@ -968,13 +971,14 @@
       "name": "azumarill",
       "number": 184,
       "tier": 3,
+      "active": true,
       "trainers": 2
    },
    {
       "name": "sudowoodo",
       "number": 185,
       "tier": 2,
-      "active": true,
+      "active": false,
       "trainers": 2
    },
    {
@@ -1089,6 +1093,7 @@
       "name": "granbull",
       "number": 210,
       "tier": 3,
+      "active": true,
       "trainers": 2
    },
    {
@@ -1124,6 +1129,7 @@
       "name": "ursaring",
       "number": 217,
       "tier": 4,
+      "active": true,
       "trainers": 5
    },
    {
@@ -1439,7 +1445,7 @@
       "name": "kirlia",
       "number": 281,
       "tier": 2,
-      "active": false,
+      "active": true,
       "trainers": 1
    },
    {
@@ -1535,7 +1541,7 @@
       "name": "sableye",
       "number": 302,
       "tier": 2,
-      "active": false,
+      "active": true,
       "shiny": true,
       "trainers": 1
    },
@@ -1581,7 +1587,7 @@
       "name": "manectric",
       "number": 310,
       "tier": 2,
-      "active": true,
+      "active": false,
       "trainers": 1
    },
    {
@@ -1638,7 +1644,7 @@
       "name": "wailmer",
       "number": 320,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -1694,6 +1700,7 @@
       "name": "swablu",
       "number": 333,
       "tier": 1,
+      "active": true,
       "shiny": true,
       "trainers": 1
    },
@@ -1775,7 +1782,11 @@
    },
    {
       "name": "feebas",
-      "number": 349
+      "number": 349,
+      "tier": 1,
+      "active": true,
+      "shiny": true,
+      "trainers": 1
    },
    {
       "name": "milotic",
@@ -2051,7 +2062,7 @@
       "name": "Shinx",
       "number": 403,
       "tier": 1,
-      "active": false,
+      "active": true,
       "shiny": true,
       "trainers": 1
    },
@@ -2115,7 +2126,7 @@
       "name": "Buizel",
       "number": 418,
       "tier": 1,
-      "active": false,
+      "active": true,
       "trainers": 1
    },
    {
