@@ -2460,7 +2460,7 @@
       "name": "Palkia",
       "number": 484,
       "tier": 5,
-      "active": true,
+      "active": false,
       "trainers": 8,
       "nickname": [
          "polka"
