@@ -1,5 +1,5 @@
 {
-  "version": "20190207",
+  "version": "20190208",
   "pokemon_data": [
    {
       "tier": 1
@@ -2454,7 +2454,9 @@
    {
       "name": "Dialga",
       "number": 483,
-      "tier": 5
+      "tier": 5,
+      "active": true,
+      "trainers": 8,
    },
    {
       "name": "Palkia",
