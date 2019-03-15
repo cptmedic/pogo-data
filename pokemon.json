@@ -1,5 +1,5 @@
 {
-  "version": "20190301",
+  "version": "20190302",
   "pokemon_data": [
    {
       "tier": 1
@@ -2038,7 +2038,10 @@
       "number": 384,
       "tier": 5,
       "active": true,
-      "trainers": 5
+      "trainers": 5,
+      "nickname": [
+         "rayray"
+      ]
    },
    {
       "name": "jirachi",
