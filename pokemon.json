@@ -1,5 +1,5 @@
 {
-  "version": "20190303",
+  "version": "20190304",
   "pokemon_data": [
    {
       "tier": 1
@@ -326,7 +326,7 @@
       "name": "poliwrath",
       "number": 62,
       "tier": 4,
-      "active": true,
+      "active": false,
       "trainers": 5
    },
    {
@@ -371,6 +371,7 @@
       "name": "victreebel",
       "number": 71,
       "tier": 4,
+      "active": true,
       "trainers": 5
    },
    {
@@ -562,25 +563,25 @@
       "number": 104
    },
    {
-      "name": "Alolan Marowak",
+      "name": "Marowak",
       "number": 105,
       "tier": 4,
       "active": true,
-      "shiny": true,
+      "shiny": false,
       "trainers": 6
    },
    {
       "name": "hitmonlee",
       "number": 106,
       "tier": 3,
-      "active": true,
+      "active": false,
       "trainers": 3
    },
    {
       "name": "hitmonchan",
       "number": 107,
       "tier": 3,
-      "active": true,
+      "active": false,
       "trainers": 3
    },
    {
@@ -608,7 +609,7 @@
       "name": "rhydon",
       "number": 112,
       "tier": 4,
-      "active": true,
+      "active": false,
       "trainers": 4
    },
    {
@@ -622,6 +623,7 @@
       "name": "tangela",
       "number": 114,
       "tier": 3,
+      "active": true,
       "trainers": 3
    },
    {
@@ -703,7 +705,7 @@
       "name": "magikarp",
       "number": 129,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1,
       "nickname": [
@@ -832,7 +834,7 @@
       "name": "dratini",
       "number": 147,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -861,6 +863,8 @@
       "name": "chikorita",
       "number": 152,
       "tier": 1,
+      "active": true,
+      "shiny": true,
       "trainers": 1
    },
    {
@@ -1053,6 +1057,7 @@
       "name": "sunkern",
       "number": 191,
       "tier": 1,
+      "active": true,
       "shiny": true,
       "trainers": 1
    },
@@ -1255,7 +1260,7 @@
       "name": "donphan",
       "number": 232,
       "tier": 3,
-      "active": true,
+      "active": false,
       "trainers": 2
    },
    {
@@ -1372,7 +1377,7 @@
       "name": "grovyle",
       "number": 253,
       "tier": 2,
-      "active": false,
+      "active": true,
       "trainers": 1
    },
    {
@@ -1387,7 +1392,7 @@
       "name": "combusken",
       "number": 256,
       "tier": 2,
-      "active": true,
+      "active": false,
       "trainers": 1
    },
    {
@@ -1447,7 +1452,10 @@
    },
    {
       "name": "lotad",
-      "number": 270
+      "number": 270,
+      "tier": 1,
+      "active": true,
+      "trainers": 1
    },
    {
       "name": "lombre",
@@ -1469,7 +1477,7 @@
       "name": "shiftry",
       "number": 275,
       "tier": 4,
-      "active": false,
+      "active": true,
       "trainers": 4
    },
    {
@@ -1522,9 +1530,9 @@
    {
       "name": "breloom",
       "number": 286,
-      "tier": 2,
+      "tier": 3,
       "active": true,
-      "trainers": 1
+      "trainers": 2
    },
    {
       "name": "slakoth",
@@ -1566,7 +1574,7 @@
       "name": "makuhita",
       "number": 296,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -1627,7 +1635,7 @@
       "name": "meditite",
       "number": 307,
       "tier": 1,
-      "active": true,
+      "active": false,
       "shiny": true,
       "trainers": 1
    },
@@ -1674,7 +1682,8 @@
       "name": "roselia",
       "number": 315,
       "tier": 2,
-      "shiny": true,
+      "active": true,
+      "shiny": false,
       "trainers": 2
    },
    {
@@ -1746,7 +1755,10 @@
    },
    {
       "name": "cacnea",
-      "number": 331
+      "number": 331,
+      "tier": 1,
+      "active": true,
+      "trainers": 1
    },
    {
       "name": "cacturne",
@@ -2048,12 +2060,12 @@
       "number": 385
    },
    {
-      "name": "deoxys-attack",
+      "name": "deoxys-defense",
       "nickname": [
 		  "deoxys"
 	  ],
       "number": 386,
-      "trainers": 4,
+      "trainers": 6,
       "exclusive": true
    },
    {
@@ -2076,7 +2088,7 @@
       "name": "Monferno",
       "number": 391,
       "tier": 2,
-      "active": true,
+      "active": false,
       "trainers": 1
    },
    {
