@@ -1537,9 +1537,9 @@
         {
             "name": "breloom",
             "number": 286,
-            "tier": 2,
+            "tier": 3,
             "active": true,
-            "trainers": 1
+            "trainers": 2
         },
         {
             "name": "slakoth",
