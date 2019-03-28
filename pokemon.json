@@ -1,5 +1,5 @@
 {
-    "version": "20190320",
+    "version": "20190321",
     "pokemon_data": [
         {
             "tier": 1
@@ -2490,7 +2490,7 @@
             "name": "Dialga",
             "number": 483,
             "tier": 5,
-            "active": true,
+            "active": false,
             "trainers": 7,
             "nickname": [
                 "dial",
@@ -2524,6 +2524,7 @@
             "name": "Giratina",
             "number": 487,
             "tier": 5,
+            "active": true,
             "trainers": 10
         },
         {
