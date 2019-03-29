@@ -1,5 +1,5 @@
 {
-    "version": "20190321",
+    "version": "20190322",
     "pokemon_data": [
         {
             "tier": 1
@@ -371,7 +371,7 @@
             "name": "victreebel",
             "number": 71,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 5
         },
         {
@@ -502,7 +502,7 @@
             "name": "gengar",
             "number": 94,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -562,7 +562,7 @@
             "name": "Exeggutor",
             "number": 103,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -630,7 +630,7 @@
             "name": "tangela",
             "number": 114,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 3
         },
         {
@@ -853,7 +853,7 @@
             "name": "dragonite",
             "number": 149,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 5
         },
         {
@@ -870,7 +870,7 @@
             "name": "chikorita",
             "number": 152,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -988,7 +988,7 @@
             "name": "togetic",
             "number": 176,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 8
         },
         {
@@ -1064,7 +1064,7 @@
             "name": "sunkern",
             "number": 191,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1107,8 +1107,9 @@
             "name": "misdreavus",
             "number": 200,
             "tier": 2,
-            "active": false,
-            "trainers": 2
+            "active": true,
+            "shiny": true,
+            "trainers": 1
         },
         {
             "name": "unown",
@@ -1157,7 +1158,7 @@
             "name": "granbull",
             "number": 210,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -1182,7 +1183,7 @@
             "name": "sneasel",
             "number": 215,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1215,7 +1216,7 @@
             "number": 221,
             "tier": 3,
             "trainers": 2,
-            "active": false
+            "active": true
         },
         {
             "name": "corsola",
@@ -1252,8 +1253,8 @@
             "name": "houndoom",
             "number": 229,
             "tier": 4,
-            "active": false,
-            "trainers": 6
+            "active": true,
+            "trainers": 4
         },
         {
             "name": "kingdra",
@@ -1344,7 +1345,7 @@
             "name": "tyranitar",
             "number": 248,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 7,
             "nickname": [
                 "ttar"
@@ -1384,7 +1385,7 @@
             "name": "grovyle",
             "number": 253,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1461,7 +1462,7 @@
             "name": "lotad",
             "number": 270,
             "tier": 1,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1484,7 +1485,7 @@
             "name": "shiftry",
             "number": 275,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 4
         },
         {
@@ -1538,7 +1539,7 @@
             "name": "breloom",
             "number": 286,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -1611,7 +1612,7 @@
             "name": "sableye",
             "number": 302,
             "tier": 2,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1689,7 +1690,7 @@
             "name": "roselia",
             "number": 315,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 2
         },
@@ -1764,7 +1765,7 @@
             "name": "cacnea",
             "number": 331,
             "tier": 1,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1923,7 +1924,7 @@
             "name": "snorunt",
             "number": 361,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1972,7 +1973,10 @@
         },
         {
             "name": "bagon",
-            "number": 371
+            "number": 371,
+            "tier": 1,
+            "active": true,
+            "trainers": 1
         },
         {
             "name": "shelgon",
@@ -2249,7 +2253,7 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": false,
+            "active": true,
             "shiny": true,
             "tier": 1
         },
@@ -2525,7 +2529,7 @@
             "number": 487,
             "tier": 5,
             "active": true,
-            "trainers": 10
+            "trainers": 6
         },
         {
             "name": "Cresselia",
