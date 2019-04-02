@@ -1,5 +1,5 @@
 {
-    "version": "20190322",
+    "version": "20190323",
     "pokemon_data": [
         {
             "tier": 1
@@ -2525,11 +2525,14 @@
             "tier": 5
         },
         {
-            "name": "Giratina",
+            "name": "Giratina-origin",
             "number": 487,
             "tier": 5,
             "active": true,
-            "trainers": 6
+            "trainers": 6,
+            "nickname": [
+                "giratina"
+            ]
         },
         {
             "name": "Cresselia",
