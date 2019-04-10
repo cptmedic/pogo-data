@@ -1,5 +1,5 @@
 {
-    "version": "20190324",
+    "version": "20190409",
     "pokemon_data": [
         {
             "tier": 1
@@ -88,7 +88,7 @@
             "name": "caterpie",
             "number": 10,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -156,6 +156,7 @@
         },
         {
             "name": "Alolan Raichu",
+            "channelNickname": "A-Raichu",
             "number": 26,
             "tier": 3,
             "shiny": true,
@@ -506,7 +507,7 @@
             "name": "gengar",
             "number": 94,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -557,16 +558,17 @@
         },
         {
             "name": "Alolan Exeggutor",
+            "channelNickname": "A-Exeggutor",
             "number": 103,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
             "name": "Exeggutor",
             "number": 103,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -575,6 +577,7 @@
         },
         {
             "name": "Alolan Marowak",
+            "channelNickname": "A-Marowak",
             "number": 105,
             "tier": 4,
             "active": true,
@@ -676,7 +679,7 @@
             "name": "scyther",
             "number": 123,
             "tier": 3,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 2
         },
@@ -706,8 +709,8 @@
             "number": 127,
             "tier": 3,
             "shiny": true,
-            "active": true,
-            "trainers": 3
+            "active": false,
+            "trainers": 2
         },
         {
             "name": "tauros",
@@ -858,7 +861,7 @@
             "name": "dragonite",
             "number": 149,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 5
         },
         {
@@ -993,8 +996,8 @@
             "name": "togetic",
             "number": 176,
             "tier": 4,
-            "active": false,
-            "trainers": 8
+            "active": true,
+            "trainers": 5
         },
         {
             "name": "natu",
@@ -1112,8 +1115,8 @@
             "name": "misdreavus",
             "number": 200,
             "tier": 2,
-            "active": false,
             "shiny": true,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1132,8 +1135,8 @@
             "name": "pineco",
             "number": 204,
             "tier": 2,
-            "active": true,
             "shiny": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1164,7 +1167,7 @@
             "name": "granbull",
             "number": 210,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -1179,8 +1182,8 @@
             "name": "shuckle",
             "number": 213,
             "tier": 3,
-            "active": true,
-            "trainers": 5
+            "active": false,
+            "trainers": 4
         },
         {
             "name": "heracross",
@@ -1190,7 +1193,7 @@
             "name": "sneasel",
             "number": 215,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1223,7 +1226,7 @@
             "number": 221,
             "tier": 3,
             "trainers": 2,
-            "active": false
+            "active": true
         },
         {
             "name": "corsola",
@@ -1260,7 +1263,7 @@
             "name": "houndoom",
             "number": 229,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 4
         },
         {
@@ -1352,8 +1355,8 @@
             "name": "tyranitar",
             "number": 248,
             "tier": 4,
-            "active": true,
-            "trainers": 7,
+            "active": false,
+            "trainers": 5,
             "nickname": [
                 "ttar"
             ]
@@ -1538,7 +1541,7 @@
             "name": "masquerain",
             "number": 284,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1572,8 +1575,8 @@
             "name": "ninjask",
             "number": 291,
             "tier": 4,
-            "active": true,
-            "trainers": 4
+            "active": false,
+            "trainers": 3
         },
         {
             "name": "shedinja",
@@ -1625,7 +1628,7 @@
             "name": "sableye",
             "number": 302,
             "tier": 2,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1937,7 +1940,7 @@
             "name": "snorunt",
             "number": 361,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1988,8 +1991,11 @@
             "name": "bagon",
             "number": 371,
             "tier": 1,
-            "active": false,
-            "trainers": 1
+            "active": true,
+            "trainers": 1,
+            "nickname": [
+                "bacon"
+            ]
         },
         {
             "name": "shelgon",
@@ -2044,7 +2050,9 @@
             "name": "latios",
             "number": 381,
             "tier": 5,
-            "trainers": 8
+            "active": false,
+            "shiny": true,
+            "trainers": 6
         },
         {
             "name": "kyogre",
@@ -2094,7 +2102,8 @@
                 "deoxys"
             ],
             "number": 386,
-            "trainers": 4,
+            "tier": 5,
+            "trainers": 8,
             "exclusive": true
         },
         {
@@ -2162,7 +2171,7 @@
             "name": "Kricketot",
             "number": 401,
             "tier": 1,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -2225,7 +2234,7 @@
             "name": "Combee",
             "number": 415,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -2270,9 +2279,10 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": false,
+            "active": true,
             "shiny": true,
-            "tier": 1
+            "tier": 1,
+            "trainers": 1
         },
         {
             "name": "Drifblim",
@@ -2380,7 +2390,7 @@
             "name": "Skorupi",
             "number": 451,
             "tier": 1,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -2545,13 +2555,21 @@
             "tier": 5
         },
         {
-            "name": "Giratina-origin",
+            "name": "Giratina-Origin",
+            "channelNickname": "Giratina-O",
             "number": 487,
             "tier": 5,
+            "trainers": 5,
             "active": true,
-            "trainers": 6,
             "nickname": [
-                "giratina"
+                "tina",
+                "au gratin",
+                "giraffe",
+                "giratina",
+                "ghirardelli",
+                "giordanos",
+                "gira",
+                "giratina-o"
             ]
         },
         {
