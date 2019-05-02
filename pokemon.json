@@ -1,5 +1,5 @@
 {
-    "version": "20190429",
+    "version": "20190430",
     "pokemon_data": [
         {
             "tier": 1
@@ -2081,7 +2081,7 @@
             "name": "groudon",
             "number": 383,
             "tier": 5,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 9,
             "nickname": [
@@ -2563,7 +2563,9 @@
         {
             "name": "Regigigas",
             "number": 486,
-            "tier": 5
+            "tier": 5, 
+            "active": true,
+            "trainers": 10
         },
         {
             "name": "Giratina-Origin",
