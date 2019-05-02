@@ -2529,7 +2529,22 @@
         {
             "name": "Azelf",
             "number": 482,
-            "tier": 5
+            "tier": 5,
+            "active": true,
+            "trainers": 5,
+            "nickname": [
+                "Buddy",
+                "Zuul",
+                "Azelph",
+                "Dobby",
+                "Kreacher",
+                "Self",
+                "Access",
+                "Accept",
+                "Apple",
+                "Azleaf",
+                "Axel"
+            ]
         },
         {
             "name": "Dialga",
@@ -2564,7 +2579,7 @@
             "name": "Regigigas",
             "number": 486,
             "tier": 5, 
-            "active": true,
+            "active": false,
             "trainers": 10
         },
         {
