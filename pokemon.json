@@ -1,5 +1,5 @@
 {
-    "version": "20190430",
+    "version": "20190502b",
     "pokemon_data": [
         {
             "tier": 1
@@ -155,9 +155,16 @@
             "number": 25
         },
         {
-            "name": "Alolan Raichu",
-            "channelNickname": "A-Raichu",
+            "name": "Raichu",
             "number": 26,
+            "tier": 3,
+            "shiny": true,
+            "active": false,
+            "trainers": 2
+        },
+        {
+            "name": "Alolan Raichu",
+            "number": 10026,
             "tier": 3,
             "shiny": true,
             "active": true,
@@ -168,7 +175,7 @@
             "number": 27,
             "tier": 1,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -394,7 +401,7 @@
             "number": 74,
             "tier": 1,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -507,15 +514,15 @@
             "name": "gengar",
             "number": 94,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
             "name": "onix",
             "number": 95,
             "tier": 3,
-            "active": true,
-            "trainers": 3
+            "active": false,
+            "trainers": 4
         },
         {
             "name": "drowzee",
@@ -557,14 +564,6 @@
             "number": 102
         },
         {
-            "name": "Alolan Exeggutor",
-            "channelNickname": "A-Exeggutor",
-            "number": 103,
-            "tier": 2,
-            "active": true,
-            "trainers": 1
-        },
-        {
             "name": "Exeggutor",
             "number": 103,
             "tier": 2,
@@ -572,17 +571,33 @@
             "trainers": 1
         },
         {
+            "name": "Alolan Exeggutor",
+            "channelNickname": "A-Exeggutor",
+            "number": 10103,
+            "tier": 2,
+            "active": false,
+            "trainers": 1
+        },
+        {
             "name": "cubone",
             "number": 104,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
         {
+            "name": "Marowak",
+            "number": 105,
+            "tier": 4,
+            "active": false,
+            "shiny": true,
+            "trainers": 5
+        },
+        {
             "name": "Alolan Marowak",
             "channelNickname": "A-Marowak",
-            "number": 105,
+            "number": 10105,
             "tier": 4,
             "active": true,
             "shiny": true,
@@ -627,7 +642,7 @@
             "name": "rhydon",
             "number": 112,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 4
         },
         {
@@ -683,7 +698,7 @@
             "name": "scyther",
             "number": 123,
             "tier": 3,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 2
         },
@@ -1140,7 +1155,7 @@
             "number": 204,
             "tier": 2,
             "shiny": true,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1155,7 +1170,8 @@
             "name": "gligar",
             "number": 207,
             "tier": 2,
-            "active": true,
+            "active": false,
+            "shiny": false,
             "trainers": 1
         },
         {
@@ -1200,7 +1216,7 @@
             "name": "sneasel",
             "number": 215,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1228,7 +1244,7 @@
             "name": "swinub",
             "number": 220,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1274,7 +1290,7 @@
             "name": "houndoom",
             "number": 229,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 4
         },
         {
@@ -1289,7 +1305,7 @@
             "name": "donphan",
             "number": 232,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -1506,8 +1522,8 @@
             "name": "shiftry",
             "number": 275,
             "tier": 4,
-            "active": false,
-            "trainers": 4
+            "active": true,
+            "trainers": 3
         },
         {
             "name": "taillow",
@@ -1737,7 +1753,7 @@
             "name": "sharpedo",
             "number": 319,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1860,7 +1876,7 @@
             "name": "claydol",
             "number": 344,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 3
         },
         {
@@ -1907,7 +1923,7 @@
             "name": "shuppet",
             "number": 353,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1919,7 +1935,7 @@
             "name": "duskull",
             "number": 355,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -2071,7 +2087,7 @@
             "tier": 5,
             "active": false,
             "shiny": true,
-            "trainers": 9,
+            "trainers": 6,
             "nickname": [
                 "kroger",
                 "kyocera"
@@ -2083,9 +2099,12 @@
             "tier": 5,
             "active": false,
             "shiny": true,
-            "trainers": 9,
+            "trainers": 6,
             "nickname": [
-                "crouton"
+                "crouton",
+                "grouper",
+                "geodon",
+                "groupie"
             ]
         },
         {
@@ -2290,7 +2309,7 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": false,
+            "active": true,
             "shiny": true,
             "tier": 1,
             "trainers": 1
@@ -2578,9 +2597,7 @@
         {
             "name": "Regigigas",
             "number": 486,
-            "tier": 5, 
-            "active": false,
-            "trainers": 10
+            "tier": 5
         },
         {
             "name": "Giratina-Origin",
@@ -2593,7 +2610,6 @@
                 "tina",
                 "au gratin",
                 "giraffe",
-                "giratina",
                 "ghirardelli",
                 "giordanos",
                 "gira",
