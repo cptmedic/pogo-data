@@ -1,5 +1,5 @@
 {
-    "version": "20190508",
+    "version": "20190508b",
     "pokemon_data": [
         {
             "tier": 1
@@ -1971,7 +1971,7 @@
             "name": "absol",
             "number": 359,
             "tier": 4,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 4
         },
