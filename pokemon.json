@@ -1,5 +1,5 @@
 {
-    "version": "20190507",
+    "version": "20190507b",
     "pokemon_data": [
         {
             "tier": 1
@@ -299,8 +299,8 @@
             "name": "psyduck",
             "number": 54,
             "tier": 1,
-            "shiny": true,
-            "active": false,
+            "shiny": false,
+            "active": true,
             "trainers": 1
         },
         {
