@@ -1,5 +1,5 @@
 {
-    "version": "20190521",
+    "version": "20190521b",
     "pokemon_data": [
         {
             "tier": 1
@@ -161,7 +161,7 @@
             "number": 26,
             "tier": 3,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -169,7 +169,7 @@
             "number": 10026,
             "tier": 3,
             "shiny": true,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -601,7 +601,7 @@
             "name": "Marowak",
             "number": 105,
             "tier": 4,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 5
         },
@@ -610,7 +610,7 @@
             "channelNickname": "A-Marowak",
             "number": 10105,
             "tier": 4,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 5
         },
