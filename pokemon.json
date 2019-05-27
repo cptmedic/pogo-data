@@ -2576,7 +2576,7 @@
             "name": "Uxie",
             "number": 480,
             "tier": 5,
-            "active": true,
+            "active": false,
             "trainers": 8,
             "regions": ["apac"]
         },
@@ -2584,7 +2584,7 @@
             "name": "Mesprit",
             "number": 481,
             "tier": 5,
-            "active": true,
+            "active": false,
             "trainers": 7,
             "regions": ["emea"]
         },
@@ -2592,7 +2592,7 @@
             "name": "Azelf",
             "number": 482,
             "tier": 5,
-            "active": true,
+            "active": false,
             "trainers": 5,
             "regions": ["americas"],
             "nickname": [
@@ -2664,7 +2664,7 @@
             "name": "Cresselia",
             "number": 488,
             "tier": 5,
-            "active": false,
+            "active": true,
             "trainers": 10,
             "nickname": [
                 "cres",
