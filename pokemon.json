@@ -1,5 +1,5 @@
 {
-    "version": "20190527",
+    "version": "20190528",
     "pokemon_data": [
         {
             "tier": 1
@@ -160,7 +160,7 @@
             "name": "Raichu",
             "number": 26,
             "tier": 3,
-            "shiny": true,
+            "shiny": false,
             "active": false,
             "trainers": 2
         },
@@ -367,7 +367,7 @@
             "name": "machop",
             "number": 66,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -379,7 +379,7 @@
             "name": "machamp",
             "number": 68,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -525,7 +525,7 @@
             "name": "gengar",
             "number": 94,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -602,7 +602,7 @@
             "number": 105,
             "tier": 4,
             "active": false,
-            "shiny": true,
+            "shiny": false,
             "trainers": 5
         },
         {
@@ -660,7 +660,7 @@
             "name": "chansey",
             "number": 113,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -835,7 +835,7 @@
             "name": "aerodactyl",
             "number": 142,
             "tier": 3,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 2
         },
@@ -892,7 +892,7 @@
             "name": "dragonite",
             "number": 149,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 5
         },
         {
@@ -1232,7 +1232,7 @@
             "name": "sneasel",
             "number": 215,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1309,7 +1309,7 @@
             "name": "houndoom",
             "number": 229,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 4
         },
         {
@@ -1573,7 +1573,7 @@
             "name": "kirlia",
             "number": 281,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1606,7 +1606,7 @@
             "name": "slakoth",
             "number": 287,
             "tier": 1,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1678,7 +1678,7 @@
             "name": "sableye",
             "number": 302,
             "tier": 2,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1776,7 +1776,7 @@
             "name": "sharpedo",
             "number": 319,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1888,7 +1888,7 @@
             "name": "crawdaunt",
             "number": 342,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -1926,7 +1926,7 @@
             "name": "feebas",
             "number": 349,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2017,7 +2017,7 @@
             "name": "clamperl",
             "number": 366,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2071,7 +2071,7 @@
             "name": "metagross",
             "number": 376,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 6
         },
         {
@@ -2161,6 +2161,7 @@
             "number": 386,
             "trainers": 8,
             "tier": "ex",
+            "active": true,
             "exclusive": true
         },
         {
@@ -2224,7 +2225,7 @@
             "name": "Bibarel",
             "number": 400,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -2279,8 +2280,25 @@
             "number": 411
         },
         {
-            "name": "Burmy",
-            "number": 412
+            "name": "Burmy-sandy",
+            "number": 100412,
+            "active": true,
+            "tier": 1,
+            "trainers": 1
+        },
+        {
+            "name": "Burmy-plant",
+            "number": 412,
+            "active": true,
+            "tier": 1,
+            "trainers": 1
+        },
+        {
+            "name": "Burmy-trash",
+            "number": 100412,
+            "active": true,
+            "tier": 1,
+            "trainers": 1
         },
         {
             "name": "Wormadam",
@@ -2316,7 +2334,7 @@
             "name": "Floatzel",
             "number": 419,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -2342,7 +2360,7 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": false,
+            "active": true,
             "shiny": true,
             "tier": 1,
             "trainers": 1
@@ -2393,7 +2411,7 @@
             "name": "Bronzor",
             "number": 436,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2665,13 +2683,22 @@
             "number": 488,
             "tier": 5,
             "active": true,
-            "trainers": 10,
+            "shiny": true,
+            "trainers": 7,
             "nickname": [
                 "cres",
                 "cress",
                 "crest",
                 "crescent",
-                "croissant"
+                "croissant",
+                "luna",
+                "lovegood",
+                "swan",
+                "duck",
+                "creaks",
+                "crease",
+                "creased",
+                "creasing"
             ]
         },
         {
