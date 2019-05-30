@@ -1,5 +1,5 @@
 {
-    "version": "20190528",
+    "version": "20190529",
     "pokemon_data": [
         {
             "tier": 1
@@ -2280,22 +2280,29 @@
             "number": 411
         },
         {
-            "name": "Burmy-sandy",
-            "number": 100412,
-            "active": true,
-            "tier": 1,
-            "trainers": 1
-        },
-        {
-            "name": "Burmy-plant",
+            "name": "Burmy",
             "number": 412,
             "active": true,
             "tier": 1,
             "trainers": 1
         },
         {
+            "name": "Burmy-plant",
+            "number": 110412,
+            "active": true,
+            "tier": 1,
+            "trainers": 1
+        },
+		{
+			"name": "Burmy-sandy",
+			"number": 110413,
+			"active": true,
+			"tier": 1,
+			"trainers": 1
+		},
+        {
             "name": "Burmy-trash",
-            "number": 100412,
+            "number": 110414,
             "active": true,
             "tier": 1,
             "trainers": 1
