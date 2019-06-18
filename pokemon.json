@@ -1,5 +1,5 @@
 {
-    "version": "20190611",
+    "version": "20190618",
     "pokemon_data": [
         {
             "tier": 1
@@ -2122,7 +2122,7 @@
             "name": "kyogre",
             "number": 382,
             "tier": 5,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 6,
             "nickname": [
@@ -2699,7 +2699,7 @@
             "name": "Cresselia",
             "number": 488,
             "tier": 5,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 7,
             "nickname": [
