@@ -1,5 +1,5 @@
 {
-    "version": "20190618",
+    "version": "20190619",
     "pokemon_data": [
         {
             "tier": 1
@@ -45,6 +45,7 @@
             "name": "venusaur",
             "number": 3,
             "tier": 4,
+            "active": true,
             "trainers": 7
         },
         {
@@ -453,7 +454,7 @@
             "name": "magnemite",
             "number": 81,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -525,7 +526,7 @@
             "name": "gengar",
             "number": 94,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -579,7 +580,7 @@
             "name": "Exeggutor",
             "number": 103,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -668,7 +669,7 @@
             "name": "tangela",
             "number": 114,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 3
         },
         {
@@ -710,7 +711,7 @@
             "name": "scyther",
             "number": 123,
             "tier": 3,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 2
         },
@@ -725,7 +726,7 @@
             "name": "electabuzz",
             "number": 125,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -787,7 +788,7 @@
             "name": "jolteon",
             "number": 135,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 3
         },
         {
@@ -1043,7 +1044,7 @@
             "name": "mareep",
             "number": 179,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1152,7 +1153,7 @@
             "number": 200,
             "tier": 2,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1234,7 +1235,7 @@
             "name": "sneasel",
             "number": 215,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1312,7 +1313,7 @@
             "name": "houndoom",
             "number": 229,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 4
         },
         {
@@ -1521,7 +1522,7 @@
             "name": "lotad",
             "number": 270,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1601,8 +1602,8 @@
         {
             "name": "breloom",
             "number": 286,
-            "tier": 3,
-            "active": false,
+            "tier": 2,
+            "active": true,
             "trainers": 2
         },
         {
@@ -1682,7 +1683,7 @@
             "name": "sableye",
             "number": 302,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1729,7 +1730,7 @@
             "name": "manectric",
             "number": 310,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -1780,7 +1781,7 @@
             "name": "sharpedo",
             "number": 319,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1894,7 +1895,7 @@
             "name": "crawdaunt",
             "number": 342,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 2
         },
         {
@@ -2171,7 +2172,7 @@
             "number": 386,
             "trainers": 8,
             "tier": "ex",
-            "active": true,
+            "active": false,
             "exclusive": true
         },
         {
@@ -2292,28 +2293,28 @@
         {
             "name": "Burmy",
             "number": 412,
-            "active": true,
+            "active": false,
             "tier": 1,
             "trainers": 1
         },
         {
             "name": "Burmy-plant",
             "number": 110412,
-            "active": true,
+            "active": false,
             "tier": 1,
             "trainers": 1
         },
 		{
 			"name": "Burmy-sandy",
 			"number": 110413,
-			"active": true,
+			"active": false,
 			"tier": 1,
 			"trainers": 1
 		},
         {
             "name": "Burmy-trash",
             "number": 110414,
-            "active": true,
+            "active": false,
             "tier": 1,
             "trainers": 1
         },
@@ -2377,7 +2378,7 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": true,
+            "active": false,
             "shiny": true,
             "tier": 1,
             "trainers": 1
