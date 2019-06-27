@@ -1,5 +1,5 @@
 {
-    "version": "20190619",
+    "version": "20190627",
     "pokemon_data": [
         {
             "tier": 1
@@ -45,7 +45,7 @@
             "name": "venusaur",
             "number": 3,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 7
         },
         {
@@ -454,7 +454,7 @@
             "name": "magnemite",
             "number": 81,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -512,6 +512,7 @@
             "name": "cloyster",
             "number": 91,
             "tier": 2,
+            "active": true,
             "trainers": 3
         },
         {
@@ -700,7 +701,7 @@
             "name": "starmie",
             "number": 121,
             "tier": 3,
-            "active": false,
+            "active": true,
             "trainers": 2
         },
         {
@@ -726,7 +727,7 @@
             "name": "electabuzz",
             "number": 125,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -752,7 +753,7 @@
             "name": "magikarp",
             "number": 129,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1,
             "nickname": [
@@ -768,7 +769,8 @@
             "number": 131,
             "tier": 4,
             "trainers": 5,
-            "active": false
+            "active": true,
+            "shiny": true
         },
         {
             "name": "ditto",
@@ -788,7 +790,7 @@
             "name": "jolteon",
             "number": 135,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 3
         },
         {
@@ -1044,7 +1046,7 @@
             "name": "mareep",
             "number": 179,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1546,7 +1548,7 @@
             "name": "shiftry",
             "number": 275,
             "tier": 4,
-            "active": false,
+            "active": true,
             "trainers": 3
         },
         {
@@ -1730,7 +1732,7 @@
             "name": "manectric",
             "number": 310,
             "tier": 2,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1761,7 +1763,7 @@
             "name": "roselia",
             "number": 315,
             "tier": 2,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 2
         },
@@ -1788,7 +1790,7 @@
             "name": "wailmer",
             "number": 320,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -2123,7 +2125,7 @@
             "name": "kyogre",
             "number": 382,
             "tier": 5,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 6,
             "nickname": [
@@ -2135,7 +2137,7 @@
             "name": "groudon",
             "number": 383,
             "tier": 5,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 6,
             "nickname": [
@@ -2165,7 +2167,7 @@
             "number": 385
         },
         {
-            "name": "deoxys-defense",
+            "name": "deoxys-speed",
             "nickname": [
                 "deoxys"
             ],
