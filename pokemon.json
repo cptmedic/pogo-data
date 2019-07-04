@@ -1,5 +1,5 @@
 {
-    "version": "20190627",
+    "version": "20190704a",
     "pokemon_data": [
         {
             "tier": 1
@@ -46,7 +46,7 @@
             "number": 3,
             "tier": 4,
             "active": false,
-            "trainers": 7
+            "trainers": 5
         },
         {
             "name": "charmander",
@@ -189,7 +189,7 @@
             "trainers": 1
         },
         {
-            "name": "nidoran♀",
+            "name": "nidoran-f",
             "number": 29
         },
         {
@@ -203,8 +203,16 @@
             "trainers": 6
         },
         {
-            "name": "nidoran♂",
-            "number": 32
+            "name": "nidoran-m",
+            "number": 32,
+            "tier": 1,
+            "active": true,
+            "shiny": true,
+            "trainers": 1,
+            "nickname": [
+                "nidoran"
+            ]
+
         },
         {
             "name": "nidorino",
@@ -454,7 +462,7 @@
             "name": "magnemite",
             "number": 81,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -512,8 +520,8 @@
             "name": "cloyster",
             "number": 91,
             "tier": 2,
-            "active": true,
-            "trainers": 3
+            "trainers": 2,
+            "active": true
         },
         {
             "name": "gastly",
@@ -535,7 +543,7 @@
             "number": 95,
             "tier": 3,
             "active": false,
-			"shiny": true,
+            "shiny": true,
             "trainers": 2
         },
         {
@@ -671,7 +679,7 @@
             "number": 114,
             "tier": 3,
             "active": true,
-            "trainers": 3
+            "trainers": 2
         },
         {
             "name": "kangaskhan",
@@ -712,7 +720,7 @@
             "name": "scyther",
             "number": 123,
             "tier": 3,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 2
         },
@@ -753,7 +761,7 @@
             "name": "magikarp",
             "number": 129,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1,
             "nickname": [
@@ -1259,7 +1267,7 @@
             "name": "magcargo",
             "number": 219,
             "tier": 2,
-			"active": false,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1606,7 +1614,7 @@
             "number": 286,
             "tier": 2,
             "active": true,
-            "trainers": 2
+            "trainers": 1
         },
         {
             "name": "slakoth",
@@ -1716,7 +1724,7 @@
             "name": "meditite",
             "number": 307,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -1765,7 +1773,7 @@
             "tier": 2,
             "active": true,
             "shiny": true,
-            "trainers": 2
+            "trainers": 1
         },
         {
             "name": "gulpin",
@@ -1878,7 +1886,7 @@
             "number": 338,
             "tier": 3,
             "active": false,
-			"shiny": true,
+            "shiny": true,
             "trainers": 2
         },
         {
@@ -1915,8 +1923,8 @@
             "name": "lileep",
             "number": 345,
             "tier": 1,
-			"active": false,
-			"shiny": true,
+            "active": false,
+            "shiny": true,
             "trainers": 1
         },
         {
@@ -1927,8 +1935,8 @@
             "name": "anorith",
             "number": 347,
             "tier": 1,
-			"active": false,
-			"shiny": true,
+            "active": false,
+            "shiny": true,
             "trainers": 1
         },
         {
@@ -1939,7 +1947,7 @@
             "name": "feebas",
             "number": 349,
             "tier": 2,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -2172,9 +2180,9 @@
                 "deoxys"
             ],
             "number": 386,
-            "trainers": 8,
+            "trainers": 5,
             "tier": "ex",
-            "active": false,
+            "active": true,
             "exclusive": true
         },
         {
@@ -2306,16 +2314,16 @@
             "tier": 1,
             "trainers": 1
         },
-		{
-			"name": "Burmy-sandy",
-			"number": 110413,
-			"active": false,
-			"tier": 1,
-			"trainers": 1
-		},
+	{
+            "name": "Burmy-sandy",
+            "number": 120412,
+            "active": false,
+            "tier": 1,
+            "trainers": 1
+	},
         {
             "name": "Burmy-trash",
-            "number": 110414,
+            "number": 130412,
             "active": false,
             "tier": 1,
             "trainers": 1
