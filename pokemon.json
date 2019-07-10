@@ -1,5 +1,5 @@
 {
-    "version": "20190709",
+    "version": "20190710",
     "pokemon_data": [
         {
             "tier": 1
@@ -908,10 +908,21 @@
             "trainers": 5
         },
         {
-            "name": "mewtwo",
+            "name": "Mewtwo-A",
             "number": 150,
             "tier": 5,
-            "trainers": 7
+            "trainers": 6,
+            "active": true,
+            "nickname": [
+                "mewtwo",
+                "a mewtwo",
+                "mewtwo armored",
+                "armored mewtwo",
+                "a form mewtwo",
+                "mewtwo a form",
+                "mewtwo a",
+                "a-mewtwo"
+            ]
         },
         {
             "name": "mew",
@@ -2145,7 +2156,7 @@
             "name": "groudon",
             "number": 383,
             "tier": 5,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 6,
             "nickname": [
