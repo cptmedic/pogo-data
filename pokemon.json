@@ -1,5 +1,5 @@
 {
-    "version": "20190711",
+    "version": "20190726",
     "pokemon_data": [
         {
             "tier": 1
@@ -147,7 +147,11 @@
         },
         {
             "name": "ekans",
-            "number": 23
+            "number": 23,
+            "tier": 1,
+            "active": true,
+            "shiny": true,
+            "trainers": 1
         },
         {
             "name": "arbok",
@@ -185,7 +189,7 @@
             "name": "sandslash",
             "number": 28,
             "tier": 2,
-            "active": false,
+            "active": true,
             "trainers": 1
         },
         {
@@ -206,7 +210,7 @@
             "name": "nidoran-m",
             "number": 32,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1,
             "nickname": [
@@ -253,7 +257,11 @@
         },
         {
             "name": "zubat",
-            "number": 41
+            "number": 41,
+            "tier": 1,
+            "active": true,
+            "shiny": true,
+            "trainers": 1
         },
         {
             "name": "golbat",
@@ -265,7 +273,10 @@
         },
         {
             "name": "gloom",
-            "number": 44
+            "number": 44,
+            "tier": 2,
+            "active": true,
+            "trainers": 1
         },
         {
             "name": "vileplume",
@@ -299,7 +310,11 @@
         },
         {
             "name": "meowth",
-            "number": 52
+            "number": 52,
+            "tier": 1,
+            "active": true,
+            "shiny": false,
+            "trainers": 1
         },
         {
             "name": "persian",
@@ -403,8 +418,8 @@
             "name": "victreebel",
             "number": 71,
             "tier": 4,
-            "active": false,
-            "trainers": 5
+            "active": true,
+            "trainers": 4
         },
         {
             "name": "tentacool",
@@ -470,7 +485,8 @@
             "name": "magneton",
             "number": 82,
             "tier": 2,
-            "trainers": 2
+            "active": true,
+            "trainers": 1
         },
         {
             "name": "farfetch'd",
@@ -507,7 +523,8 @@
             "name": "muk",
             "number": 89,
             "tier": 2,
-            "trainers": 2
+            "active": true,
+            "trainers": 1
         },
         {
             "name": "shellder",
@@ -554,7 +571,10 @@
         },
         {
             "name": "hypno",
-            "number": 97
+            "number": 97,
+            "tier": 3,
+            "active": true,
+            "trainers": 2
         },
         {
             "name": "krabby",
@@ -605,7 +625,7 @@
             "name": "cubone",
             "number": 104,
             "tier": 1,
-            "active": false,
+            "active": true,
             "shiny": true,
             "trainers": 1
         },
@@ -649,7 +669,11 @@
         },
         {
             "name": "koffing",
-            "number": 109
+            "number": 109,
+            "tier": 1,
+            "active": true,
+            "shiny": true,
+            "trainers": 1
         },
         {
             "name": "weezing",
@@ -690,7 +714,7 @@
             "name": "horsea",
             "number": 116,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1271,6 +1295,7 @@
             "number": 215,
             "tier": 2,
             "active": true,
+            "shiny": true,
             "trainers": 1
         },
         {
@@ -2207,7 +2232,7 @@
             "number": 386,
             "trainers": 5,
             "tier": "ex",
-            "active": true,
+            "active": false,
             "exclusive": true
         },
         {
