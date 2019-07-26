@@ -1,5 +1,5 @@
 {
-    "version": "20190726",
+    "version": "20190726a",
     "pokemon_data": [
         {
             "tier": 1
@@ -617,7 +617,7 @@
             "channelNickname": "A-Exeggutor",
             "number": 10103,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -749,7 +749,7 @@
             "name": "scyther",
             "number": 123,
             "tier": 3,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 2
         },
@@ -1212,7 +1212,7 @@
             "number": 200,
             "tier": 2,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1232,7 +1232,7 @@
             "number": 204,
             "tier": 2,
             "shiny": true,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -1465,7 +1465,7 @@
             "name": "tyranitar",
             "number": 248,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 5,
             "nickname": [
                 "ttar"
@@ -1606,7 +1606,7 @@
             "name": "shiftry",
             "number": 275,
             "tier": 4,
-            "active": true,
+            "active": false,
             "trainers": 3
         },
         {
@@ -1751,7 +1751,7 @@
             "name": "mawile",
             "number": 303,
             "tier": 2,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -1841,7 +1841,7 @@
             "name": "sharpedo",
             "number": 319,
             "tier": 3,
-            "active": true,
+            "active": false,
             "trainers": 1
         },
         {
@@ -2017,7 +2017,7 @@
             "name": "shuppet",
             "number": 353,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2029,7 +2029,7 @@
             "name": "duskull",
             "number": 355,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2314,7 +2314,7 @@
             "name": "Shinx",
             "number": 403,
             "tier": 1,
-            "active": true,
+            "active": false,
             "shiny": true,
             "trainers": 1
         },
@@ -2438,7 +2438,7 @@
         {
             "name": "Drifloon",
             "number": 425,
-            "active": true,
+            "active": false,
             "shiny": true,
             "tier": 1,
             "trainers": 1
