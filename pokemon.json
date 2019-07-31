@@ -1,5 +1,5 @@
 {
-    "version": "20190731",
+    "version": "20190731a",
     "pokemon_data": [
         {
             "tier": 1
@@ -941,7 +941,7 @@
             "number": 150,
             "tier": 5,
             "trainers": 6,
-            "active": true,
+            "active": false,
             "nickname": [
                 "mewtwo",
                 "a mewtwo",
