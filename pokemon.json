@@ -1,5 +1,5 @@
 {
-    "version": "20190726a",
+    "version": "20190731",
     "pokemon_data": [
         {
             "tier": 1
@@ -2209,7 +2209,8 @@
             "name": "rayquaza",
             "number": 384,
             "tier": 5,
-            "active": false,
+            "active": true,
+            "shiny": true,
             "trainers": 4,
             "nickname": [
                 "ray",
