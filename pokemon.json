@@ -1,5 +1,5 @@
 {
-	"version": "20190902b",
+	"version": "20190909b",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -408,7 +408,7 @@
 			"name": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -563,7 +563,7 @@
 			"name": "gengar",
 			"number": 94,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 3
 		},
 		{
@@ -761,7 +761,7 @@
 			"name": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -1032,14 +1032,13 @@
 		},
 		{
 			"name": "feraligatr",
-			"number": 160,
-			"tier": 7
+			"number": 160
 		},
 		{
 			"name": "sentret",
 			"number": 161,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1186,7 +1185,7 @@
 			"name": "sunkern",
 			"number": 191,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1234,7 +1233,7 @@
 			"number": 200,
 			"tier": 2,
 			"shiny": true,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -1254,7 +1253,7 @@
 			"number": 204,
 			"tier": 2,
 			"shiny": true,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -1269,7 +1268,7 @@
 			"name": "gligar",
 			"number": 207,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1281,7 +1280,7 @@
 			"name": "snubbull",
 			"number": 209,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1307,7 +1306,7 @@
 			"name": "shuckle",
 			"number": 213,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4
 		},
@@ -1331,7 +1330,7 @@
 			"name": "ursaring",
 			"number": 217,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
@@ -1358,7 +1357,7 @@
 			"number": 221,
 			"tier": 3,
 			"trainers": 2,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "corsola",
@@ -1387,14 +1386,14 @@
 			"name": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 2
 		},
 		{
 			"name": "houndour",
 			"number": 228,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1402,7 +1401,7 @@
 			"name": "houndoom",
 			"number": 229,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -1417,7 +1416,7 @@
 			"name": "donphan",
 			"number": 232,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 2
 		},
 		{
@@ -1467,7 +1466,7 @@
 			"name": "raikou",
 			"number": 243,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7
 		},
@@ -1475,7 +1474,7 @@
 			"name": "entei",
 			"number": 244,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6
 		},
@@ -1483,7 +1482,7 @@
 			"name": "suicune",
 			"number": 245,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7
 		},
@@ -1640,7 +1639,7 @@
 			"name": "shiftry",
 			"number": 275,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 3
 		},
 		{
@@ -1879,7 +1878,7 @@
 			"name": "sharpedo",
 			"number": 319,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -2035,7 +2034,7 @@
 			"name": "feebas",
 			"number": 349,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2055,7 +2054,7 @@
 			"name": "shuppet",
 			"number": 353,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2067,7 +2066,7 @@
 			"name": "duskull",
 			"number": 355,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2272,14 +2271,42 @@
 			"number": 385
 		},
 		{
-			"name": "deoxys-speed",
+			"name": "deoxys",
 			"nickname": [
-				"deoxys"
+			    "deoxys-normal"
 			],
+			"number": 100386,
+			"trainers": 3,
+			"tier": 5,
+			"active": true
+		},
+		{
+			"name": "deoxys-attack",
+			"number": 110386,
+			"trainers": 2,
+			"tier": 5,
+			"active": true
+		},
+		{
+			"name": "deoxys-defense",
+			"number": 120386,
+			"trainers": 9,
+			"tier": 5,
+			"active": true
+		},
+		{
+			"name": "deoxys-speed",
+			"number": 130386,
+			"trainers": 7,
+			"tier": 5,
+			"active": true
+		},
+		{
+			"name": "deoxys-speed",
 			"number": 386,
-			"trainers": 5,
+			"trainers": 7,
 			"tier": "ex",
-			"active": true,
+			"active": false,
 			"exclusive": true
 		},
 		{
@@ -2361,7 +2388,7 @@
 			"name": "Shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
