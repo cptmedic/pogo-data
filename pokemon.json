@@ -1,5 +1,5 @@
 {
-	"version": "20190909b",
+	"version": "20190915",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -950,29 +950,14 @@
 			"trainers": 6
 		},
 		{
-			"name": "Mewtwo-A",
+			"name": "Mewtwo",
 			"number": 150,
 			"tier": 5,
 			"trainers": 6,
-			"active": false,
+			"active": true,
+			"shiny": true,
 			"nickname": [
 				"mewtwo",
-				"a mewtwo",
-				"mewtwo armored",
-				"armored mewtwo",
-				"a form mewtwo",
-				"mewtwo a form",
-				"mewtwo a",
-				"a-mewtwo",
-				"mewggron",
-				"metal mewtwo",
-				"mewpoo",
-				"cash grab",
-				"regipsychic",
-				"sephiroth",
-				"porcupine",
-				"metal gear",
-				"gundam",
 				"mew2"
 			]
 		},
