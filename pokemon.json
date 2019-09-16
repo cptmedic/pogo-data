@@ -1,5 +1,5 @@
 {
-	"version": "20190915",
+	"version": "20190916c",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -952,13 +952,14 @@
 		{
 			"name": "Mewtwo",
 			"number": 150,
-			"tier": 5,
+			"tier": 6,
 			"trainers": 6,
 			"active": true,
 			"shiny": true,
 			"nickname": [
 				"mewtwo",
-				"mew2"
+                "mew2",
+                "m2"
 			]
 		},
 		{
@@ -2867,6 +2868,31 @@
 			"name": "Arceus",
 			"number": 493,
 			"tier": 5
+		},
+		{
+			"name": "Patrat",
+			"number": 504,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1
+		},
+		{
+			"name": "Lillipup",
+			"number": 506,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1
+			
+		},
+		{
+			"name": "Klink",
+			"number": 599,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1
 		}
 	]
 }
