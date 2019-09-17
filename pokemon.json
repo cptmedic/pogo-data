@@ -1,5 +1,5 @@
 {
-	"version": "20190916c",
+	"version": "20190917",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -17,11 +17,14 @@
 			"tier": 5
 		},
 		{
+			"tier": 6
+		},
+		{
+			"tier": "ex",
 			"nickname": [
 				"ex",
 				"exclusive"
 			],
-			"tier": "ex",
 			"exclusive": true
 		},
 		{
@@ -174,8 +177,8 @@
 			"name": "Alolan Raichu",
 			"number": 10026,
 			"tier": 3,
-			"shiny": true,
 			"active": true,
+			"shiny": true,
 			"trainers": 2
 		},
 		{
@@ -953,13 +956,13 @@
 			"name": "Mewtwo",
 			"number": 150,
 			"tier": 6,
-			"trainers": 6,
+			"trainers": 9,
 			"active": true,
 			"shiny": true,
 			"nickname": [
 				"mewtwo",
-                "mew2",
-                "m2"
+				"mew2",
+				"m2"
 			]
 		},
 		{
@@ -1206,7 +1209,7 @@
 			"name": "murkrow",
 			"number": 198,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2040,7 +2043,7 @@
 			"name": "shuppet",
 			"number": 353,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2052,7 +2055,7 @@
 			"name": "duskull",
 			"number": 355,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2264,35 +2267,35 @@
 			"number": 100386,
 			"trainers": 3,
 			"tier": 5,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "deoxys-attack",
 			"number": 110386,
 			"trainers": 2,
 			"tier": 5,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "deoxys-defense",
 			"number": 120386,
 			"trainers": 9,
 			"tier": 5,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "deoxys-speed",
 			"number": 130386,
 			"trainers": 7,
 			"tier": 5,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "deoxys-speed",
 			"number": 386,
 			"trainers": 7,
 			"tier": "ex",
-			"active": false,
+			"active": true,
 			"exclusive": true
 		},
 		{
