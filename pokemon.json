@@ -1,5 +1,5 @@
 {
-	"version": "20190917",
+	"version": "20190923",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -957,7 +957,7 @@
 			"number": 150,
 			"tier": 6,
 			"trainers": 9,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"nickname": [
 				"mewtwo",
@@ -2809,12 +2809,12 @@
 			"tier": 5
 		},
 		{
-			"name": "Giratina-Origin",
-			"channelNickname": "Giratina-O",
+			"name": "Giratina-Altered",
+			"channelNickname": "Giratina-A",
 			"number": 487,
 			"tier": 5,
 			"trainers": 5,
-			"active": false,
+			"active": true,
 			"nickname": [
 				"tina",
 				"au gratin",
@@ -2822,7 +2822,7 @@
 				"ghirardelli",
 				"giordanos",
 				"gira",
-				"giratina-o"
+				"giratina-a"
 			]
 		},
 		{
