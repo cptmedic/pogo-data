@@ -1,5 +1,5 @@
 {
-	"version": "20190923",
+	"version": "20190925a",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -764,7 +764,7 @@
 			"name": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -949,7 +949,7 @@
 			"name": "dragonite",
 			"number": 149,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 6
 		},
 		{
@@ -1094,7 +1094,7 @@
 			"name": "togetic",
 			"number": 176,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5
 		},
 		{
@@ -1276,8 +1276,8 @@
 		{
 			"name": "granbull",
 			"number": 210,
-			"tier": 4,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"trainers": 5
 		},
 		{
@@ -1346,7 +1346,7 @@
 			"number": 221,
 			"tier": 3,
 			"trainers": 2,
-			"active": false
+			"active": true
 		},
 		{
 			"name": "corsola",
@@ -1487,7 +1487,7 @@
 			"name": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5,
 			"nickname": [
 				"ttar"
@@ -1628,7 +1628,7 @@
 			"name": "shiftry",
 			"number": 275,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 3
 		},
 		{
@@ -1769,7 +1769,7 @@
 			"name": "sableye",
 			"number": 302,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1867,7 +1867,7 @@
 			"name": "sharpedo",
 			"number": 319,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -2023,7 +2023,7 @@
 			"name": "feebas",
 			"number": 349,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2501,7 +2501,7 @@
 		{
 			"name": "Drifloon",
 			"number": 425,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"tier": 1,
 			"trainers": 1
@@ -2814,6 +2814,7 @@
 			"number": 487,
 			"tier": 5,
 			"trainers": 5,
+			"shiny": true,
 			"active": true,
 			"nickname": [
 				"tina",
@@ -2884,7 +2885,7 @@
 			"name": "Lillipup",
 			"number": 506,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 			
