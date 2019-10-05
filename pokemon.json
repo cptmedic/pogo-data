@@ -1,5 +1,5 @@
 {
-	"version": "20190925a",
+	"version": "20191005a",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -955,9 +955,9 @@
 		{
 			"name": "Mewtwo",
 			"number": 150,
-			"tier": 6,
+			"tier": "ex",
 			"trainers": 9,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"nickname": [
 				"mewtwo",
@@ -2294,8 +2294,8 @@
 			"name": "deoxys-speed",
 			"number": 386,
 			"trainers": 7,
-			"tier": "ex",
-			"active": true,
+			"tier": 5,
+			"active": false,
 			"exclusive": true
 		},
 		{
