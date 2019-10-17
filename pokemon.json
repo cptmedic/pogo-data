@@ -2861,7 +2861,9 @@
 		{
 			"name": "Darkrai",
 			"number": 491,
-			"tier": 5
+			"tier": 5,
+			"active": true,
+			"trainers": 6
 		},
 		{
 			"name": "Shaymin",
