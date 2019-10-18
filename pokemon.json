@@ -1,5 +1,5 @@
 {
-	"version": "20191017a",
+	"version": "20191018a",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -2815,7 +2815,7 @@
 			"tier": 5,
 			"trainers": 5,
 			"shiny": true,
-			"active": true,
+			"active": false,
 			"nickname": [
 				"tina",
 				"au gratin",
