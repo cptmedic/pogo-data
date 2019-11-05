@@ -1,5 +1,5 @@
 {
-	"version": "20191019b",
+	"version": "20191104c",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -71,7 +71,7 @@
 			"name": "charizard",
 			"number": 6,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5
 		},
 		{
@@ -252,7 +252,7 @@
 			"name": "ninetales",
 			"number": 38,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -343,7 +343,11 @@
 		},
 		{
 			"name": "mankey",
-			"number": 56
+			"number": 56,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1
 		},
 		{
 			"name": "primeape",
@@ -356,7 +360,7 @@
 			"number": 58,
 			"tier": 1,
 			"shiny": true,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -416,7 +420,7 @@
 			"name": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -449,7 +453,7 @@
 			"number": 74,
 			"tier": 1,
 			"shiny": true,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -791,7 +795,7 @@
 			"name": "magmar",
 			"number": 126,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -826,7 +830,7 @@
 			"number": 131,
 			"tier": 4,
 			"trainers": 5,
-			"active": true,
+			"active": false,
 			"shiny": true
 		},
 		{
@@ -855,7 +859,7 @@
 			"name": "flareon",
 			"number": 136,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -897,7 +901,7 @@
 			"name": "aerodactyl",
 			"number": 142,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -1001,7 +1005,8 @@
 		{
 			"name": "quilava",
 			"number": 156,
-			"tier": 1,
+			"tier": 2,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -1303,7 +1308,7 @@
 			"name": "shuckle",
 			"number": 213,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4
 		},
@@ -1315,7 +1320,7 @@
 			"name": "sneasel",
 			"number": 215,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1338,7 +1343,7 @@
 			"name": "magcargo",
 			"number": 219,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -1354,7 +1359,7 @@
 			"number": 221,
 			"tier": 3,
 			"trainers": 2,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "corsola",
@@ -1383,7 +1388,7 @@
 			"name": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -1391,7 +1396,7 @@
 			"name": "houndour",
 			"number": 228,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1496,7 +1501,7 @@
 			"name": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5,
 			"nickname": [
 				"ttar"
@@ -1556,7 +1561,10 @@
 		},
 		{
 			"name": "blaziken",
-			"number": 257
+			"number": 257,
+			"tier": 4,
+			"active": true,
+			"trainers": 5
 		},
 		{
 			"name": "mudkip",
@@ -1753,7 +1761,10 @@
 		},
 		{
 			"name": "hariyama",
-			"number": 297
+			"number": 297,
+			"tier": 3,
+			"active": true,
+			"trainers": 2
 		},
 		{
 			"name": "azurill",
@@ -1786,7 +1797,7 @@
 			"name": "mawile",
 			"number": 303,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1802,14 +1813,14 @@
 			"name": "aggron",
 			"number": 306,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 6
 		},
 		{
 			"name": "meditite",
 			"number": 307,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2008,7 +2019,7 @@
 			"name": "lileep",
 			"number": 345,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2020,7 +2031,7 @@
 			"name": "anorith",
 			"number": 347,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2096,7 +2107,7 @@
 			"name": "snorunt",
 			"number": 361,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2117,7 +2128,7 @@
 			"number": 365,
 			"tier": 4,
 			"trainers": 4,
-			"active": true
+			"active": false
 		},
 		{
 			"name": "clamperl",
@@ -2170,7 +2181,7 @@
 			"name": "beldum",
 			"number": 374,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2189,7 +2200,7 @@
 			"name": "regirock",
 			"number": 377,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 8
 		},
@@ -2197,7 +2208,7 @@
 			"name": "regice",
 			"number": 378,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 8
 		},
@@ -2205,7 +2216,7 @@
 			"name": "registeel",
 			"number": 379,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7
 		},
@@ -2640,7 +2651,10 @@
 		},
 		{
 			"name": "Croagunk",
-			"number": 453
+			"number": 453,
+			"tier": 1,
+			"active": true,
+			"trainers": 1
 		},
 		{
 			"name": "Toxicroak",
@@ -2925,6 +2939,16 @@
 			"active": true,
 			"shiny": true,
 			"trainers": 1
+		},
+		{
+			"name": "Cobalion",
+			"number": 638,
+			"tier": 5,
+			"active": true,
+			"trainers": 6,
+			"nickname": [
+				"Cobal"
+			]
 		}
 	]
 }
