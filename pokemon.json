@@ -1,5 +1,5 @@
 {
-	"version": "20191108b",
+	"version": "20191111",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -971,7 +971,7 @@
 		{
 			"name": "Mewtwo",
 			"number": 150,
-			"active": true,
+			"active": false,
 			"tier": "ex",
 			"trainers": 6,
 			"shiny": true,
@@ -2842,7 +2842,9 @@
 		{
 			"name": "Regigigas",
 			"number": 486,
-			"tier": 5
+			"tier": "ex",
+			"active": true,
+			"trainers": 8
 		},
 		{
 			"name": "Giratina-Altered",
