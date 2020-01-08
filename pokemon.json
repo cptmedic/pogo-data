@@ -1,5 +1,5 @@
 {
-	"version": "20200102a",
+	"version": "20200107b",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -65,7 +65,7 @@
 			"name": "charmeleon",
 			"number": 5,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -138,7 +138,7 @@
 			"name": "pidgeot",
 			"number": 18,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 2
 		},
 		{
@@ -150,7 +150,7 @@
 			"number": 20,
 			"tier": 2,
 			"active": true,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 1
 		},
 		{
@@ -161,7 +161,7 @@
 			"name": "fearow",
 			"number": 22,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -200,8 +200,8 @@
 			"name": "sandshrew",
 			"number": 27,
 			"tier": 1,
+			"active": true,
 			"shiny": true,
-			"active": false,
 			"trainers": 1
 		},
 		{
@@ -435,7 +435,7 @@
 			"name": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -479,7 +479,7 @@
 			"name": "golem",
 			"number": 76,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -597,7 +597,7 @@
 			"name": "onix",
 			"number": 95,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -629,8 +629,7 @@
 			"name": "kingler",
 			"number": 99,
 			"tier": 2,
-			"active": false,
-			"shiny": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -660,7 +659,7 @@
 			"channelNickname": "A-Exeggutor",
 			"number": 10103,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -675,10 +674,9 @@
 		{
 			"name": "Marowak",
 			"number": 105,
-			"tier": 4,
-			"active": false,
-			"shiny": false,
-			"trainers": 5
+			"tier": 2,
+			"active": true,
+			"trainers": 1
 		},
 		{
 			"name": "Alolan Marowak",
@@ -743,7 +741,7 @@
 			"name": "rhydon",
 			"number": 112,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -803,7 +801,7 @@
 			"name": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -844,7 +842,7 @@
 			"name": "magikarp",
 			"number": 129,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -875,7 +873,7 @@
 			"name": "vaporeon",
 			"number": 134,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -889,7 +887,7 @@
 			"name": "flareon",
 			"number": 136,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 2
 		},
 		{
@@ -988,7 +986,7 @@
 			"name": "dragonite",
 			"number": 149,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
@@ -1137,7 +1135,7 @@
 			"name": "togetic",
 			"number": 176,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
@@ -1312,7 +1310,7 @@
 			"name": "gligar",
 			"number": 207,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1429,14 +1427,14 @@
 			"name": "mantine",
 			"number": 226,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 2
 		},
 		{
 			"name": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -1467,7 +1465,7 @@
 			"name": "donphan",
 			"number": 232,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -1553,7 +1551,7 @@
 			"name": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5,
 			"nickname": [
 				"ttar"
@@ -1712,7 +1710,7 @@
 			"name": "swellow",
 			"number": 277,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -1734,7 +1732,7 @@
 			"name": "ralts",
 			"number": 280,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1768,7 +1766,7 @@
 			"name": "breloom",
 			"number": 286,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -1959,7 +1957,7 @@
 			"name": "wailmer",
 			"number": 320,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -2083,7 +2081,7 @@
 			"name": "claydol",
 			"number": 344,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -2427,7 +2425,10 @@
 		},
 		{
 			"name": "Prinplup",
-			"number": 394
+			"number": 394,
+			"tier": 2,
+			"active": true,
+			"trainers": 1
 		},
 		{
 			"name": "Empoleon",
@@ -2445,7 +2446,7 @@
 			"name": "Staraptor",
 			"number": 398,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
@@ -2913,8 +2914,13 @@
 			"name": "Heatran",
 			"number": 485,
 			"tier": 5,
-			"active": false,
-			"trainers": 8
+			"active": true,
+			"shiny": true,
+			"trainers": 6,
+			"nickname": [
+				"heater",
+				"heatboi"
+			]
 		},
 		{
 			"name": "Regigigas",
@@ -3001,6 +3007,14 @@
 			"name": "Tepig",
 			"number": 498,
 			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1
+		},
+		{
+			"name": "Oshawott",
+			"number": 501,
+			"tier": 1,
 			"active": true,
 			"shiny": false,
 			"trainers": 1
@@ -3026,7 +3040,7 @@
 			"name": "Pidove",
 			"number": 515,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1
 			
@@ -3035,7 +3049,7 @@
 			"name": "Excadrill",
 			"number": 530,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -3065,7 +3079,7 @@
 			"name": "Litwick",
 			"number": 607,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1
 		},
@@ -3103,7 +3117,7 @@
 			"name": "Virizion",
 			"number": 640,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"trainers": 5,
 			"nickname": [
 				"Verizon"
