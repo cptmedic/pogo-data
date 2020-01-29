@@ -1,5 +1,5 @@
 {
-	"version": "20200124b",
+	"version": "20200127",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -2300,7 +2300,7 @@
 			"name": "latias",
 			"number": 380,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7
 		},
@@ -2308,7 +2308,7 @@
 			"name": "latios",
 			"number": 381,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6
 		},
