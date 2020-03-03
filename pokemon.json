@@ -1,5 +1,5 @@
 {
-	"version": "20200302",
+	"version": "20200302a",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -36,7 +36,7 @@
 			"name": "bulbasaur",
 			"number": 1,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -50,14 +50,14 @@
 			"name": "venusaur",
 			"number": 3,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
 			"name": "charmander",
 			"number": 4,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -72,14 +72,14 @@
 			"name": "charizard",
 			"number": 6,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 5
 		},
 		{
 			"name": "squirtle",
 			"number": 7,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -93,7 +93,7 @@
 			"name": "blastoise",
 			"number": 9,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"trainers": 6
 		},
 		{
@@ -477,10 +477,19 @@
 			"number": 75
 		},
 		{
+			"name": "Alolan Graveler",
+			"channelNickname": "A-Graveler",
+			"number": 10075,
+			"tier": 2,
+			"active": true,
+			"shiny": false,
+			"trainers": 1
+		},
+		{
 			"name": "golem",
 			"number": 76,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -805,7 +814,7 @@
 			"name": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -813,7 +822,7 @@
 			"name": "jynx",
 			"number": 124,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -834,7 +843,7 @@
 			"name": "pinsir",
 			"number": 127,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -937,7 +946,7 @@
 			"name": "aerodactyl",
 			"number": 142,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2
 		},
@@ -1279,7 +1288,7 @@
 			"number": 200,
 			"tier": 2,
 			"shiny": true,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
@@ -1368,7 +1377,7 @@
 			"name": "sneasel",
 			"number": 215,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -1559,7 +1568,7 @@
 			"name": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5,
 			"nickname": [
 				"ttar"
@@ -1667,7 +1676,7 @@
 			"name": "beautifly",
 			"number": 267,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1
 		},
@@ -1885,7 +1894,7 @@
 			"name": "aggron",
 			"number": 306,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"trainers": 5
 		},
 		{
@@ -2520,7 +2529,10 @@
 		},
 		{
 			"name": "Cranidos",
-			"number": 408
+			"number": 408,
+			"tier": 1,
+			"active": true,
+			"trainers": 1
 		},
 		{
 			"name": "Rampardos",
@@ -2676,7 +2688,7 @@
 			"name": "Skuntank",
 			"number": 435,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2
 		},
@@ -2796,8 +2808,8 @@
 		{
 			"name": "Abomasnow",
 			"number": 460,
-			"tier": 4,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"trainers": 4
 		},
 		{
@@ -3071,7 +3083,7 @@
 			"name": "Liepard",
 			"number": 510,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1
 		},
@@ -3100,6 +3112,14 @@
 			"trainers": 1
 		},
 		{
+			"name": "Boldore",
+			"number": 525,
+			"tier": 2,
+			"active": true,
+			"shiny": false,
+			"trainers": 1
+		},
+		{
 			"name": "Excadrill",
 			"number": 530,
 			"tier": 4,
@@ -3124,7 +3144,7 @@
 			"name": "Dwebble",
 			"number": 557,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"trainers": 1
 		},
 		{
@@ -3146,7 +3166,7 @@
 			"name": "Klink",
 			"number": 599,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1
 		},
@@ -3154,7 +3174,7 @@
 			"name": "Litwick",
 			"number": 607,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1
 		},
@@ -3162,7 +3182,7 @@
 			"name": "Cubchoo",
 			"number": 613,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1
 		},
