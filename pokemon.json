@@ -1,5 +1,5 @@
 {
-	"version": "20200302a",
+	"version": "20200302b",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -1971,7 +1971,7 @@
 			"name": "sharpedo",
 			"number": 319,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"trainers": 1
 		},
 		{
