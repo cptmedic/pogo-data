@@ -1,5 +1,5 @@
 {
-	"version": "20200226a",
+	"version": "20200302",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -238,7 +238,8 @@
 		},
 		{
 			"name": "nidorino",
-			"number": 33
+			"number": 33,
+			"tier": 2
 		},
 		{
 			"name": "nidoking",
@@ -999,7 +1000,7 @@
 		{
 			"name": "Mewtwo-A",
 			"number": 150,
-			"active": true,
+			"active": false,
 			"tier": 5,
 			"trainers": 6,
 			"shiny": false,
@@ -3207,6 +3208,16 @@
 				"Tornado",
 				"Twister",
 				"Torn"
+			]
+		},
+		{
+			"name": "Thundurus",
+			"number": 642,
+			"tier": 5,
+			"active": true,
+			"trainers": 5,
+			"nickname": [
+				"Thunder"
 			]
 		}
 	]
