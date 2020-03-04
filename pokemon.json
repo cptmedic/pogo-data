@@ -1,5 +1,5 @@
 {
-	"version": "20200302b",
+	"version": "20200302d",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -1415,7 +1415,7 @@
 			"name": "piloswine",
 			"number": 221,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"trainers": 2
 		},
 		{
@@ -2532,6 +2532,7 @@
 			"number": 408,
 			"tier": 1,
 			"active": true,
+			"shiny": false,
 			"trainers": 1
 		},
 		{
@@ -2622,6 +2623,13 @@
 		{
 			"name": "Cherrim",
 			"number": 421
+		},
+		{
+			"name": "Cherrim-sunshine",
+			"number": 110421,
+			"nickname": [
+			    "cherrim sunny"
+		    ]
 		},
 		{
 			"name": "Shellos",
@@ -2810,7 +2818,7 @@
 			"number": 460,
 			"tier": 3,
 			"active": true,
-			"trainers": 4
+			"trainers": 2
 		},
 		{
 			"name": "Weavile",
