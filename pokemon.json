@@ -1,5 +1,5 @@
 {
-	"version": "20200302d",
+	"version": "20200306",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -3036,13 +3036,13 @@
 		},
 		{
 			"name": "Darkrai",
-			"nickname": [
-			    "dark"
-		    ],
 			"number": 491,
 			"tier": 5,
-			"active": false,
-			"trainers": 7
+			"active": true,
+			"trainers": 6,
+			"nickname": [
+			    "dark"
+		    ]
 		},
 		{
 			"name": "Shaymin",
