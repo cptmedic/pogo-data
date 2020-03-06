@@ -1,5 +1,5 @@
 {
-	"version": "20200306",
+	"version": "20200306a",
 	"pokemon_data": [
 		{
 			"tier": 1
@@ -3039,6 +3039,7 @@
 			"number": 491,
 			"tier": 5,
 			"active": true,
+			"shiny": true,
 			"trainers": 6,
 			"nickname": [
 			    "dark"
