@@ -1,26 +1,33 @@
 {
-	"version": "20200310b",
+	"version": "20200317b",
 	"pokemon_data": [
 		{
-			"tier": 1
+			"tier": 1,
+			"number": -1
 		},
 		{
-			"tier": 2
+			"tier": 2,
+			"number": -2
 		},
 		{
-			"tier": 3
+			"tier": 3,
+			"number": -3
 		},
 		{
-			"tier": 4
+			"tier": 4,
+			"number": -4
 		},
 		{
-			"tier": 5
+			"tier": 5,
+			"number": -5
 		},
 		{
-			"tier": 6
+			"tier": 6,
+			"number": -6
 		},
 		{
 			"tier": "ex",
+			"number": -99,
 			"nickname": [
 				"ex",
 				"exclusive"
@@ -33,833 +40,1578 @@
 			]
 		},
 		{
-			"name": "bulbasaur",
+			"name": "BULBASAUR",
+			"channelNickname": "bulbasaur",
 			"number": 1,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "ivysaur",
+			"name": "IVYSAUR",
+			"channelNickname": "ivysaur",
 			"number": 2,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "venusaur",
+			"name": "VENUSAUR",
+			"channelNickname": "venusaur",
 			"number": 3,
 			"tier": 4,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "charmander",
+			"name": "CHARMANDER",
+			"channelNickname": "charmander",
 			"number": 4,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "charmeleon",
+			"name": "CHARMELEON",
+			"channelNickname": "charmeleon",
 			"number": 5,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "charizard",
+			"name": "CHARIZARD",
+			"channelNickname": "charizard",
 			"number": 6,
 			"tier": 4,
-			"active": true,
-			"trainers": 4
+			"active": false,
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "squirtle",
+			"name": "SQUIRTLE",
+			"channelNickname": "squirtle",
 			"number": 7,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "wartortle",
+			"name": "WARTORTLE",
+			"channelNickname": "wartortle",
 			"number": 8,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "blastoise",
+			"name": "BLASTOISE",
+			"channelNickname": "blastoise",
 			"number": 9,
 			"tier": 4,
 			"active": false,
-			"trainers": 6
+			"shiny": false,
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "caterpie",
+			"name": "CATERPIE",
+			"channelNickname": "caterpie",
 			"number": 10,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "metapod",
+			"name": "METAPOD",
+			"channelNickname": "metapod",
 			"number": 11,
 			"tier": 1,
-			"trainers": 1
-		},
-		{
-			"name": "butterfree",
-			"number": 12
-		},
-		{
-			"name": "weedle",
-			"number": 13
-		},
-		{
-			"name": "kakuna",
-			"number": 14
-		},
-		{
-			"name": "beedrill",
-			"number": 15
-		},
-		{
-			"name": "pidgey",
-			"number": 16
-		},
-		{
-			"name": "pidgeotto",
-			"number": 17
-		},
-		{
-			"name": "pidgeot",
-			"number": 18,
-			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "rattata",
-			"number": 19
+			"name": "BUTTERFREE",
+			"channelNickname": "butterfree",
+			"number": 12,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "raticate",
+			"name": "WEEDLE",
+			"channelNickname": "weedle",
+			"number": 13,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KAKUNA",
+			"channelNickname": "kakuna",
+			"number": 14,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BEEDRILL",
+			"channelNickname": "beedrill",
+			"number": 15,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PIDGEY",
+			"channelNickname": "pidgey",
+			"number": 16,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PIDGEOTTO",
+			"channelNickname": "pidgeotto",
+			"number": 17,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PIDGEOTTO",
+			"channelNickname": "pidgeotto",
+			"number": 17,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "RATTATA",
+			"channelNickname": "rattata",
+			"number": 19,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "RATTATA ALOLA",
+			"channelNickname": "a-rattata",
+			"number": 10019,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-rattata",
+				"rattata-alola",
+				"alolan-rattata",
+				"rattata-alolan"
+			]
+		},
+		{
+			"name": "RATICATE",
+			"channelNickname": "raticate",
 			"number": 20,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "spearow",
-			"number": 21
+			"name": "RATICATE ALOLA",
+			"channelNickname": "a-raticate",
+			"number": 10020,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-raticate",
+				"raticate-alola",
+				"alolan-raticate",
+				"raticate-alolan"
+			]
 		},
 		{
-			"name": "fearow",
+			"name": "SPEAROW",
+			"channelNickname": "spearow",
+			"number": 21,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FEAROW",
+			"channelNickname": "fearow",
 			"number": 22,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "ekans",
+			"name": "EKANS",
+			"channelNickname": "ekans",
 			"number": 23,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "arbok",
-			"number": 24
+			"name": "ARBOK",
+			"channelNickname": "arbok",
+			"number": 24,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "pikachu",
-			"number": 25
+			"name": "PIKACHU",
+			"channelNickname": "pikachu",
+			"number": 25,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Raichu",
+			"name": "RAICHU",
+			"channelNickname": "raichu",
 			"number": 26,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Alolan Raichu",
-			"channelNickname": "A-Raichu",
+			"name": "RAICHU ALOLA",
+			"channelNickname": "a-raichu",
 			"number": 10026,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": [
+				"alola-raichu",
+				"raichu-alola",
+				"alolan-raichu",
+				"raichu-alolan"
+			]
 		},
 		{
-			"name": "sandshrew",
+			"name": "SANDSHREW",
+			"channelNickname": "sandshrew",
 			"number": 27,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "sandslash",
+			"name": "SANDSHREW ALOLA",
+			"channelNickname": "a-sandshrew",
+			"number": 10027,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-sandshrew",
+				"sandshrew-alola",
+				"alolan-sandshrew",
+				"sandshrew-alolan"
+			]
+		},
+		{
+			"name": "SANDSLASH",
+			"channelNickname": "sandslash",
 			"number": 28,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "nidoran-f",
-			"number": 29
+			"name": "SANDSLASH ALOLA",
+			"channelNickname": "a-sandslash",
+			"number": 10028,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-sandslash",
+				"sandslash-alola",
+				"alolan-sandslash",
+				"sandslash-alolan"
+			]
 		},
 		{
-			"name": "nidorina",
-			"number": 30
+			"name": "NIDORAN",
+			"channelNickname": "nidoran",
+			"number": 29,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "nidoqueen",
+			"name": "NIDORINA",
+			"channelNickname": "nidorina",
+			"number": 30,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "NIDOQUEEN",
+			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 4,
-			"trainers": 6
+			"active": false,
+			"shiny": false,
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "nidoran-m",
+			"name": "NIDORAN",
+			"channelNickname": "nidoran",
 			"number": 32,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": [
-				"nidoran"
-			]
+			"nickname": null
 		},
 		{
-			"name": "nidorino",
+			"name": "NIDORINO",
+			"channelNickname": "nidorino",
 			"number": 33,
-			"tier": 2
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "nidoking",
+			"name": "NIDOKING",
+			"channelNickname": "nidoking",
 			"number": 34,
 			"tier": 4,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "clefairy",
-			"number": 35
+			"name": "CLEFAIRY",
+			"channelNickname": "clefairy",
+			"number": 35,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "clefable",
+			"name": "CLEFABLE",
+			"channelNickname": "clefable",
 			"number": 36,
 			"tier": 3,
-			"active": true,
-			"trainers": 2
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "vulpix",
-			"number": 37
+			"name": "VULPIX",
+			"channelNickname": "vulpix",
+			"number": 37,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ninetales",
+			"name": "VULPIX ALOLA",
+			"channelNickname": "a-vulpix",
+			"number": 10037,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-vulpix",
+				"vulpix-alola",
+				"alolan-vulpix",
+				"vulpix-alolan"
+			]
+		},
+		{
+			"name": "NINETALES",
+			"channelNickname": "ninetales",
 			"number": 38,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "jigglypuff",
-			"number": 39
+			"name": "NINETALES ALOLA",
+			"channelNickname": "a-ninetales",
+			"number": 10038,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-ninetails",
+				"ninetails-alola",
+				"alolan-ninetails",
+				"ninetails-alolan"
+			]
 		},
 		{
-			"name": "wigglytuff",
-			"number": 40
+			"name": "JIGGLYPUFF",
+			"channelNickname": "jigglypuff",
+			"number": 39,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "zubat",
+			"name": "WIGGLYTUFF",
+			"channelNickname": "wigglytuff",
+			"number": 40,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZUBAT",
+			"channelNickname": "zubat",
 			"number": 41,
 			"tier": 1,
-			"shiny": true,
 			"active": false,
-			"trainers": 1
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "golbat",
-			"number": 42
+			"name": "GOLBAT",
+			"channelNickname": "golbat",
+			"number": 42,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "oddish",
-			"number": 43
+			"name": "ODDISH",
+			"channelNickname": "oddish",
+			"number": 43,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "gloom",
+			"name": "GLOOM",
+			"channelNickname": "gloom",
 			"number": 44,
 			"tier": 2,
 			"active": false,
 			"shiny": false,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "vileplume",
-			"number": 45
+			"name": "VILEPLUME",
+			"channelNickname": "vileplume",
+			"number": 45,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "paras",
-			"number": 46
+			"name": "PARAS",
+			"channelNickname": "paras",
+			"number": 46,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "parasect",
-			"number": 47
+			"name": "PARASECT",
+			"channelNickname": "parasect",
+			"number": 47,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "venonat",
-			"number": 48
+			"name": "VENONAT",
+			"channelNickname": "venonat",
+			"number": 48,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "venomoth",
+			"name": "VENOMOTH",
+			"channelNickname": "venomoth",
 			"number": 49,
 			"tier": 2,
-			"trainers": 2
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "diglett",
-			"number": 50
+			"name": "DIGLETT",
+			"channelNickname": "diglett",
+			"number": 50,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "dugtrio",
-			"number": 51
+			"name": "DIGLETT ALOLA",
+			"channelNickname": "a-diglett",
+			"number": 10050,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-diglett",
+				"diglett-alola",
+				"alolan-diglett",
+				"diglett-alolan"
+			]
 		},
 		{
-			"name": "meowth",
+			"name": "DUGTRIO",
+			"channelNickname": "dugtrio",
+			"number": 51,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DUGTRIO ALOLA",
+			"channelNickname": "a-dugtrio",
+			"number": 10051,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-dugtrio",
+				"dugtrio-alola",
+				"alolan-dugtrio",
+				"dugtrio-alolan"
+			]
+		},
+		{
+			"name": "MEOWTH",
+			"channelNickname": "meowth",
 			"number": 52,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "persian",
+			"name": "MEOWTH ALOLA",
+			"channelNickname": "a-meowth",
+			"number": 10052,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-meowth",
+				"meowth-alola",
+				"alolan-meowth",
+				"meowth-alolan"
+			]
+		},
+		{
+			"name": "PERSIAN",
+			"channelNickname": "persian",
 			"number": 53,
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "psyduck",
+			"name": "PERSIAN ALOLA",
+			"channelNickname": "a-persian",
+			"number": 10053,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-persian",
+				"persian-alola",
+				"alolan-persian",
+				"persian-alolan"
+			]
+		},
+		{
+			"name": "PSYDUCK",
+			"channelNickname": "psyduck",
 			"number": 54,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "golduck",
-			"number": 55
+			"name": "GOLDUCK",
+			"channelNickname": "golduck",
+			"number": 55,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "mankey",
+			"name": "MANKEY",
+			"channelNickname": "mankey",
 			"number": 56,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "primeape",
+			"name": "PRIMEAPE",
+			"channelNickname": "primeape",
 			"number": 57,
 			"tier": 2,
-			"trainers": 2
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "growlithe",
+			"name": "GROWLITHE",
+			"channelNickname": "growlithe",
 			"number": 58,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "arcanine",
+			"name": "ARCANINE",
+			"channelNickname": "arcanine",
 			"number": 59,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "poliwag",
+			"name": "POLIWAG",
+			"channelNickname": "poliwag",
 			"number": 60,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "poliwhirl",
-			"number": 61
+			"name": "POLIWHIRL",
+			"channelNickname": "poliwhirl",
+			"number": 61,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "poliwrath",
+			"name": "POLIWRATH",
+			"channelNickname": "poliwrath",
 			"number": 62,
 			"tier": 4,
 			"active": false,
-			"trainers": 7
+			"shiny": false,
+			"trainers": 7,
+			"nickname": null
 		},
 		{
-			"name": "abra",
-			"number": 63
+			"name": "ABRA",
+			"channelNickname": "abra",
+			"number": 63,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "kadabra",
-			"number": 64
+			"name": "KADABRA",
+			"channelNickname": "kadabra",
+			"number": 64,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "alakazam",
+			"name": "ALAKAZAM",
+			"channelNickname": "alakazam",
 			"number": 65,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "machop",
+			"name": "MACHOP",
+			"channelNickname": "machop",
 			"number": 66,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "machoke",
-			"number": 67
+			"name": "MACHOKE",
+			"channelNickname": "machoke",
+			"number": 67,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "machamp",
+			"name": "MACHAMP",
+			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": true,
-			"trainers": 2
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "bellsprout",
-			"number": 69
+			"name": "BELLSPROUT",
+			"channelNickname": "bellsprout",
+			"number": 69,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "weepinbell",
-			"number": 70
+			"name": "WEEPINBELL",
+			"channelNickname": "weepinbell",
+			"number": 70,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "victreebel",
+			"name": "VICTREEBEL",
+			"channelNickname": "victreebel",
 			"number": 71,
 			"tier": 4,
 			"active": false,
-			"trainers": 4
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "tentacool",
-			"number": 72
-		},
-		{
-			"name": "tentacruel",
-			"number": 73,
-			"tier": 2,
-			"trainers": 2
-		},
-		{
-			"name": "geodude",
-			"number": 74,
+			"name": "TENTACOOL",
+			"channelNickname": "tentacool",
+			"number": 72,
 			"tier": 1,
-			"shiny": true,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "graveler",
-			"number": 75
-		},
-		{
-			"name": "Alolan Graveler",
-			"channelNickname": "A-Graveler",
-			"number": 10075,
+			"name": "TENTACRUEL",
+			"channelNickname": "tentacruel",
+			"number": 73,
 			"tier": 2,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "golem",
+			"name": "GEODUDE",
+			"channelNickname": "geodude",
+			"number": 74,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "GEODUDE ALOLA",
+			"channelNickname": "a-geodude",
+			"number": 10074,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-geodude",
+				"geodude-alola",
+				"alolan-geodude",
+				"geodude-alolan"
+			]
+		},
+		{
+			"name": "GRAVELER",
+			"channelNickname": "graveler",
+			"number": 75,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GRAVELER ALOLA",
+			"channelNickname": "a-graveler",
+			"number": 10075,
+			"tier": 2,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": [
+				"alola-graveler",
+				"graveler-alola",
+				"alolan-graveler",
+				"graveler-alolan"
+			]
+		},
+		{
+			"name": "GOLEM",
+			"channelNickname": "golem",
 			"number": 76,
 			"tier": 4,
-			"active": false,
-			"trainers": 4
+			"active": true,
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "ponyta",
+			"name": "GOLEM ALOLA",
+			"channelNickname": "a-golem",
+			"number": 10076,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-golem",
+				"golem-alola",
+				"alolan-golem",
+				"golem-alolan"
+			]
+		},
+		{
+			"name": "PONYTA",
+			"channelNickname": "ponyta",
 			"number": 77,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "rapidash",
+			"name": "RAPIDASH",
+			"channelNickname": "rapidash",
 			"number": 78,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "slowpoke",
-			"number": 79
+			"name": "SLOWPOKE",
+			"channelNickname": "slowpoke",
+			"number": 79,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "slowbro",
+			"name": "SLOWBRO",
+			"channelNickname": "slowbro",
 			"number": 80,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "magnemite",
+			"name": "MAGNEMITE",
+			"channelNickname": "magnemite",
 			"number": 81,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "magneton",
+			"name": "MAGNETON",
+			"channelNickname": "magneton",
 			"number": 82,
 			"tier": 2,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "farfetch'd",
-			"number": 83
+			"name": "FARFETCHD",
+			"channelNickname": "farfetchd",
+			"number": 83,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": null,
+			"nickname": [
+				"farfetch'd"
+			]
 		},
 		{
-			"name": "doduo",
-			"number": 84
+			"name": "DODUO",
+			"channelNickname": "doduo",
+			"number": 84,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "dodrio",
-			"number": 85
+			"name": "DODRIO",
+			"channelNickname": "dodrio",
+			"number": 85,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "seel",
+			"name": "SEEL",
+			"channelNickname": "seel",
 			"number": 86,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "dewgong",
+			"name": "DEWGONG",
+			"channelNickname": "dewgong",
 			"number": 87,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "grimer",
-			"channelNickname": "A-Grimer",
+			"name": "GRIMER",
+			"channelNickname": "grimer",
 			"number": 88,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "muk",
+			"name": "GRIMER ALOLA",
+			"channelNickname": "a-grimer",
+			"number": 10088,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": [
+				"alola-grimer",
+				"grimer-alola",
+				"alolan-grimer",
+				"grimer-alolan"
+			],
+			"image_name": "alolan grimer"
+		},
+		{
+			"name": "MUK",
+			"channelNickname": "muk",
 			"number": 89,
 			"tier": 2,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "shellder",
+			"name": "MUK ALOLA",
+			"channelNickname": "alolan-muk",
+			"number": 10089,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"alola-muk",
+				"muk-alola",
+				"alolan-muk",
+				"muk-alolan"
+			]
+		},
+		{
+			"name": "SHELLDER",
+			"channelNickname": "shellder",
 			"number": 90,
 			"tier": 1,
 			"active": false,
-			"shiny": true
+			"shiny": true,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "cloyster",
+			"name": "CLOYSTER",
+			"channelNickname": "cloyster",
 			"number": 91,
 			"tier": 2,
-			"active": true,
-			"trainers": 2
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "gastly",
-			"number": 92
+			"name": "GASTLY",
+			"channelNickname": "gastly",
+			"number": 92,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "haunter",
+			"name": "HAUNTER",
+			"channelNickname": "haunter",
 			"number": 93,
 			"tier": 2,
-			"active": true,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "gengar",
+			"name": "GENGAR",
+			"channelNickname": "gengar",
 			"number": 94,
 			"tier": 3,
 			"active": false,
-			"trainers": 3
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "onix",
+			"name": "ONIX",
+			"channelNickname": "onix",
 			"number": 95,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "drowzee",
+			"name": "DROWZEE",
+			"channelNickname": "drowzee",
 			"number": 96,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "hypno",
+			"name": "HYPNO",
+			"channelNickname": "hypno",
 			"number": 97,
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 3
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "krabby",
+			"name": "KRABBY",
+			"channelNickname": "krabby",
 			"number": 98,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "kingler",
+			"name": "KINGLER",
+			"channelNickname": "kingler",
 			"number": 99,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "voltorb",
-			"number": 100
+			"name": "VOLTORB",
+			"channelNickname": "voltorb",
+			"number": 100,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "electrode",
+			"name": "ELECTRODE",
+			"channelNickname": "electrode",
 			"number": 101,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "exeggcute",
-			"number": 102
+			"name": "EXEGGCUTE",
+			"channelNickname": "exeggcute",
+			"number": 102,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Exeggutor",
+			"name": "EXEGGUTOR",
+			"channelNickname": "exeggutor",
 			"number": 103,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Alolan Exeggutor",
-			"channelNickname": "A-Exeggutor",
+			"name": "EXEGGUTOR ALOLA",
+			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": [
+				"alola-exeggutor",
+				"exeggutor-alola",
+				"alolan-exeggutor",
+				"exeggutor-alolan"
+			]
 		},
 		{
-			"name": "cubone",
+			"name": "CUBONE",
+			"channelNickname": "cubone",
 			"number": 104,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Marowak",
+			"name": "MAROWAK",
+			"channelNickname": "marowak",
 			"number": 105,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Alolan Marowak",
-			"channelNickname": "A-Marowak",
+			"name": "MAROWAK ALOLA",
+			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 5
-		},
-		{
-			"name": "hitmonlee",
-			"number": 106,
-			"tier": 3,
-			"active": false,
-			"trainers": 3
-		},
-		{
-			"name": "hitmonchan",
-			"number": 107,
-			"tier": 3,
-			"active": false,
-			"trainers": 3
-		},
-		{
-			"name": "lickitung",
-			"number": 108,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "koffing",
-			"number": 109,
-			"tier": 1,
-			"shiny": true,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "weezing",
-			"number": 110,
-			"tier": 2,
-			"active": false,
-			"trainers": 2
-		},
-		{
-			"name": "weezing-galarian",
-			"number": 310110,
-			"tier": 4,
-			"active": false,
 			"trainers": 5,
 			"nickname": [
-			    "weezing"
+				"alola-marowak",
+				"marowak-alola",
+				"alolan-marowak",
+				"marowak-alolan"
 			]
 		},
 		{
-			"name": "rhyhorn",
-			"number": 111
+			"name": "HITMONLEE",
+			"channelNickname": "hitmonlee",
+			"number": 106,
+			"tier": 3,
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "rhydon",
+			"name": "HITMONCHAN",
+			"channelNickname": "hitmonchan",
+			"number": 107,
+			"tier": 3,
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
+		},
+		{
+			"name": "LICKITUNG",
+			"channelNickname": "lickitung",
+			"number": 108,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "KOFFING",
+			"channelNickname": "koffing",
+			"number": 109,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "WEEZING",
+			"channelNickname": "weezing",
+			"number": 110,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
+		},
+		{
+			"name": "WEEZING GALARIAN",
+			"channelNickname": "weezing-galarian",
+			"number": 310110,
+			"tier": 4,
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": [
+				"galar-weezing",
+				"weezing-galar",
+				"galarian-weezing",
+				"weezing-galarian"
+			]
+		},
+		{
+			"name": "RHYHORN",
+			"channelNickname": "rhyhorn",
+			"number": 111,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "RHYDON",
+			"channelNickname": "rhydon",
 			"number": 112,
 			"tier": 4,
 			"active": false,
-			"trainers": 4
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "chansey",
+			"name": "CHANSEY",
+			"channelNickname": "chansey",
 			"number": 113,
 			"tier": 4,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "tangela",
+			"name": "TANGELA",
+			"channelNickname": "tangela",
 			"number": 114,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "kangaskhan",
-			"number": 115
+			"name": "KANGASKHAN",
+			"channelNickname": "kangaskhan",
+			"number": 115,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "horsea",
+			"name": "HORSEA",
+			"channelNickname": "horsea",
 			"number": 116,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "seadra",
-			"number": 117
+			"name": "SEADRA",
+			"channelNickname": "seadra",
+			"number": 117,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "goldeen",
-			"number": 118
+			"name": "GOLDEEN",
+			"channelNickname": "goldeen",
+			"number": 118,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "seaking",
-			"number": 119
+			"name": "SEAKING",
+			"channelNickname": "seaking",
+			"number": 119,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "staryu",
-			"number": 120
+			"name": "STARYU",
+			"channelNickname": "staryu",
+			"number": 120,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "starmie",
+			"name": "STARMIE",
+			"channelNickname": "starmie",
 			"number": 121,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "mr. mime",
-			"number": 122
+			"name": "MR MIME",
+			"channelNickname": "mr-mime",
+			"number": 122,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": [
+				"mr-mime"
+			]
 		},
 		{
-			"name": "scyther",
+			"name": "SCYTHER",
+			"channelNickname": "scyther",
 			"number": 123,
 			"tier": 3,
 			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "jynx",
+			"name": "JYNX",
+			"channelNickname": "jynx",
 			"number": 124,
 			"tier": 3,
-			"active": false,
-			"trainers": 2
+			"active": true,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "electabuzz",
+			"name": "ELECTABUZZ",
+			"channelNickname": "electabuzz",
 			"number": 125,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "magmar",
+			"name": "MAGMAR",
+			"channelNickname": "magmar",
 			"number": 126,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "pinsir",
+			"name": "PINSIR",
+			"channelNickname": "pinsir",
 			"number": 127,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "tauros",
-			"number": 128
+			"name": "TAUROS",
+			"channelNickname": "tauros",
+			"number": 128,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "magikarp",
+			"name": "MAGIKARP",
+			"channelNickname": "magikarp",
 			"number": 129,
 			"tier": 1,
 			"active": false,
@@ -870,104 +1622,151 @@
 			]
 		},
 		{
-			"name": "gyarados",
+			"name": "GYARADOS",
+			"channelNickname": "gyarados",
 			"number": 130,
 			"tier": 4,
 			"active": false,
 			"shiny": true,
-			"trainers": 5
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "lapras",
+			"name": "LAPRAS",
+			"channelNickname": "lapras",
 			"number": 131,
 			"tier": 4,
 			"active": false,
 			"shiny": true,
-			"trainers": 5
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "ditto",
-			"number": 132
+			"name": "DITTO",
+			"channelNickname": "ditto",
+			"number": 132,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "eevee",
-			"number": 133
+			"name": "EEVEE",
+			"channelNickname": "eevee",
+			"number": 133,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "vaporeon",
+			"name": "VAPOREON",
+			"channelNickname": "vaporeon",
 			"number": 134,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "jolteon",
+			"name": "JOLTEON",
+			"channelNickname": "jolteon",
 			"number": 135,
 			"tier": 3,
 			"active": false,
-			"trainers": 3
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "flareon",
+			"name": "FLAREON",
+			"channelNickname": "flareon",
 			"number": 136,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "porygon",
+			"name": "PORYGON",
+			"channelNickname": "porygon",
 			"number": 137,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "omanyte",
+			"name": "OMANYTE",
+			"channelNickname": "omanyte",
 			"number": 138,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "omastar",
+			"name": "OMASTAR",
+			"channelNickname": "omastar",
 			"number": 139,
 			"tier": 3,
-			"trainers": 3
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "kabuto",
+			"name": "KABUTO",
+			"channelNickname": "kabuto",
 			"number": 140,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "kabutops",
+			"name": "KABUTOPS",
+			"channelNickname": "kabutops",
 			"number": 141,
 			"tier": 3,
-			"trainers": 3
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "aerodactyl",
+			"name": "AERODACTYL",
+			"channelNickname": "aerodactyl",
 			"number": 142,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "snorlax",
+			"name": "SNORLAX",
+			"channelNickname": "snorlax",
 			"number": 143,
 			"tier": 4,
-			"active": true,
-			"trainers": 6
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "articuno",
+			"name": "ARTICUNO",
+			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
+			"active": false,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": [
@@ -975,9 +1774,11 @@
 			]
 		},
 		{
-			"name": "zapdos",
+			"name": "ZAPDOS",
+			"channelNickname": "zapdos",
 			"number": 145,
 			"tier": 5,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -985,9 +1786,11 @@
 			]
 		},
 		{
-			"name": "moltres",
+			"name": "MOLTRES",
+			"channelNickname": "moltres",
 			"number": 146,
 			"tier": 5,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -995,31 +1798,43 @@
 			]
 		},
 		{
-			"name": "dratini",
+			"name": "DRATINI",
+			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "dragonair",
-			"number": 148
+			"name": "DRAGONAIR",
+			"channelNickname": "dragonair",
+			"number": 148,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "dragonite",
+			"name": "DRAGONITE",
+			"channelNickname": "dragonite",
 			"number": 149,
 			"tier": 4,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "Mewtwo-A",
+			"name": "MEWTWO",
+			"channelNickname": "mewtwo",
 			"number": 150,
-			"active": false,
 			"tier": 5,
-			"trainers": 6,
-			"shiny": false,
+			"active": false,
+			"shiny": true,
+			"trainers": 5,
 			"nickname": [
 				"mewtwo",
 				"mew2",
@@ -1027,1249 +1842,2275 @@
 			]
 		},
 		{
-			"name": "mew",
-			"number": 151
+			"name": "MEWTWO A",
+			"channelNickname": "mewtwo-a",
+			"number": 150,
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": 6,
+			"nickname": [
+				"armored-mewtwo",
+				"mewtwo-armored",
+				"a-mewtwo",
+				"mewtwo-a"
+			]
 		},
 		{
-			"name": "chikorita",
+			"name": "MEW",
+			"channelNickname": "mew",
+			"number": 151,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CHIKORITA",
+			"channelNickname": "chikorita",
 			"number": 152,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "bayleef",
+			"name": "BAYLEEF",
+			"channelNickname": "bayleef",
 			"number": 153,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "meganium",
-			"number": 154
+			"name": "MEGANIUM",
+			"channelNickname": "meganium",
+			"number": 154,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "cyndaquil",
+			"name": "CYNDAQUIL",
+			"channelNickname": "cyndaquil",
 			"number": 155,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "quilava",
+			"name": "QUILAVA",
+			"channelNickname": "quilava",
 			"number": 156,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "typhlosion",
+			"name": "TYPHLOSION",
+			"channelNickname": "typhlosion",
 			"number": 157,
 			"tier": 4,
 			"active": false,
-			"trainers": 6
+			"shiny": false,
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "totodile",
+			"name": "TOTODILE",
+			"channelNickname": "totodile",
 			"number": 158,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "croconaw",
+			"name": "CROCONAW",
+			"channelNickname": "croconaw",
 			"number": 159,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "feraligatr",
-			"number": 160
+			"name": "FERALIGATR",
+			"channelNickname": "feraligatr",
+			"number": 160,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "sentret",
+			"name": "SENTRET",
+			"channelNickname": "sentret",
 			"number": 161,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "furret",
-			"number": 162
+			"name": "FURRET",
+			"channelNickname": "furret",
+			"number": 162,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "hoothoot",
-			"number": 163
+			"name": "HOOTHOOT",
+			"channelNickname": "hoothoot",
+			"number": 163,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "noctowl",
+			"name": "NOCTOWL",
+			"channelNickname": "noctowl",
 			"number": 164,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "ledyba",
-			"number": 165
+			"name": "LEDYBA",
+			"channelNickname": "ledyba",
+			"number": 165,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ledian",
-			"number": 166
+			"name": "LEDIAN",
+			"channelNickname": "ledian",
+			"number": 166,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "spinarak",
-			"number": 167
+			"name": "SPINARAK",
+			"channelNickname": "spinarak",
+			"number": 167,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ariados",
-			"number": 168
+			"name": "ARIADOS",
+			"channelNickname": "ariados",
+			"number": 168,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "crobat",
-			"number": 169
+			"name": "CROBAT",
+			"channelNickname": "crobat",
+			"number": 169,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "chinchou",
-			"number": 170
+			"name": "CHINCHOU",
+			"channelNickname": "chinchou",
+			"number": 170,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "lanturn",
+			"name": "LANTURN",
+			"channelNickname": "lanturn",
 			"number": 171,
 			"tier": 2,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "pichu",
-			"number": 172
+			"name": "PICHU",
+			"channelNickname": "pichu",
+			"number": 172,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "cleffa",
-			"number": 173
+			"name": "CLEFFA",
+			"channelNickname": "cleffa",
+			"number": 173,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "igglybuff",
-			"number": 174
+			"name": "IGGLYBUFF",
+			"channelNickname": "igglybuff",
+			"number": 174,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "togepi",
-			"number": 175
+			"name": "TOGEPI",
+			"channelNickname": "togepi",
+			"number": 175,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "togetic",
+			"name": "TOGETIC",
+			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 4,
-			"active": true,
-			"trainers": 5
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "natu",
-			"number": 177
+			"name": "NATU",
+			"channelNickname": "natu",
+			"number": 177,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "xatu",
-			"number": 178
+			"name": "XATU",
+			"channelNickname": "xatu",
+			"number": 178,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "mareep",
+			"name": "MAREEP",
+			"channelNickname": "mareep",
 			"number": 179,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "flaaffy",
+			"name": "FLAAFFY",
+			"channelNickname": "flaaffy",
 			"number": 180,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "ampharos",
-			"number": 181
+			"name": "AMPHAROS",
+			"channelNickname": "ampharos",
+			"number": 181,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "bellossom",
-			"number": 182
+			"name": "BELLOSSOM",
+			"channelNickname": "bellossom",
+			"number": 182,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "marill",
-			"number": 183
+			"name": "MARILL",
+			"channelNickname": "marill",
+			"number": 183,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "azumarill",
+			"name": "AZUMARILL",
+			"channelNickname": "azumarill",
 			"number": 184,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "sudowoodo",
+			"name": "SUDOWOODO",
+			"channelNickname": "sudowoodo",
 			"number": 185,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "politoed",
-			"number": 186
+			"name": "POLITOED",
+			"channelNickname": "politoed",
+			"number": 186,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "hoppip",
-			"number": 187
+			"name": "HOPPIP",
+			"channelNickname": "hoppip",
+			"number": 187,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "skiploom",
-			"number": 188
+			"name": "SKIPLOOM",
+			"channelNickname": "skiploom",
+			"number": 188,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "jumpluff",
-			"number": 189
+			"name": "JUMPLUFF",
+			"channelNickname": "jumpluff",
+			"number": 189,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "aipom",
+			"name": "AIPOM",
+			"channelNickname": "aipom",
 			"number": 190,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "sunkern",
+			"name": "SUNKERN",
+			"channelNickname": "sunkern",
 			"number": 191,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "sunflora",
-			"number": 192
+			"name": "SUNFLORA",
+			"channelNickname": "sunflora",
+			"number": 192,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "yanma",
+			"name": "YANMA",
+			"channelNickname": "yanma",
 			"number": 193,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "wooper",
-			"number": 194
+			"name": "WOOPER",
+			"channelNickname": "wooper",
+			"number": 194,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "quagsire",
-			"number": 195
+			"name": "QUAGSIRE",
+			"channelNickname": "quagsire",
+			"number": 195,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "espeon",
+			"name": "ESPEON",
+			"channelNickname": "espeon",
 			"number": 196,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "umbreon",
+			"name": "UMBREON",
+			"channelNickname": "umbreon",
 			"number": 197,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
-			"trainers": 5
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "murkrow",
+			"name": "MURKROW",
+			"channelNickname": "murkrow",
 			"number": 198,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "slowking",
-			"number": 199
+			"name": "SLOWKING",
+			"channelNickname": "slowking",
+			"number": 199,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "misdreavus",
+			"name": "MISDREAVUS",
+			"channelNickname": "misdreavus",
 			"number": 200,
 			"tier": 2,
-			"shiny": true,
 			"active": false,
-			"trainers": 1
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "unown",
-			"number": 201
+			"name": "UNOWN",
+			"channelNickname": "unown",
+			"number": 201,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "wobbuffet",
+			"name": "WOBBUFFET",
+			"channelNickname": "wobbuffet",
 			"number": 202,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "girafarig",
-			"number": 203
+			"name": "GIRAFARIG",
+			"channelNickname": "girafarig",
+			"number": 203,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "pineco",
+			"name": "PINECO",
+			"channelNickname": "pineco",
 			"number": 204,
 			"tier": 2,
-			"shiny": true,
 			"active": false,
-			"trainers": 1
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "forretress",
-			"number": 205
+			"name": "FORRETRESS",
+			"channelNickname": "forretress",
+			"number": 205,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "dunsparce",
-			"number": 206
+			"name": "DUNSPARCE",
+			"channelNickname": "dunsparce",
+			"number": 206,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "gligar",
+			"name": "GLIGAR",
+			"channelNickname": "gligar",
 			"number": 207,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "steelix",
-			"number": 208
+			"name": "STEELIX",
+			"channelNickname": "steelix",
+			"number": 208,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "snubbull",
+			"name": "SNUBBULL",
+			"channelNickname": "snubbull",
 			"number": 209,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "granbull",
+			"name": "GRANBULL",
+			"channelNickname": "granbull",
 			"number": 210,
 			"tier": 3,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "qwilfish",
+			"name": "QWILFISH",
+			"channelNickname": "qwilfish",
 			"number": 211,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "scizor",
-			"number": 212
+			"name": "SCIZOR",
+			"channelNickname": "scizor",
+			"number": 212,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "shuckle",
+			"name": "SHUCKLE",
+			"channelNickname": "shuckle",
 			"number": 213,
 			"tier": 3,
 			"active": false,
 			"shiny": true,
-			"trainers": 4
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "heracross",
-			"number": 214
+			"name": "HERACROSS",
+			"channelNickname": "heracross",
+			"number": 214,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "sneasel",
+			"name": "SNEASEL",
+			"channelNickname": "sneasel",
 			"number": 215,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "teddiursa",
-			"number": 216
+			"name": "TEDDIURSA",
+			"channelNickname": "teddiursa",
+			"number": 216,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ursaring",
+			"name": "URSARING",
+			"channelNickname": "ursaring",
 			"number": 217,
 			"tier": 4,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "slugma",
-			"number": 218
+			"name": "SLUGMA",
+			"channelNickname": "slugma",
+			"number": 218,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "magcargo",
+			"name": "MAGCARGO",
+			"channelNickname": "magcargo",
 			"number": 219,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "swinub",
+			"name": "SWINUB",
+			"channelNickname": "swinub",
 			"number": 220,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "piloswine",
+			"name": "PILOSWINE",
+			"channelNickname": "piloswine",
 			"number": 221,
 			"tier": 3,
 			"active": true,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "corsola",
-			"number": 222
+			"name": "CORSOLA",
+			"channelNickname": "corsola",
+			"number": 222,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "remoraid",
-			"number": 223
+			"name": "REMORAID",
+			"channelNickname": "remoraid",
+			"number": 223,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "octillery",
+			"name": "OCTILLERY",
+			"channelNickname": "octillery",
 			"number": 224,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "delibird",
+			"name": "DELIBIRD",
+			"channelNickname": "delibird",
 			"number": 225,
 			"tier": 3,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "mantine",
+			"name": "MANTINE",
+			"channelNickname": "mantine",
 			"number": 226,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "skarmory",
+			"name": "SKARMORY",
+			"channelNickname": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "houndour",
+			"name": "HOUNDOUR",
+			"channelNickname": "houndour",
 			"number": 228,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "houndoom",
+			"name": "HOUNDOOM",
+			"channelNickname": "houndoom",
 			"number": 229,
 			"tier": 4,
 			"active": false,
-			"trainers": 4
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "kingdra",
-			"number": 230
+			"name": "KINGDRA",
+			"channelNickname": "kingdra",
+			"number": 230,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "phanpy",
-			"number": 231
+			"name": "PHANPY",
+			"channelNickname": "phanpy",
+			"number": 231,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "donphan",
+			"name": "DONPHAN",
+			"channelNickname": "donphan",
 			"number": 232,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "porygon2",
-			"number": 233
+			"name": "PORYGON2",
+			"channelNickname": "porygon2",
+			"number": 233,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "stantler",
+			"name": "STANTLER",
+			"channelNickname": "stantler",
 			"number": 234,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "smeargle",
-			"number": 235
+			"name": "SMEARGLE",
+			"channelNickname": "smeargle",
+			"number": 235,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "tyrogue",
-			"number": 236
+			"name": "TYROGUE",
+			"channelNickname": "tyrogue",
+			"number": 236,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "hitmontop",
-			"number": 237
+			"name": "HITMONTOP",
+			"channelNickname": "hitmontop",
+			"number": 237,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "smoochum",
-			"number": 238
+			"name": "SMOOCHUM",
+			"channelNickname": "smoochum",
+			"number": 238,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "elekid",
-			"number": 239
+			"name": "ELEKID",
+			"channelNickname": "elekid",
+			"number": 239,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "magby",
-			"number": 240
+			"name": "MAGBY",
+			"channelNickname": "magby",
+			"number": 240,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "miltank",
+			"name": "MILTANK",
+			"channelNickname": "miltank",
 			"number": 241,
 			"tier": 2,
 			"active": false,
-			"trainers": 3
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "blissey",
-			"number": 242
+			"name": "BLISSEY",
+			"channelNickname": "blissey",
+			"number": 242,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "raikou",
+			"name": "RAIKOU",
+			"channelNickname": "raikou",
 			"number": 243,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 7
+			"trainers": 7,
+			"nickname": null
 		},
 		{
-			"name": "entei",
+			"name": "ENTEI",
+			"channelNickname": "entei",
 			"number": 244,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 6
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "suicune",
+			"name": "SUICUNE",
+			"channelNickname": "suicune",
 			"number": 245,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 7
+			"trainers": 7,
+			"nickname": null
 		},
 		{
-			"name": "larvitar",
-			"number": 246
+			"name": "LARVITAR",
+			"channelNickname": "larvitar",
+			"number": 246,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "pupitar",
-			"number": 247
+			"name": "PUPITAR",
+			"channelNickname": "pupitar",
+			"number": 247,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "tyranitar",
+			"name": "TYRANITAR",
+			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": false,
+			"active": true,
+			"shiny": false,
 			"trainers": 5,
 			"nickname": [
 				"ttar"
 			]
 		},
 		{
-			"name": "lugia",
+			"name": "LUGIA",
+			"channelNickname": "lugia",
 			"number": 249,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Ho-Oh",
+			"name": "HO OH",
+			"channelNickname": "ho-oh",
 			"number": 250,
-			"tier": 5,
+			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 8,
-			"nickname": [
-				"ho-oh",
-				"hooh",
-				"hoho",
-				"santa"
-			]
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "celebi",
-			"number": 251
+			"name": "CELEBI",
+			"channelNickname": "celebi",
+			"number": 251,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "treecko",
-			"number": 252
+			"name": "TREECKO",
+			"channelNickname": "treecko",
+			"number": 252,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "grovyle",
+			"name": "GROVYLE",
+			"channelNickname": "grovyle",
 			"number": 253,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "sceptile",
-			"number": 254
+			"name": "SCEPTILE",
+			"channelNickname": "sceptile",
+			"number": 254,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "torchic",
-			"number": 255
+			"name": "TORCHIC",
+			"channelNickname": "torchic",
+			"number": 255,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "combusken",
+			"name": "COMBUSKEN",
+			"channelNickname": "combusken",
 			"number": 256,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "blaziken",
+			"name": "BLAZIKEN",
+			"channelNickname": "blaziken",
 			"number": 257,
 			"tier": 4,
 			"active": false,
-			"trainers": 4
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "mudkip",
-			"number": 258
+			"name": "MUDKIP",
+			"channelNickname": "mudkip",
+			"number": 258,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "marshtomp",
+			"name": "MARSHTOMP",
+			"channelNickname": "marshtomp",
 			"number": 259,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "swampert",
+			"name": "SWAMPERT",
+			"channelNickname": "swampert",
 			"number": 260,
 			"tier": 4,
-			"active": true,
-			"trainers": 3
-		},
-		{
-			"name": "poochyena",
-			"number": 261
-		},
-		{
-			"name": "mightyena",
-			"number": 262,
-			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "zigzagoon",
-			"number": 263
+			"name": "POOCHYENA",
+			"channelNickname": "poochyena",
+			"number": 261,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "linoone",
-			"number": 264
+			"name": "MIGHTYENA",
+			"channelNickname": "mightyena",
+			"number": 262,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "wurmple",
-			"number": 265
+			"name": "ZIGZAGOON",
+			"channelNickname": "zigzagoon",
+			"number": 263,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "silcoon",
-			"number": 266
+			"name": "ZIGZAGOON GALARIAN",
+			"channelNickname": "zigzagoon-galarian",
+			"number": 263,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "beautifly",
+			"name": "LINOONE",
+			"channelNickname": "linoone",
+			"number": 264,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LINOONE GALARIAN",
+			"channelNickname": "linoone-galarian",
+			"number": 264,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "WURMPLE",
+			"channelNickname": "wurmple",
+			"number": 265,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SILCOON",
+			"channelNickname": "silcoon",
+			"number": 266,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BEAUTIFLY",
+			"channelNickname": "beautifly",
 			"number": 267,
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "cascoon",
-			"number": 268
+			"name": "CASCOON",
+			"channelNickname": "cascoon",
+			"number": 268,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "dustox",
-			"number": 269
+			"name": "DUSTOX",
+			"channelNickname": "dustox",
+			"number": 269,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "lotad",
+			"name": "LOTAD",
+			"channelNickname": "lotad",
 			"number": 270,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "lombre",
-			"number": 271
+			"name": "LOMBRE",
+			"channelNickname": "lombre",
+			"number": 271,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ludicolo",
-			"number": 272
+			"name": "LUDICOLO",
+			"channelNickname": "ludicolo",
+			"number": 272,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "seedot",
-			"number": 273
+			"name": "SEEDOT",
+			"channelNickname": "seedot",
+			"number": 273,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "nuzleaf",
-			"number": 274
+			"name": "NUZLEAF",
+			"channelNickname": "nuzleaf",
+			"number": 274,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "shiftry",
+			"name": "SHIFTRY",
+			"channelNickname": "shiftry",
 			"number": 275,
 			"tier": 4,
 			"active": false,
-			"trainers": 3
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "taillow",
+			"name": "TAILLOW",
+			"channelNickname": "taillow",
 			"number": 276,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "swellow",
+			"name": "SWELLOW",
+			"channelNickname": "swellow",
 			"number": 277,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "wingull",
+			"name": "WINGULL",
+			"channelNickname": "wingull",
 			"number": 278,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "pelipper",
+			"name": "PELIPPER",
+			"channelNickname": "pelipper",
 			"number": 279,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "ralts",
+			"name": "RALTS",
+			"channelNickname": "ralts",
 			"number": 280,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "kirlia",
+			"name": "KIRLIA",
+			"channelNickname": "kirlia",
 			"number": 281,
 			"tier": 2,
-			"active": true,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "gardevoir",
-			"number": 282
+			"name": "GARDEVOIR",
+			"channelNickname": "gardevoir",
+			"number": 282,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "surskit",
-			"number": 283
+			"name": "SURSKIT",
+			"channelNickname": "surskit",
+			"number": 283,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "masquerain",
+			"name": "MASQUERAIN",
+			"channelNickname": "masquerain",
 			"number": 284,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "shroomish",
-			"number": 285
+			"name": "SHROOMISH",
+			"channelNickname": "shroomish",
+			"number": 285,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "breloom",
+			"name": "BRELOOM",
+			"channelNickname": "breloom",
 			"number": 286,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "slakoth",
+			"name": "SLAKOTH",
+			"channelNickname": "slakoth",
 			"number": 287,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "vigoroth",
-			"number": 288
+			"name": "VIGOROTH",
+			"channelNickname": "vigoroth",
+			"number": 288,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "slaking",
-			"number": 289
+			"name": "SLAKING",
+			"channelNickname": "slaking",
+			"number": 289,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "nincada",
-			"number": 290
+			"name": "NINCADA",
+			"channelNickname": "nincada",
+			"number": 290,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "ninjask",
+			"name": "NINJASK",
+			"channelNickname": "ninjask",
 			"number": 291,
 			"tier": 4,
 			"active": false,
-			"trainers": 3
+			"shiny": false,
+			"trainers": 3,
+			"nickname": null
 		},
 		{
-			"name": "shedinja",
-			"number": 292
+			"name": "SHEDINJA",
+			"channelNickname": "shedinja",
+			"number": 292,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "whismur",
-			"number": 293
+			"name": "WHISMUR",
+			"channelNickname": "whismur",
+			"number": 293,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "loudred",
-			"number": 294
+			"name": "LOUDRED",
+			"channelNickname": "loudred",
+			"number": 294,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "exploud",
-			"number": 295
+			"name": "EXPLOUD",
+			"channelNickname": "exploud",
+			"number": 295,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "makuhita",
+			"name": "MAKUHITA",
+			"channelNickname": "makuhita",
 			"number": 296,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "hariyama",
+			"name": "HARIYAMA",
+			"channelNickname": "hariyama",
 			"number": 297,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "azurill",
-			"number": 298
+			"name": "AZURILL",
+			"channelNickname": "azurill",
+			"number": 298,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "nosepass",
+			"name": "NOSEPASS",
+			"channelNickname": "nosepass",
 			"number": 299,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "skitty",
-			"number": 300
+			"name": "SKITTY",
+			"channelNickname": "skitty",
+			"number": 300,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "delcatty",
-			"number": 301
+			"name": "DELCATTY",
+			"channelNickname": "delcatty",
+			"number": 301,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "sableye",
+			"name": "SABLEYE",
+			"channelNickname": "sableye",
 			"number": 302,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "mawile",
+			"name": "MAWILE",
+			"channelNickname": "mawile",
 			"number": 303,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "aron",
-			"number": 304
+			"name": "ARON",
+			"channelNickname": "aron",
+			"number": 304,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "lairon",
-			"number": 305
+			"name": "LAIRON",
+			"channelNickname": "lairon",
+			"number": 305,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "aggron",
+			"name": "AGGRON",
+			"channelNickname": "aggron",
 			"number": 306,
 			"tier": 4,
-			"active": false,
-			"trainers": 5
+			"active": true,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "meditite",
+			"name": "MEDITITE",
+			"channelNickname": "meditite",
 			"number": 307,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "medicham",
+			"name": "MEDICHAM",
+			"channelNickname": "medicham",
 			"number": 308,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "electrike",
-			"number": 309
+			"name": "ELECTRIKE",
+			"channelNickname": "electrike",
+			"number": 309,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "manectric",
+			"name": "MANECTRIC",
+			"channelNickname": "manectric",
 			"number": 310,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "plusle",
+			"name": "PLUSLE",
+			"channelNickname": "plusle",
 			"number": 311,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "minun",
+			"name": "MINUN",
+			"channelNickname": "minun",
 			"number": 312,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "volbeat",
-			"number": 313
+			"name": "VOLBEAT",
+			"channelNickname": "volbeat",
+			"number": 313,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "illumise",
-			"number": 314
+			"name": "ILLUMISE",
+			"channelNickname": "illumise",
+			"number": 314,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "roselia",
+			"name": "ROSELIA",
+			"channelNickname": "roselia",
 			"number": 315,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "gulpin",
-			"number": 316
-		},
-		{
-			"name": "swalot",
-			"number": 317
-		},
-		{
-			"name": "carvanha",
-			"number": 318,
-			"tier": 2,
+			"name": "GULPIN",
+			"channelNickname": "gulpin",
+			"number": 316,
+			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "sharpedo",
+			"name": "SWALOT",
+			"channelNickname": "swalot",
+			"number": 317,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CARVANHA",
+			"channelNickname": "carvanha",
+			"number": 318,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SHARPEDO",
+			"channelNickname": "sharpedo",
 			"number": 319,
 			"tier": 3,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "wailmer",
+			"name": "WAILMER",
+			"channelNickname": "wailmer",
 			"number": 320,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "wailord",
-			"number": 321
+			"name": "WAILORD",
+			"channelNickname": "wailord",
+			"number": 321,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "numel",
-			"number": 322
+			"name": "NUMEL",
+			"channelNickname": "numel",
+			"number": 322,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "camerupt",
-			"number": 323
+			"name": "CAMERUPT",
+			"channelNickname": "camerupt",
+			"number": 323,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "torkoal",
-			"number": 324
+			"name": "TORKOAL",
+			"channelNickname": "torkoal",
+			"number": 324,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "spoink",
-			"number": 325
+			"name": "SPOINK",
+			"channelNickname": "spoink",
+			"number": 325,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "grumpig",
+			"name": "GRUMPIG",
+			"channelNickname": "grumpig",
 			"number": 326,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "spinda",
-			"number": 327
+			"name": "SPINDA",
+			"channelNickname": "spinda",
+			"number": 327,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "trapinch",
-			"number": 328
+			"name": "TRAPINCH",
+			"channelNickname": "trapinch",
+			"number": 328,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "vibrava",
-			"number": 329
+			"name": "VIBRAVA",
+			"channelNickname": "vibrava",
+			"number": 329,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "flygon",
-			"number": 330
+			"name": "FLYGON",
+			"channelNickname": "flygon",
+			"number": 330,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "cacnea",
+			"name": "CACNEA",
+			"channelNickname": "cacnea",
 			"number": 331,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "cacturne",
+			"name": "CACTURNE",
+			"channelNickname": "cacturne",
 			"number": 332,
 			"tier": 3,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "swablu",
+			"name": "SWABLU",
+			"channelNickname": "swablu",
 			"number": 333,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "altaria",
-			"number": 334
+			"name": "ALTARIA",
+			"channelNickname": "altaria",
+			"number": 334,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "zangoose",
-			"number": 335
+			"name": "ZANGOOSE",
+			"channelNickname": "zangoose",
+			"number": 335,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "seviper",
-			"number": 336
+			"name": "SEVIPER",
+			"channelNickname": "seviper",
+			"number": 336,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "lunatone",
+			"name": "LUNATONE",
+			"channelNickname": "lunatone",
 			"number": 337,
 			"tier": 3,
 			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "solrock",
+			"name": "SOLROCK",
+			"channelNickname": "solrock",
 			"number": 338,
 			"tier": 3,
 			"active": false,
 			"shiny": true,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "barboach",
-			"number": 339
+			"name": "BARBOACH",
+			"channelNickname": "barboach",
+			"number": 339,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "whiscash",
+			"name": "WHISCASH",
+			"channelNickname": "whiscash",
 			"number": 340,
 			"tier": 2,
-			"active": true,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "corphish",
-			"number": 341
+			"name": "CORPHISH",
+			"channelNickname": "corphish",
+			"number": 341,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "crawdaunt",
+			"name": "CRAWDAUNT",
+			"channelNickname": "crawdaunt",
 			"number": 342,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "baltoy",
-			"number": 343
+			"name": "BALTOY",
+			"channelNickname": "baltoy",
+			"number": 343,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "claydol",
+			"name": "CLAYDOL",
+			"channelNickname": "claydol",
 			"number": 344,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "lileep",
+			"name": "LILEEP",
+			"channelNickname": "lileep",
 			"number": 345,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "cradily",
-			"number": 346
+			"name": "CRADILY",
+			"channelNickname": "cradily",
+			"number": 346,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "anorith",
+			"name": "ANORITH",
+			"channelNickname": "anorith",
 			"number": 347,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "armaldo",
-			"number": 348
+			"name": "ARMALDO",
+			"channelNickname": "armaldo",
+			"number": 348,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "feebas",
+			"name": "FEEBAS",
+			"channelNickname": "feebas",
 			"number": 349,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "milotic",
-			"number": 350
+			"name": "MILOTIC",
+			"channelNickname": "milotic",
+			"number": 350,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "castform",
-			"number": 351
+			"name": "CASTFORM",
+			"channelNickname": "castform",
+			"number": 351,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "kecleon",
-			"number": 352
+			"name": "CASTFORM SUNNY",
+			"channelNickname": "castform-sunny",
+			"number": 351,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "shuppet",
+			"name": "CASTFORM RAINY",
+			"channelNickname": "castform-rainy",
+			"number": 351,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CASTFORM SNOWY",
+			"channelNickname": "castform-snowy",
+			"number": 351,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KECLEON",
+			"channelNickname": "kecleon",
+			"number": 352,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SHUPPET",
+			"channelNickname": "shuppet",
 			"number": 353,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "banette",
-			"number": 354
+			"name": "BANETTE",
+			"channelNickname": "banette",
+			"number": 354,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "duskull",
+			"name": "DUSKULL",
+			"channelNickname": "duskull",
 			"number": 355,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "dusclops",
-			"number": 356
+			"name": "DUSCLOPS",
+			"channelNickname": "dusclops",
+			"number": 356,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "tropius",
-			"number": 357
+			"name": "TROPIUS",
+			"channelNickname": "tropius",
+			"number": 357,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "chimecho",
-			"number": 358
+			"name": "CHIMECHO",
+			"channelNickname": "chimecho",
+			"number": 358,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "absol",
+			"name": "ABSOL",
+			"channelNickname": "absol",
 			"number": 359,
 			"tier": 4,
 			"active": false,
 			"shiny": true,
-			"trainers": 4
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "wynaut",
-			"number": 360
+			"name": "WYNAUT",
+			"channelNickname": "wynaut",
+			"number": 360,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "snorunt",
+			"name": "SNORUNT",
+			"channelNickname": "snorunt",
 			"number": 361,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "glalie",
-			"number": 362
+			"name": "GLALIE",
+			"channelNickname": "glalie",
+			"number": 362,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "spheal",
-			"number": 363
+			"name": "SPHEAL",
+			"channelNickname": "spheal",
+			"number": 363,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "sealeo",
-			"number": 364
+			"name": "SEALEO",
+			"channelNickname": "sealeo",
+			"number": 364,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "walrein",
+			"name": "WALREIN",
+			"channelNickname": "walrein",
 			"number": 365,
 			"tier": 4,
 			"active": false,
-			"trainers": 5
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "clamperl",
+			"name": "CLAMPERL",
+			"channelNickname": "clamperl",
 			"number": 366,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "huntail",
-			"number": 367
+			"name": "HUNTAIL",
+			"channelNickname": "huntail",
+			"number": 367,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "gorebyss",
-			"number": 368
+			"name": "GOREBYSS",
+			"channelNickname": "gorebyss",
+			"number": 368,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "relicanth",
-			"number": 369
+			"name": "RELICANTH",
+			"channelNickname": "relicanth",
+			"number": 369,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "luvdisc",
+			"name": "LUVDISC",
+			"channelNickname": "luvdisc",
 			"number": 370,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "bagon",
+			"name": "BAGON",
+			"channelNickname": "bagon",
 			"number": 371,
 			"tier": 1,
 			"active": false,
@@ -2280,74 +4121,108 @@
 			]
 		},
 		{
-			"name": "shelgon",
-			"number": 372
+			"name": "SHELGON",
+			"channelNickname": "shelgon",
+			"number": 372,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "salamence",
-			"number": 373
+			"name": "SALAMENCE",
+			"channelNickname": "salamence",
+			"number": 373,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "beldum",
+			"name": "BELDUM",
+			"channelNickname": "beldum",
 			"number": 374,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "metang",
-			"number": 375
+			"name": "METANG",
+			"channelNickname": "metang",
+			"number": 375,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "metagross",
+			"name": "METAGROSS",
+			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 4,
 			"active": false,
-			"trainers": 6
+			"shiny": false,
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "regirock",
+			"name": "REGIROCK",
+			"channelNickname": "regirock",
 			"number": 377,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 8
+			"trainers": 8,
+			"nickname": null
 		},
 		{
-			"name": "regice",
+			"name": "REGICE",
+			"channelNickname": "regice",
 			"number": 378,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 8
+			"trainers": 8,
+			"nickname": null
 		},
 		{
-			"name": "registeel",
+			"name": "REGISTEEL",
+			"channelNickname": "registeel",
 			"number": 379,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
-			"trainers": 6
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "latias",
+			"name": "LATIAS",
+			"channelNickname": "latias",
 			"number": 380,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 7
+			"trainers": 7,
+			"nickname": null
 		},
 		{
-			"name": "latios",
+			"name": "LATIOS",
+			"channelNickname": "latios",
 			"number": 381,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
-			"trainers": 6
+			"trainers": 6,
+			"nickname": null
 		},
 		{
-			"name": "kyogre",
+			"name": "KYOGRE",
+			"channelNickname": "kyogre",
 			"number": 382,
 			"tier": 5,
 			"active": false,
@@ -2359,7 +4234,8 @@
 			]
 		},
 		{
-			"name": "groudon",
+			"name": "GROUDON",
+			"channelNickname": "groudon",
 			"number": 383,
 			"tier": 5,
 			"active": false,
@@ -2373,7 +4249,8 @@
 			]
 		},
 		{
-			"name": "rayquaza",
+			"name": "RAYQUAZA",
+			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
 			"active": false,
@@ -2396,558 +4273,1141 @@
 			]
 		},
 		{
-			"name": "jirachi",
-			"number": 385
-		},
-		{
-			"name": "deoxys",
-			"nickname": [
-			    "deoxys-normal"
-			],
-			"number": 100386,
-			"trainers": 3,
-			"tier": 5,
-			"active": false
-		},
-		{
-			"name": "deoxys-attack",
-			"number": 110386,
-			"trainers": 2,
-			"tier": 5,
-			"active": false
-		},
-		{
-			"name": "deoxys-defense",
-			"number": 120386,
-			"trainers": 9,
-			"tier": 5,
-			"active": false
-		},
-		{
-			"name": "deoxys-speed",
-			"number": 130386,
-			"trainers": 7,
-			"tier": 5,
-			"active": false
-		},
-		{
-			"name": "Turtwig",
-			"number": 387
-		},
-		{
-			"name": "Grotle",
-			"number": 388,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Torterra",
-			"number": 389,
-			"tier": 4,
-			"active": false,
-			"trainers": 5
-		},
-		{
-			"name": "Chimchar",
-			"number": 390
-		},
-		{
-			"name": "Monferno",
-			"number": 391,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Infernape",
-			"number": 392,
-			"tier": 4,
-			"active": false,
-			"trainers": 4
-		},
-		{
-			"name": "Piplup",
-			"number": 393
-		},
-		{
-			"name": "Prinplup",
-			"number": 394,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Empoleon",
-			"number": 395
-		},
-		{
-			"name": "Starly",
-			"number": 396
-		},
-		{
-			"name": "Staravia",
-			"number": 397
-		},
-		{
-			"name": "Staraptor",
-			"number": 398,
-			"tier": 4,
-			"active": false,
-			"trainers": 5
-		},
-		{
-			"name": "Bidoof",
-			"number": 399,
-			"tier": 1,
-			"trainers": 1
-		},
-		{
-			"name": "Bibarel",
-			"number": 400,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Kricketot",
-			"number": 401,
-			"tier": 1,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Kricketune",
-			"number": 402,
-			"tier": 2,
-			"active": false,
-			"trainers": 1
-		},
-		{
-			"name": "Shinx",
-			"number": 403,
-			"tier": 1,
-			"active": true,
-			"shiny": true,
-			"trainers": 1
-		},
-		{
-			"name": "Luxio",
-			"number": 404
-		},
-		{
-			"name": "Luxray",
-			"number": 405
-		},
-		{
-			"name": "Budew",
-			"number": 406
-		},
-		{
-			"name": "Roserade",
-			"number": 407
-		},
-		{
-			"name": "Cranidos",
-			"number": 408,
+			"name": "JIRACHI",
+			"channelNickname": "jirachi",
+			"number": 385,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Rampardos",
-			"number": 409
+			"name": "DEOXYS",
+			"channelNickname": "deoxys",
+			"number": 386,
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": [
+				"deoxys-normal"
+			]
 		},
 		{
-			"name": "Shieldon",
-			"number": 410,
+			"name": "DEOXYS ATTACK",
+			"channelNickname": "deoxys-attack",
+			"number": 386,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEOXYS DEFENSE",
+			"channelNickname": "deoxys-defense",
+			"number": 386,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEOXYS SPEED",
+			"channelNickname": "deoxys-speed",
+			"number": 386,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TURTWIG",
+			"channelNickname": "turtwig",
+			"number": 387,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GROTLE",
+			"channelNickname": "grotle",
+			"number": 388,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "TORTERRA",
+			"channelNickname": "torterra",
+			"number": 389,
+			"tier": 4,
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
+		},
+		{
+			"name": "CHIMCHAR",
+			"channelNickname": "chimchar",
+			"number": 390,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MONFERNO",
+			"channelNickname": "monferno",
+			"number": 391,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "INFERNAPE",
+			"channelNickname": "infernape",
+			"number": 392,
+			"tier": 4,
+			"active": false,
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
+		},
+		{
+			"name": "PIPLUP",
+			"channelNickname": "piplup",
+			"number": 393,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PRINPLUP",
+			"channelNickname": "prinplup",
+			"number": 394,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "EMPOLEON",
+			"channelNickname": "empoleon",
+			"number": 395,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "STARLY",
+			"channelNickname": "starly",
+			"number": 396,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "STARAVIA",
+			"channelNickname": "staravia",
+			"number": 397,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "STARAPTOR",
+			"channelNickname": "staraptor",
+			"number": 398,
+			"tier": 4,
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null
+		},
+		{
+			"name": "BIDOOF",
+			"channelNickname": "bidoof",
+			"number": 399,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "BIBAREL",
+			"channelNickname": "bibarel",
+			"number": 400,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "KRICKETOT",
+			"channelNickname": "kricketot",
+			"number": 401,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "KRICKETUNE",
+			"channelNickname": "kricketune",
+			"number": 402,
+			"tier": 2,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "SHINX",
+			"channelNickname": "shinx",
+			"number": 403,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "LUXIO",
+			"channelNickname": "luxio",
+			"number": 404,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LUXRAY",
+			"channelNickname": "luxray",
+			"number": 405,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BUDEW",
+			"channelNickname": "budew",
+			"number": 406,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ROSERADE",
+			"channelNickname": "roserade",
+			"number": 407,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CRANIDOS",
+			"channelNickname": "cranidos",
+			"number": 408,
 			"tier": 1,
 			"active": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Bastiodon",
-			"number": 411
+			"name": "RAMPARDOS",
+			"channelNickname": "rampardos",
+			"number": 409,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Burmy",
+			"name": "SHIELDON",
+			"channelNickname": "shieldon",
+			"number": 410,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "BASTIODON",
+			"channelNickname": "bastiodon",
+			"number": 411,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BURMY PLANT",
+			"channelNickname": "burmy-plant",
 			"number": 412,
 			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Burmy-plant",
-			"number": 110412,
+			"name": "BURMY SANDY",
+			"channelNickname": "burmy-sandy",
+			"number": 412,
 			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Burmy-sandy",
-			"number": 120412,
+			"name": "BURMY TRASH",
+			"channelNickname": "burmy-trash",
+			"number": 412,
 			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Burmy-trash",
-			"number": 130412,
+			"name": "WORMADAM PLANT",
+			"channelNickname": "wormadam-plant",
+			"number": 413,
 			"tier": 1,
 			"active": false,
-			"shiny": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Wormadam",
-			"number": 413
+			"name": "WORMADAM SANDY",
+			"channelNickname": "wormadam-sandy",
+			"number": 413,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Mothim",
-			"number": 414
+			"name": "WORMADAM TRASH",
+			"channelNickname": "wormadam-trash",
+			"number": 413,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Combee",
+			"name": "MOTHIM",
+			"channelNickname": "mothim",
+			"number": 414,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "COMBEE",
+			"channelNickname": "combee",
 			"number": 415,
 			"tier": 2,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Vespiquen",
-			"number": 416
+			"name": "VESPIQUEN",
+			"channelNickname": "vespiquen",
+			"number": 416,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Pachirisu",
-			"number": 417
+			"name": "PACHIRISU",
+			"channelNickname": "pachirisu",
+			"number": 417,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Buizel",
+			"name": "BUIZEL",
+			"channelNickname": "buizel",
 			"number": 418,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Floatzel",
+			"name": "FLOATZEL",
+			"channelNickname": "floatzel",
 			"number": 419,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "Cherubi",
-			"number": 420
+			"name": "CHERUBI",
+			"channelNickname": "cherubi",
+			"number": 420,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Cherrim",
-			"number": 421
+			"name": "CHERRIM OVERCAST",
+			"channelNickname": "cherrim-overcast",
+			"number": 421,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Cherrim-sunshine",
-			"number": 110421,
-			"nickname": [
-			    "cherrim sunny"
-		    ]
+			"name": "CHERRIM SUNNY",
+			"channelNickname": "cherrim-sunny",
+			"number": 421,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Shellos",
-			"number": 422
+			"name": "SHELLOS WEST SEA",
+			"channelNickname": "shellos-west-sea",
+			"number": 422,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Gastrodon",
-			"number": 423
+			"name": "SHELLOS EAST SEA",
+			"channelNickname": "shellos-east-sea",
+			"number": 422,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Ambipom",
-			"number": 424
+			"name": "GASTRODON WEST SEA",
+			"channelNickname": "gastrodon-west-sea",
+			"number": 423,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Drifloon",
+			"name": "GASTRODON EAST SEA",
+			"channelNickname": "gastrodon-east-sea",
+			"number": 423,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "AMBIPOM",
+			"channelNickname": "ambipom",
+			"number": 424,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DRIFLOON",
+			"channelNickname": "drifloon",
 			"number": 425,
+			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"tier": 1,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Drifblim",
+			"name": "DRIFBLIM",
+			"channelNickname": "drifblim",
 			"number": 426,
 			"tier": 3,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Buneary",
+			"name": "BUNEARY",
+			"channelNickname": "buneary",
 			"number": 427,
 			"tier": 1,
-			"trainers": 1
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Lopunny",
-			"number": 428
+			"name": "LOPUNNY",
+			"channelNickname": "lopunny",
+			"number": 428,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Mismagius",
-			"number": 429
+			"name": "MISMAGIUS",
+			"channelNickname": "mismagius",
+			"number": 429,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Honchkrow",
-			"number": 430
+			"name": "HONCHKROW",
+			"channelNickname": "honchkrow",
+			"number": 430,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Glameow",
-			"number": 431
+			"name": "GLAMEOW",
+			"channelNickname": "glameow",
+			"number": 431,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Purugly",
-			"number": 432
+			"name": "PURUGLY",
+			"channelNickname": "purugly",
+			"number": 432,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Chingling",
-			"number": 433
+			"name": "CHINGLING",
+			"channelNickname": "chingling",
+			"number": 433,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Stunky",
-			"number": 434
+			"name": "STUNKY",
+			"channelNickname": "stunky",
+			"number": 434,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Skuntank",
+			"name": "SKUNTANK",
+			"channelNickname": "skuntank",
 			"number": 435,
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 2
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "Bronzor",
+			"name": "BRONZOR",
+			"channelNickname": "bronzor",
 			"number": 436,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Bronzong",
-			"number": 437
+			"name": "BRONZONG",
+			"channelNickname": "bronzong",
+			"number": 437,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Bonsly",
-			"number": 438
+			"name": "BONSLY",
+			"channelNickname": "bonsly",
+			"number": 438,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Mime Jr",
-			"number": 439
+			"name": "MIME JR",
+			"channelNickname": "mime-jr",
+			"number": 439,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Happiny",
-			"number": 440
+			"name": "HAPPINY",
+			"channelNickname": "happiny",
+			"number": 440,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Chatot",
-			"number": 441
+			"name": "CHATOT",
+			"channelNickname": "chatot",
+			"number": 441,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Spiritomb",
-			"number": 442
+			"name": "SPIRITOMB",
+			"channelNickname": "spiritomb",
+			"number": 442,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Gible",
-			"number": 443
+			"name": "GIBLE",
+			"channelNickname": "gible",
+			"number": 443,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Gabite",
-			"number": 444
+			"name": "GABITE",
+			"channelNickname": "gabite",
+			"number": 444,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Garchomp",
-			"number": 445
+			"name": "GARCHOMP",
+			"channelNickname": "garchomp",
+			"number": 445,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Munchlax",
-			"number": 446
+			"name": "MUNCHLAX",
+			"channelNickname": "munchlax",
+			"number": 446,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Riolu",
-			"number": 447
+			"name": "RIOLU",
+			"channelNickname": "riolu",
+			"number": 447,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Lucario",
-			"number": 448
+			"name": "LUCARIO",
+			"channelNickname": "lucario",
+			"number": 448,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Hippopotas",
+			"name": "HIPPOPOTAS",
+			"channelNickname": "hippopotas",
 			"number": 449,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Hippowdon",
-			"number": 450
+			"name": "HIPPOWDON",
+			"channelNickname": "hippowdon",
+			"number": 450,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Skorupi",
+			"name": "SKORUPI",
+			"channelNickname": "skorupi",
 			"number": 451,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Drapion",
-			"number": 452
+			"name": "DRAPION",
+			"channelNickname": "drapion",
+			"number": 452,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Croagunk",
+			"name": "CROAGUNK",
+			"channelNickname": "croagunk",
 			"number": 453,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Toxicroak",
+			"name": "TOXICROAK",
+			"channelNickname": "toxicroak",
 			"number": 454,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "Carnivine",
-			"number": 455
+			"name": "CARNIVINE",
+			"channelNickname": "carnivine",
+			"number": 455,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Finneon",
-			"number": 456
+			"name": "FINNEON",
+			"channelNickname": "finneon",
+			"number": 456,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Lumineon",
-			"number": 457
+			"name": "LUMINEON",
+			"channelNickname": "lumineon",
+			"number": 457,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Mantyke",
-			"number": 458
+			"name": "MANTYKE",
+			"channelNickname": "mantyke",
+			"number": 458,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Snover",
-			"number": 459
+			"name": "SNOVER",
+			"channelNickname": "snover",
+			"number": 459,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Abomasnow",
+			"name": "ABOMASNOW",
+			"channelNickname": "abomasnow",
 			"number": 460,
 			"tier": 3,
+			"active": true,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
+		},
+		{
+			"name": "WEAVILE",
+			"channelNickname": "weavile",
+			"number": 461,
+			"tier": 1,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Weavile",
-			"number": 461
+			"name": "MAGNEZONE",
+			"channelNickname": "magnezone",
+			"number": 462,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Magnezone",
-			"number": 462
+			"name": "LICKILICKY",
+			"channelNickname": "lickilicky",
+			"number": 463,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Lickilicky",
-			"number": 463
+			"name": "RHYPERIOR",
+			"channelNickname": "rhyperior",
+			"number": 464,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Rhyperior",
-			"number": 464
+			"name": "TANGROWTH",
+			"channelNickname": "tangrowth",
+			"number": 465,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Tangrowth",
-			"number": 465
+			"name": "ELECTIVIRE",
+			"channelNickname": "electivire",
+			"number": 466,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Electivire",
-			"number": 466
+			"name": "MAGMORTAR",
+			"channelNickname": "magmortar",
+			"number": 467,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Magmortar",
-			"number": 467
+			"name": "TOGEKISS",
+			"channelNickname": "togekiss",
+			"number": 468,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Togekiss",
-			"number": 468
+			"name": "YANMEGA",
+			"channelNickname": "yanmega",
+			"number": 469,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Yanmega",
-			"number": 469
+			"name": "LEAFEON",
+			"channelNickname": "leafeon",
+			"number": 470,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Leafeon",
-			"number": 470
+			"name": "GLACEON",
+			"channelNickname": "glaceon",
+			"number": 471,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Glaceon",
-			"number": 471
+			"name": "GLISCOR",
+			"channelNickname": "gliscor",
+			"number": 472,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Gliscor",
-			"number": 472
+			"name": "MAMOSWINE",
+			"channelNickname": "mamoswine",
+			"number": 473,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Mamoswine",
-			"number": 473
+			"name": "PORYGON Z",
+			"channelNickname": "porygon-z",
+			"number": 474,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Porygon Z",
-			"number": 474
+			"name": "GALLADE",
+			"channelNickname": "gallade",
+			"number": 475,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Gallade",
-			"number": 475
+			"name": "PROBOPASS",
+			"channelNickname": "probopass",
+			"number": 476,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Probopass",
-			"number": 476
+			"name": "DUSKNOIR",
+			"channelNickname": "dusknoir",
+			"number": 477,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Dusknoir",
-			"number": 477
+			"name": "FROSLASS",
+			"channelNickname": "froslass",
+			"number": 478,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Froslass",
-			"number": 478
+			"name": "ROTOM",
+			"channelNickname": "rotom",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Rotom",
-			"number": 479
+			"name": "ROTOM HEAT",
+			"channelNickname": "rotom-heat",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Uxie",
+			"name": "ROTOM WASH",
+			"channelNickname": "rotom-wash",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ROTOM FROST",
+			"channelNickname": "rotom-frost",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ROTOM FAN",
+			"channelNickname": "rotom-fan",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ROTOM MOW",
+			"channelNickname": "rotom-mow",
+			"number": 479,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "UXIE",
+			"channelNickname": "uxie",
 			"number": 480,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 8,
+			"nickname": null,
 			"regions": [
 				"apac"
 			]
 		},
 		{
-			"name": "Mesprit",
+			"name": "MESPRIT",
+			"channelNickname": "mesprit",
 			"number": 481,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 7,
+			"nickname": null,
 			"regions": [
 				"emea"
 			]
 		},
 		{
-			"name": "Azelf",
+			"name": "AZELF",
+			"channelNickname": "azelf",
 			"number": 482,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 5,
-			"regions": [
-				"americas"
-			],
 			"nickname": [
 				"Buddy",
 				"Zuul",
@@ -2960,13 +5420,18 @@
 				"Apple",
 				"Azleaf",
 				"Axel"
+			],
+			"regions": [
+				"americas"
 			]
 		},
 		{
-			"name": "Dialga",
+			"name": "DIALGA",
+			"channelNickname": "dialga",
 			"number": 483,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 7,
 			"nickname": [
 				"dial",
@@ -2975,17 +5440,20 @@
 			]
 		},
 		{
-			"name": "Palkia",
+			"name": "PALKIA",
+			"channelNickname": "palkia",
 			"number": 484,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 8,
 			"nickname": [
 				"polka"
 			]
 		},
 		{
-			"name": "Heatran",
+			"name": "HEATRAN",
+			"channelNickname": "heatran",
 			"number": 485,
 			"tier": 5,
 			"active": false,
@@ -2997,24 +5465,25 @@
 			]
 		},
 		{
-			"name": "Regigigas",
+			"name": "REGIGIGAS",
+			"channelNickname": "regigigas",
 			"number": 486,
 			"tier": "ex",
 			"active": true,
+			"shiny": false,
 			"trainers": 7,
 			"nickname": [
-			    "giga",
-			    "gigs"
+				"giga",
+				"gigs"
 			]
 		},
 		{
-			"name": "Giratina-Altered",
-			"channelNickname": "Giratina-A",
+			"name": "GIRATINA ALTERED",
+			"channelNickname": "giratina-a",
 			"number": 487,
 			"tier": 5,
-			"trainers": 5,
-			"shiny": true,
 			"active": false,
+			"shiny": true,
 			"nickname": [
 				"tina",
 				"au gratin",
@@ -3023,22 +5492,25 @@
 				"giordanos",
 				"gira",
 				"giratina-a"
-			]
+			],
+			"image_name": "giratina-altered"
 		},
 		{
-			"name": "Giratina-Origin",
-			"channelNickname": "Giratina-O",
+			"name": "GIRATINA ORIGIN",
+			"channelNickname": "giratina-o",
 			"number": 100487,
 			"tier": 5,
-			"trainers": 5,
+			"active": false,
 			"shiny": true,
-			"active": false
+			"trainers": 5,
+			"nickname": null
 		},
 		{
-			"name": "Cresselia",
+			"name": "CRESSELIA",
+			"channelNickname": "cresselia",
 			"number": 488,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -3057,198 +5529,1796 @@
 			]
 		},
 		{
-			"name": "Phione",
+			"name": "PHIONE",
+			"channelNickname": "phione",
 			"number": 489,
-			"tier": 5
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Manaphy",
+			"name": "MANAPHY",
+			"channelNickname": "manaphy",
 			"number": 490,
-			"tier": 5
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Darkrai",
+			"name": "DARKRAI",
+			"channelNickname": "darkrai",
 			"number": 491,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 6,
 			"nickname": [
-			    "dark"
-		    ]
+				"dark"
+			]
 		},
 		{
-			"name": "Shaymin",
+			"name": "SHAYMIN LAND",
+			"channelNickname": "shaymin-land",
 			"number": 492,
-			"tier": 5
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Arceus",
+			"name": "SHAYMIN SKY",
+			"channelNickname": "shaymin-sky",
+			"number": 492,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS",
+			"channelNickname": "arceus",
 			"number": 493,
-			"tier": 5
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Tepig",
+			"name": "ARCEUS FIGHTING",
+			"channelNickname": "arceus-fighting",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS FLYING",
+			"channelNickname": "arceus-flying",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS POISON",
+			"channelNickname": "arceus-poison",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS GROUND",
+			"channelNickname": "arceus-ground",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS ROCK",
+			"channelNickname": "arceus-rock",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS BUG",
+			"channelNickname": "arceus-bug",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS GHOST",
+			"channelNickname": "arceus-ghost",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS STEEL",
+			"channelNickname": "arceus-steel",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS FIRE",
+			"channelNickname": "arceus-fire",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS WATER",
+			"channelNickname": "arceus-water",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS GRASS",
+			"channelNickname": "arceus-grass",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS ELECTRIC",
+			"channelNickname": "arceus-electric",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS PSYCHIC",
+			"channelNickname": "arceus-psychic",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS ICE",
+			"channelNickname": "arceus-ice",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS DRAGON",
+			"channelNickname": "arceus-dragon",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS DARK",
+			"channelNickname": "arceus-dark",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCEUS FAIRY",
+			"channelNickname": "arceus-fairy",
+			"number": 493,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VICTINI",
+			"channelNickname": "victini",
+			"number": 494,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SNIVY",
+			"channelNickname": "snivy",
+			"number": 495,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SERVINE",
+			"channelNickname": "servine",
+			"number": 496,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SERPERIOR",
+			"channelNickname": "serperior",
+			"number": 497,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TEPIG",
+			"channelNickname": "tepig",
 			"number": 498,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Oshawott",
+			"name": "PIGNITE",
+			"channelNickname": "pignite",
+			"number": 499,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "EMBOAR",
+			"channelNickname": "emboar",
+			"number": 500,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "OSHAWOTT",
+			"channelNickname": "oshawott",
 			"number": 501,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Patrat",
+			"name": "DEWOTT",
+			"channelNickname": "dewott",
+			"number": 502,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAMUROTT",
+			"channelNickname": "samurott",
+			"number": 503,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PATRAT",
+			"channelNickname": "patrat",
 			"number": 504,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Lillipup",
+			"name": "WATCHOG",
+			"channelNickname": "watchog",
+			"number": 505,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LILLIPUP",
+			"channelNickname": "lillipup",
 			"number": 506,
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
-			
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Liepard",
+			"name": "HERDIER",
+			"channelNickname": "herdier",
+			"number": 507,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "STOUTLAND",
+			"channelNickname": "stoutland",
+			"number": 508,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PURRLOIN",
+			"channelNickname": "purrloin",
+			"number": 509,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LIEPARD",
+			"channelNickname": "liepard",
 			"number": 510,
 			"tier": 2,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Pidove",
+			"name": "PANSAGE",
+			"channelNickname": "pansage",
+			"number": 511,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SIMISAGE",
+			"channelNickname": "simisage",
+			"number": 512,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PANSEAR",
+			"channelNickname": "pansear",
+			"number": 513,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SIMISEAR",
+			"channelNickname": "simisear",
+			"number": 514,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PANPOUR",
+			"channelNickname": "panpour",
 			"number": 515,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Blitzle",
+			"name": "SIMIPOUR",
+			"channelNickname": "simipour",
+			"number": 516,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MUNNA",
+			"channelNickname": "munna",
+			"number": 517,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MUSHARNA",
+			"channelNickname": "musharna",
+			"number": 518,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PIDOVE",
+			"channelNickname": "pidove",
+			"number": 519,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "TRANQUILL",
+			"channelNickname": "tranquill",
+			"number": 520,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "UNFEZANT",
+			"channelNickname": "unfezant",
+			"number": 521,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BLITZLE",
+			"channelNickname": "blitzle",
 			"number": 522,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Roggenrola",
+			"name": "ZEBSTRIKA",
+			"channelNickname": "zebstrika",
+			"number": 523,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ROGGENROLA",
+			"channelNickname": "roggenrola",
 			"number": 524,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Boldore",
+			"name": "BOLDORE",
+			"channelNickname": "boldore",
 			"number": 525,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Excadrill",
+			"name": "GIGALITH",
+			"channelNickname": "gigalith",
+			"number": 526,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "WOOBAT",
+			"channelNickname": "woobat",
+			"number": 527,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SWOOBAT",
+			"channelNickname": "swoobat",
+			"number": 528,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DRILBUR",
+			"channelNickname": "drilbur",
+			"number": 529,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "EXCADRILL",
+			"channelNickname": "excadrill",
 			"number": 530,
 			"tier": 4,
 			"active": false,
-			"trainers": 4
+			"shiny": false,
+			"trainers": 4,
+			"nickname": null
 		},
 		{
-			"name": "Timburr",
+			"name": "AUDINO",
+			"channelNickname": "audino",
+			"number": 531,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TIMBURR",
+			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
 			"active": true,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Venipede",
+			"name": "GURDURR",
+			"channelNickname": "gurdurr",
+			"number": 533,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CONKELDURR",
+			"channelNickname": "conkeldurr",
+			"number": 534,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TYMPOLE",
+			"channelNickname": "tympole",
+			"number": 535,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PALPITOAD",
+			"channelNickname": "palpitoad",
+			"number": 536,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SEISMITOAD",
+			"channelNickname": "seismitoad",
+			"number": 537,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "THROH",
+			"channelNickname": "throh",
+			"number": 538,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAWK",
+			"channelNickname": "sawk",
+			"number": 539,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SEWADDLE",
+			"channelNickname": "sewaddle",
+			"number": 540,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SWADLOON",
+			"channelNickname": "swadloon",
+			"number": 541,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LEAVANNY",
+			"channelNickname": "leavanny",
+			"number": 542,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VENIPEDE",
+			"channelNickname": "venipede",
 			"number": 543,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Dwebble",
-			"number": 557,
+			"name": "WHIRLIPEDE",
+			"channelNickname": "whirlipede",
+			"number": 544,
 			"tier": 1,
 			"active": false,
-			"trainers": 1
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Yamask",
+			"name": "SCOLIPEDE",
+			"channelNickname": "scolipede",
+			"number": 545,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "COTTONEE",
+			"channelNickname": "cottonee",
+			"number": 546,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "WHIMSICOTT",
+			"channelNickname": "whimsicott",
+			"number": 547,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PETILIL",
+			"channelNickname": "petilil",
+			"number": 548,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LILLIGANT",
+			"channelNickname": "lilligant",
+			"number": 549,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BASCULIN RED STRIPED",
+			"channelNickname": "basculin-red-striped",
+			"number": 550,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BASCULIN BLUE STRIPED",
+			"channelNickname": "basculin-blue-striped",
+			"number": 550,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SANDILE",
+			"channelNickname": "sandile",
+			"number": 551,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KROKOROK",
+			"channelNickname": "krokorok",
+			"number": 552,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KROOKODILE",
+			"channelNickname": "krookodile",
+			"number": 553,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DARUMAKA",
+			"channelNickname": "darumaka",
+			"number": 554,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DARMANITAN STANDARD",
+			"channelNickname": "darmanitan-standard",
+			"number": 555,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DARMANITAN ZEN",
+			"channelNickname": "darmanitan-zen",
+			"number": 555,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MARACTUS",
+			"channelNickname": "maractus",
+			"number": 556,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DWEBBLE",
+			"channelNickname": "dwebble",
+			"number": 557,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "CRUSTLE",
+			"channelNickname": "crustle",
+			"number": 558,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SCRAGGY",
+			"channelNickname": "scraggy",
+			"number": 559,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SCRAFTY",
+			"channelNickname": "scrafty",
+			"number": 560,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SIGILYPH",
+			"channelNickname": "sigilyph",
+			"number": 561,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "YAMASK",
+			"channelNickname": "yamask",
 			"number": 562,
 			"tier": 2,
 			"active": false,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Trubbish",
+			"name": "COFAGRIGUS",
+			"channelNickname": "cofagrigus",
+			"number": 563,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TIRTOUGA",
+			"channelNickname": "tirtouga",
+			"number": 564,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CARRACOSTA",
+			"channelNickname": "carracosta",
+			"number": 565,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCHEN",
+			"channelNickname": "archen",
+			"number": 566,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ARCHEOPS",
+			"channelNickname": "archeops",
+			"number": 567,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TRUBBISH",
+			"channelNickname": "trubbish",
 			"number": 568,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Ferroseed",
+			"name": "GARBODOR",
+			"channelNickname": "garbodor",
+			"number": 569,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZORUA",
+			"channelNickname": "zorua",
+			"number": 570,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZOROARK",
+			"channelNickname": "zoroark",
+			"number": 571,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MINCCINO",
+			"channelNickname": "minccino",
+			"number": 572,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CINCCINO",
+			"channelNickname": "cinccino",
+			"number": 573,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GOTHITA",
+			"channelNickname": "gothita",
+			"number": 574,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GOTHORITA",
+			"channelNickname": "gothorita",
+			"number": 575,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GOTHITELLE",
+			"channelNickname": "gothitelle",
+			"number": 576,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SOLOSIS",
+			"channelNickname": "solosis",
+			"number": 577,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DUOSION",
+			"channelNickname": "duosion",
+			"number": 578,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "REUNICLUS",
+			"channelNickname": "reuniclus",
+			"number": 579,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DUCKLETT",
+			"channelNickname": "ducklett",
+			"number": 580,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SWANNA",
+			"channelNickname": "swanna",
+			"number": 581,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VANILLITE",
+			"channelNickname": "vanillite",
+			"number": 582,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VANILLISH",
+			"channelNickname": "vanillish",
+			"number": 583,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VANILLUXE",
+			"channelNickname": "vanilluxe",
+			"number": 584,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEERLING SPRING",
+			"channelNickname": "deerling-spring",
+			"number": 585,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEERLING SUMMER",
+			"channelNickname": "deerling-summer",
+			"number": 585,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEERLING AUTUMN",
+			"channelNickname": "deerling-autumn",
+			"number": 585,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEERLING WINTER",
+			"channelNickname": "deerling-winter",
+			"number": 585,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAWSBUCK SPRING",
+			"channelNickname": "sawsbuck-spring",
+			"number": 586,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAWSBUCK SUMMER",
+			"channelNickname": "sawsbuck-summer",
+			"number": 586,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAWSBUCK AUTUMN",
+			"channelNickname": "sawsbuck-autumn",
+			"number": 586,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SAWSBUCK WINTER",
+			"channelNickname": "sawsbuck-winter",
+			"number": 586,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "EMOLGA",
+			"channelNickname": "emolga",
+			"number": 587,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KARRABLAST",
+			"channelNickname": "karrablast",
+			"number": 588,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ESCAVALIER",
+			"channelNickname": "escavalier",
+			"number": 589,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FOONGUS",
+			"channelNickname": "foongus",
+			"number": 590,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "AMOONGUSS",
+			"channelNickname": "amoonguss",
+			"number": 591,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FRILLISH",
+			"channelNickname": "frillish",
+			"number": 592,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FRILLISH FEMALE",
+			"channelNickname": "frillish-female",
+			"number": 592,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "JELLICENT",
+			"channelNickname": "jellicent",
+			"number": 593,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "JELLICENT FEMALE",
+			"channelNickname": "jellicent-female",
+			"number": 593,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ALOMOMOLA",
+			"channelNickname": "alomomola",
+			"number": 594,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "JOLTIK",
+			"channelNickname": "joltik",
+			"number": 595,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GALVANTULA",
+			"channelNickname": "galvantula",
+			"number": 596,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FERROSEED",
+			"channelNickname": "ferroseed",
 			"number": 597,
 			"tier": 3,
 			"active": false,
-			"trainers": 2
+			"shiny": false,
+			"trainers": 2,
+			"nickname": null
 		},
 		{
-			"name": "Klink",
+			"name": "FERROTHORN",
+			"channelNickname": "ferrothorn",
+			"number": 598,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KLINK",
+			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
 			"active": true,
 			"shiny": true,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Litwick",
+			"name": "KLANG",
+			"channelNickname": "klang",
+			"number": 600,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KLINKLANG",
+			"channelNickname": "klinklang",
+			"number": 601,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "TYNAMO",
+			"channelNickname": "tynamo",
+			"number": 602,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "EELEKTRIK",
+			"channelNickname": "eelektrik",
+			"number": 603,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "EELEKTROSS",
+			"channelNickname": "eelektross",
+			"number": 604,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ELGYEM",
+			"channelNickname": "elgyem",
+			"number": 605,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BEHEEYEM",
+			"channelNickname": "beheeyem",
+			"number": 606,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LITWICK",
+			"channelNickname": "litwick",
 			"number": 607,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": 1,
+			"nickname": null
 		},
 		{
-			"name": "Cubchoo",
-			"number": 613,
+			"name": "LAMPENT",
+			"channelNickname": "lampent",
+			"number": 608,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
-			"trainers": 1
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Cobalion",
+			"name": "CHANDELURE",
+			"channelNickname": "chandelure",
+			"number": 609,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "AXEW",
+			"channelNickname": "axew",
+			"number": 610,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FRAXURE",
+			"channelNickname": "fraxure",
+			"number": 611,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "HAXORUS",
+			"channelNickname": "haxorus",
+			"number": 612,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CUBCHOO",
+			"channelNickname": "cubchoo",
+			"number": 613,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "BEARTIC",
+			"channelNickname": "beartic",
+			"number": 614,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "CRYOGONAL",
+			"channelNickname": "cryogonal",
+			"number": 615,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "SHELMET",
+			"channelNickname": "shelmet",
+			"number": 616,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ACCELGOR",
+			"channelNickname": "accelgor",
+			"number": 617,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "STUNFISK",
+			"channelNickname": "stunfisk",
+			"number": 618,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MIENFOO",
+			"channelNickname": "mienfoo",
+			"number": 619,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MIENSHAO",
+			"channelNickname": "mienshao",
+			"number": 620,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DRUDDIGON",
+			"channelNickname": "druddigon",
+			"number": 621,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GOLETT",
+			"channelNickname": "golett",
+			"number": 622,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GOLURK",
+			"channelNickname": "golurk",
+			"number": 623,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "PAWNIARD",
+			"channelNickname": "pawniard",
+			"number": 624,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BISHARP",
+			"channelNickname": "bisharp",
+			"number": 625,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BOUFFALANT",
+			"channelNickname": "bouffalant",
+			"number": 626,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "RUFFLET",
+			"channelNickname": "rufflet",
+			"number": 627,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "BRAVIARY",
+			"channelNickname": "braviary",
+			"number": 628,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VULLABY",
+			"channelNickname": "vullaby",
+			"number": 629,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MANDIBUZZ",
+			"channelNickname": "mandibuzz",
+			"number": 630,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "HEATMOR",
+			"channelNickname": "heatmor",
+			"number": 631,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DURANT",
+			"channelNickname": "durant",
+			"number": 632,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "DEINO",
+			"channelNickname": "deino",
+			"number": 633,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZWEILOUS",
+			"channelNickname": "zweilous",
+			"number": 634,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "HYDREIGON",
+			"channelNickname": "hydreigon",
+			"number": 635,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LARVESTA",
+			"channelNickname": "larvesta",
+			"number": 636,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "VOLCARONA",
+			"channelNickname": "volcarona",
+			"number": 637,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "COBALION",
+			"channelNickname": "cobalion",
 			"number": 638,
 			"tier": 5,
-			"active": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 6,
 			"nickname": [
 				"Cobal"
 			]
 		},
 		{
-			"name": "Terrakion",
+			"name": "TERRAKION",
+			"channelNickname": "terrakion",
 			"number": 639,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 5,
 			"nickname": [
 				"Terra",
@@ -3257,36 +7327,237 @@
 			]
 		},
 		{
-			"name": "Virizion",
+			"name": "VIRIZION",
+			"channelNickname": "virizion",
 			"number": 640,
 			"tier": 5,
 			"active": false,
+			"shiny": false,
 			"trainers": 5,
 			"nickname": [
 				"Verizon"
 			]
 		},
 		{
-			"name": "Tornadus",
+			"name": "TORNADUS INCARNATE",
+			"channelNickname": "tornadus",
 			"number": 641,
-			"tier": 5,
+			"tier": 1,
 			"active": false,
-			"trainers": 4,
-			"nickname": [
-				"Tornado",
-				"Twister",
-				"Torn"
-			]
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		},
 		{
-			"name": "Thundurus",
+			"name": "TORNADUS THERIAN",
+			"channelNickname": "tornadus-t",
+			"number": 641,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "THUNDURUS INCARNATE",
+			"channelNickname": "thundurus",
 			"number": 642,
 			"tier": 5,
 			"active": true,
+			"shiny": false,
 			"trainers": 5,
-			"nickname": [
-				"Thunder"
-			]
+			"nickname": null,
+			"image_name": "thundurus"
+		},
+		{
+			"name": "THUNDURUS THERIAN",
+			"channelNickname": "thundurus-t",
+			"number": 642,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "RESHIRAM",
+			"channelNickname": "reshiram",
+			"number": 643,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZEKROM",
+			"channelNickname": "zekrom",
+			"number": 644,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LANDORUS INCARNATE",
+			"channelNickname": "landorus",
+			"number": 645,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "LANDORUS THERIAN",
+			"channelNickname": "landorus-t",
+			"number": 645,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KYUREM",
+			"channelNickname": "kyurem",
+			"number": 646,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KYUREM WHITE",
+			"channelNickname": "kyurem-white",
+			"number": 646,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KYUREM BLACK",
+			"channelNickname": "kyurem-black",
+			"number": 646,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KELDEO ORDINARY",
+			"channelNickname": "keldeo-ordinary",
+			"number": 647,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "KELDEO RESOLUTE",
+			"channelNickname": "keldeo-resolute",
+			"number": 647,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MELOETTA ARIA",
+			"channelNickname": "meloetta-aria",
+			"number": 648,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MELOETTA PIROUETTE",
+			"channelNickname": "meloetta-pirouette",
+			"number": 648,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GENESECT SHOCK",
+			"channelNickname": "genesect-shock",
+			"number": 649,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GENESECT DOUSE",
+			"channelNickname": "genesect-douse",
+			"number": 649,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GENESECT",
+			"channelNickname": "genesect",
+			"number": 649,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GENESECT BURN",
+			"channelNickname": "genesect-burn",
+			"number": 649,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "GENESECT CHILL",
+			"channelNickname": "genesect-chill",
+			"number": 649,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MELTAN",
+			"channelNickname": "meltan",
+			"number": 808,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "MELMETAL",
+			"channelNickname": "melmetal",
+			"number": 809,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
 		}
 	]
 }
