@@ -1,5 +1,5 @@
 {
-	"version": "20200329",
+	"version": "20200329a",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -7305,7 +7305,7 @@
 			"channelNickname": "cobalion",
 			"number": 638,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -7403,7 +7403,7 @@
 			"name": "LANDORUS INCARNATE",
 			"channelNickname": "landorus",
 			"number": 645,
-			"tier": 1,
+			"tier": 5,
 			"active": true,
 			"shiny": false,
 			"trainers": null,
