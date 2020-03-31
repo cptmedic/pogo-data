@@ -1,5 +1,5 @@
 {
-	"version": "20200329a",
+	"version": "20200329b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -7407,7 +7407,8 @@
 			"active": true,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "landorus"
 		},
 		{
 			"name": "LANDORUS THERIAN",
