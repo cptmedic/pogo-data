@@ -7363,7 +7363,7 @@
 			"channelNickname": "thundurus",
 			"number": 642,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": null,
@@ -7404,7 +7404,7 @@
 			"channelNickname": "landorus",
 			"number": 645,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
