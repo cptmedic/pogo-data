@@ -1,5 +1,5 @@
 {
-	"version": "20200508",
+	"version": "20200512",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -5488,7 +5488,7 @@
 			"channelNickname": "giratina-a",
 			"number": 487,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"nickname": [
 				"tina",
@@ -7339,8 +7339,8 @@
 			"channelNickname": "virizion",
 			"number": 640,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 5,
 			"nickname": [
 				"Verizon"
