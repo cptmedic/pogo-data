@@ -1,5 +1,5 @@
 {
-	"version": "20200703b",
+	"version": "20200707d",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -210,13 +210,13 @@
 			"nickname": null
 		},
 		{
-			"name": "PIDGEOTTO",
-			"channelNickname": "pidgeotto",
-			"number": 17,
-			"tier": 1,
-			"active": false,
+			"name": "PIDGEOT",
+			"channelNickname": "pidgeot",
+			"number": 18,
+			"tier": 4,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 4,
 			"nickname": null
 		},
 		{
@@ -242,7 +242,8 @@
 				"rattata-alola",
 				"alolan-rattata",
 				"rattata-alolan"
-			]
+			],
+			"image_name": "alolan rattata"
 		},
 		{
 			"name": "RATICATE",
@@ -267,7 +268,8 @@
 				"raticate-alola",
 				"alolan-raticate",
 				"raticate-alolan"
-			]
+			],
+			"image_name": "alolan raticate"
 		},
 		{
 			"name": "SPEAROW",
@@ -342,7 +344,8 @@
 				"raichu-alola",
 				"alolan-raichu",
 				"raichu-alolan"
-			]
+			],
+			"image_name": "alolan raichu"
 		},
 		{
 			"name": "SANDSHREW",
@@ -367,7 +370,8 @@
 				"sandshrew-alola",
 				"alolan-sandshrew",
 				"sandshrew-alolan"
-			]
+			],
+			"image_name": "alolan sandshrew"
 		},
 		{
 			"name": "SANDSLASH",
@@ -392,7 +396,8 @@
 				"sandslash-alola",
 				"alolan-sandslash",
 				"sandslash-alolan"
-			]
+			],
+			"image_name": "alolan sandslash"
 		},
 		{
 			"name": "NIDORAN",
@@ -497,7 +502,8 @@
 				"vulpix-alola",
 				"alolan-vulpix",
 				"vulpix-alolan"
-			]
+			],
+			"image_name": "alolan vulpix"
 		},
 		{
 			"name": "NINETALES",
@@ -522,7 +528,8 @@
 				"ninetails-alola",
 				"alolan-ninetails",
 				"ninetails-alolan"
-			]
+			],
+			"image_name": "alolan ninetales"
 		},
 		{
 			"name": "JIGGLYPUFF",
@@ -657,7 +664,8 @@
 				"diglett-alola",
 				"alolan-diglett",
 				"diglett-alolan"
-			]
+			],
+			"image_name": "alolan diglett"
 		},
 		{
 			"name": "DUGTRIO",
@@ -682,7 +690,8 @@
 				"dugtrio-alola",
 				"alolan-dugtrio",
 				"dugtrio-alolan"
-			]
+			],
+			"image_name": "alolan dugtrio"
 		},
 		{
 			"name": "MEOWTH",
@@ -707,7 +716,8 @@
 				"meowth-alola",
 				"alolan-meowth",
 				"meowth-alolan"
-			]
+			],
+			"image_name": "alolan meowth"
 		},
 		{
 			"name": "PERSIAN",
@@ -732,7 +742,8 @@
 				"persian-alola",
 				"alolan-persian",
 				"persian-alolan"
-			]
+			],
+			"image_name": "alolan persian"
 		},
 		{
 			"name": "PSYDUCK",
@@ -959,7 +970,8 @@
 				"geodude-alola",
 				"alolan-geodude",
 				"geodude-alolan"
-			]
+			],
+			"image_name": "alolan geodude"
 		},
 		{
 			"name": "GRAVELER",
@@ -984,14 +996,15 @@
 				"graveler-alola",
 				"alolan-graveler",
 				"graveler-alolan"
-			]
+			],
+			"image_name": "alolan graveler"
 		},
 		{
 			"name": "GOLEM",
 			"channelNickname": "golem",
 			"number": 76,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -1009,7 +1022,8 @@
 				"golem-alola",
 				"alolan-golem",
 				"golem-alolan"
-			]
+			],
+			"image_name": "alolan golem"
 		},
 		{
 			"name": "PONYTA",
@@ -1046,7 +1060,7 @@
 			"channelNickname": "slowbro",
 			"number": 80,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -1172,7 +1186,8 @@
 				"muk-alola",
 				"alolan-muk",
 				"muk-alolan"
-			]
+			],
+			"image_name": "alolan muk"
 		},
 		{
 			"name": "SHELLDER",
@@ -1229,7 +1244,7 @@
 			"channelNickname": "onix",
 			"number": 95,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1319,7 +1334,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1327,7 +1342,8 @@
 				"exeggutor-alola",
 				"alolan-exeggutor",
 				"exeggutor-alolan"
-			]
+			],
+			"image_name": "alolan exeggutor"
 		},
 		{
 			"name": "CUBONE",
@@ -1354,7 +1370,7 @@
 			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -1362,7 +1378,8 @@
 				"marowak-alola",
 				"alolan-marowak",
 				"marowak-alolan"
-			]
+			],
+			"image_name": "alolan marowak"
 		},
 		{
 			"name": "HITMONLEE",
@@ -1427,7 +1444,8 @@
 				"weezing-galar",
 				"galarian-weezing",
 				"weezing-galarian"
-			]
+			],
+			"image_name": "weezing-galar"
 		},
 		{
 			"name": "RHYHORN",
@@ -1549,14 +1567,15 @@
 			"trainers": null,
 			"nickname": [
 				"mr-mime"
-			]
+			],
+			"image_name": "mr._mime"
 		},
 		{
 			"name": "SCYTHER",
 			"channelNickname": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1638,7 +1657,7 @@
 			"channelNickname": "lapras",
 			"number": 131,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null
@@ -1710,7 +1729,7 @@
 			"channelNickname": "omanyte",
 			"number": 138,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1740,7 +1759,7 @@
 			"channelNickname": "kabutops",
 			"number": 141,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1826,7 +1845,7 @@
 			"channelNickname": "dragonite",
 			"number": 149,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": null
@@ -1858,7 +1877,8 @@
 				"mewtwo-armored",
 				"a-mewtwo",
 				"mewtwo-a"
-			]
+			],
+			"image_name": "mewtwo-a"
 		},
 		{
 			"name": "MEW",
@@ -1955,7 +1975,7 @@
 			"channelNickname": "feraligatr",
 			"number": 160,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": [
@@ -2117,7 +2137,7 @@
 			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -2207,7 +2227,7 @@
 			"channelNickname": "sudowoodo",
 			"number": 185,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2427,7 +2447,7 @@
 			"channelNickname": "gligar",
 			"number": 207,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2617,7 +2637,7 @@
 			"channelNickname": "mantine",
 			"number": 226,
 			"tier": 2,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -2627,7 +2647,7 @@
 			"channelNickname": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2837,7 +2857,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": [
@@ -2859,10 +2879,13 @@
 			"channelNickname": "ho-oh",
 			"number": 250,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
-			"nickname": null
+			"nickname": [
+				"santa"
+			],
+			"image_name": "ho-oh"
 		},
 		{
 			"name": "CELEBI",
@@ -3002,7 +3025,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "zigzagoon-galar"
 		},
 		{
 			"name": "LINOONE",
@@ -3022,7 +3046,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "linoone-galar"
 		},
 		{
 			"name": "WURMPLE",
@@ -3479,7 +3504,7 @@
 			"channelNickname": "manectric",
 			"number": 310,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3709,7 +3734,7 @@
 			"channelNickname": "swablu",
 			"number": 333,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3869,7 +3894,7 @@
 			"channelNickname": "feebas",
 			"number": 349,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3902,7 +3927,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "castform-sunny"
 		},
 		{
 			"name": "CASTFORM RAINY",
@@ -3912,7 +3938,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "castform-rainy"
 		},
 		{
 			"name": "CASTFORM SNOWY",
@@ -3922,7 +3949,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "castform-snowy"
 		},
 		{
 			"name": "KECLEON",
@@ -4140,10 +4168,10 @@
 			"name": "SALAMENCE",
 			"channelNickname": "salamence",
 			"number": 373,
-			"tier": 1,
-			"active": false,
+			"tier": 4,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 4,
 			"nickname": null
 		},
 		{
@@ -4308,7 +4336,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deoxys-attack"
 		},
 		{
 			"name": "DEOXYS DEFENSE",
@@ -4318,7 +4347,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deoxys-defense"
 		},
 		{
 			"name": "DEOXYS SPEED",
@@ -4328,7 +4358,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deoxys-speed"
 		},
 		{
 			"name": "TURTWIG",
@@ -4588,7 +4619,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "burmy-plant"
 		},
 		{
 			"name": "BURMY SANDY",
@@ -4598,7 +4630,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "burmy-sandy"
 		},
 		{
 			"name": "BURMY TRASH",
@@ -4608,7 +4641,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "burmy-trash"
 		},
 		{
 			"name": "WORMADAM PLANT",
@@ -4618,7 +4652,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "wormadam"
 		},
 		{
 			"name": "WORMADAM SANDY",
@@ -4628,7 +4663,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "wormadam-sandy"
 		},
 		{
 			"name": "WORMADAM TRASH",
@@ -4638,7 +4674,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "wormadam-trash"
 		},
 		{
 			"name": "MOTHIM",
@@ -4718,7 +4755,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "cherrim"
 		},
 		{
 			"name": "CHERRIM SUNNY",
@@ -4728,7 +4766,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "cherrim-sunshine"
 		},
 		{
 			"name": "SHELLOS WEST SEA",
@@ -4738,7 +4777,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "shellos"
 		},
 		{
 			"name": "SHELLOS EAST SEA",
@@ -4748,7 +4788,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "shellos-east"
 		},
 		{
 			"name": "GASTRODON WEST SEA",
@@ -4758,7 +4799,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "gastrodon"
 		},
 		{
 			"name": "GASTRODON EAST SEA",
@@ -4768,7 +4810,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "gastrodon-east"
 		},
 		{
 			"name": "AMBIPOM",
@@ -4784,8 +4827,8 @@
 			"name": "DRIFLOON",
 			"channelNickname": "drifloon",
 			"number": 425,
-			"tier": 1,
-			"active": false,
+			"tier": 2,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4928,7 +4971,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "mime_jr"
 		},
 		{
 			"name": "HAPPINY",
@@ -5278,7 +5322,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "porygon-z"
 		},
 		{
 			"name": "GALLADE",
@@ -5338,7 +5383,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "rotom-heat"
 		},
 		{
 			"name": "ROTOM WASH",
@@ -5348,7 +5394,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "rotom-wash"
 		},
 		{
 			"name": "ROTOM FROST",
@@ -5358,7 +5405,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "rotom-frost"
 		},
 		{
 			"name": "ROTOM FAN",
@@ -5368,7 +5416,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "rotom-fan"
 		},
 		{
 			"name": "ROTOM MOW",
@@ -5378,7 +5427,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "rotom-mow"
 		},
 		{
 			"name": "UXIE",
@@ -5509,7 +5559,8 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 5,
-			"nickname": null
+			"nickname": null,
+			"image_name": "giratina-origin"
 		},
 		{
 			"name": "CRESSELIA",
@@ -5574,7 +5625,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "shaymin"
 		},
 		{
 			"name": "SHAYMIN SKY",
@@ -5584,7 +5636,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "shaymin-sky"
 		},
 		{
 			"name": "ARCEUS",
@@ -6100,10 +6153,10 @@
 			"name": "WOOBAT",
 			"channelNickname": "woobat",
 			"number": 527,
-			"tier": 1,
-			"active": false,
+			"tier": 2,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -6336,7 +6389,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "basculin"
 		},
 		{
 			"name": "BASCULIN BLUE STRIPED",
@@ -6346,7 +6400,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "basculin-blue"
 		},
 		{
 			"name": "SANDILE",
@@ -6396,7 +6451,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "darmanitan"
 		},
 		{
 			"name": "DARMANITAN ZEN",
@@ -6406,7 +6462,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "darmanitan-zen"
 		},
 		{
 			"name": "MARACTUS",
@@ -6706,7 +6763,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deerling"
 		},
 		{
 			"name": "DEERLING SUMMER",
@@ -6716,7 +6774,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deerling-summer"
 		},
 		{
 			"name": "DEERLING AUTUMN",
@@ -6726,7 +6785,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deerling-autumn"
 		},
 		{
 			"name": "DEERLING WINTER",
@@ -6736,7 +6796,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "deerling-winter"
 		},
 		{
 			"name": "SAWSBUCK SPRING",
@@ -6746,7 +6807,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "sawsbuck"
 		},
 		{
 			"name": "SAWSBUCK SUMMER",
@@ -6756,7 +6818,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "sawsbuck-summer"
 		},
 		{
 			"name": "SAWSBUCK AUTUMN",
@@ -6766,7 +6829,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "sawsbuck-autumn"
 		},
 		{
 			"name": "SAWSBUCK WINTER",
@@ -6776,7 +6840,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "sawsbuck-winter"
 		},
 		{
 			"name": "EMOLGA",
@@ -6846,7 +6911,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "frillish-f"
 		},
 		{
 			"name": "JELLICENT",
@@ -6866,7 +6932,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "jellicent-f"
 		},
 		{
 			"name": "ALOMOMOLA",
@@ -6923,7 +6990,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7131,7 +7198,8 @@
 				"stunfisk-galar",
 				"galarian-stunfisk",
 				"stunfisk-galarian"
-			]
+			],
+			"image_name": "stunfisk-galar"
 		},
 		{
 			"name": "MIENFOO",
@@ -7369,7 +7437,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "tornadus"
 		},
 		{
 			"name": "TORNADUS THERIAN",
@@ -7379,7 +7448,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "tornadus-therian"
 		},
 		{
 			"name": "THUNDURUS INCARNATE",
@@ -7400,7 +7470,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "thundurus-therian"
 		},
 		{
 			"name": "RESHIRAM",
@@ -7417,7 +7488,7 @@
 			"channelNickname": "zekrom",
 			"number": 644,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"nickname": [
@@ -7435,7 +7506,8 @@
 			"nickname": [
 				"lando",
 				"calrissian"
-			]
+			],
+			"image_name": "landorus"
 		},
 		{
 			"name": "LANDORUS THERIAN",
@@ -7445,14 +7517,15 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "landorus-therian"
 		},
 		{
 			"name": "KYUREM",
 			"channelNickname": "kyurem",
 			"number": 646,
-			"tier": 1,
-			"active": false,
+			"tier": 5,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -7465,7 +7538,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "kyurem-white"
 		},
 		{
 			"name": "KYUREM BLACK",
@@ -7475,7 +7549,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "kyurem-black"
 		},
 		{
 			"name": "KELDEO ORDINARY",
@@ -7485,7 +7560,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "keldeo"
 		},
 		{
 			"name": "KELDEO RESOLUTE",
@@ -7495,7 +7571,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "keldeo-resolute"
 		},
 		{
 			"name": "MELOETTA ARIA",
@@ -7505,7 +7582,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "meloetta"
 		},
 		{
 			"name": "MELOETTA PIROUETTE",
@@ -7515,7 +7593,8 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": null,
+			"image_name": "meloetta-pirouette"
 		},
 		{
 			"name": "GENESECT SHOCK",
