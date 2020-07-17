@@ -1,5 +1,5 @@
 {
-	"version": "20200710",
+	"version": "20200714c",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -227,7 +227,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"kanto-rattata",
+				"rattata-kanto"
+			]
 		},
 		{
 			"name": "RATTATA ALOLA",
@@ -253,7 +256,10 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-raticate",
+				"raticate-kanto"
+			]
 		},
 		{
 			"name": "RATICATE ALOLA",
@@ -329,7 +335,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-raichu",
+				"raichu-kanto"
+			]
 		},
 		{
 			"name": "RAICHU ALOLA",
@@ -355,7 +364,10 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-sandshrew",
+				"sandshrew-kanto"
+			]
 		},
 		{
 			"name": "SANDSHREW ALOLA",
@@ -381,7 +393,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-sandslash",
+				"sandslash-kanto"
+			]
 		},
 		{
 			"name": "SANDSLASH ALOLA",
@@ -487,7 +502,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-vulpix",
+				"vulpix-kanto"
+			]
 		},
 		{
 			"name": "VULPIX ALOLA",
@@ -513,7 +531,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 2,
-			"nickname": null
+			"nickname": [
+				"kanto-ninetales",
+				"ninetales-kanto"
+			]
 		},
 		{
 			"name": "NINETALES ALOLA",
@@ -649,7 +670,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"kanto-diglett",
+				"diglett-kanto"
+			]
 		},
 		{
 			"name": "DIGLETT ALOLA",
@@ -675,7 +699,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"kanto-dugtrio",
+				"dugtrio-kanto"
+			]
 		},
 		{
 			"name": "DUGTRIO ALOLA",
@@ -701,7 +728,10 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-meowth",
+				"meowth-kanto"
+			]
 		},
 		{
 			"name": "MEOWTH ALOLA",
@@ -727,7 +757,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-persian",
+				"persian-kanto"
+			]
 		},
 		{
 			"name": "PERSIAN ALOLA",
@@ -955,7 +988,10 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-geodude",
+				"geodude-kanto"
+			]
 		},
 		{
 			"name": "GEODUDE ALOLA",
@@ -981,7 +1017,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"kanto-graveler",
+				"graveler-kanto"
+			]
 		},
 		{
 			"name": "GRAVELER ALOLA",
@@ -1007,7 +1046,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 4,
-			"nickname": null
+			"nickname": [
+				"kanto-golem",
+				"golem-kanto"
+			]
 		},
 		{
 			"name": "GOLEM ALOLA",
@@ -1145,7 +1187,10 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-grimer",
+				"grimer-kanto"
+			]
 		},
 		{
 			"name": "GRIMER ALOLA",
@@ -1171,7 +1216,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-muk",
+				"muk-kanto"
+			]
 		},
 		{
 			"name": "MUK ALOLA",
@@ -1327,7 +1375,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-exeggutor",
+				"exeggutor-kanto"
+			]
 		},
 		{
 			"name": "EXEGGUTOR ALOLA",
@@ -1363,7 +1414,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
-			"nickname": null
+			"nickname": [
+				"kanto-marowak",
+				"marowak-kanto"
+			]
 		},
 		{
 			"name": "MAROWAK ALOLA",
@@ -1429,7 +1483,10 @@
 			"active": true,
 			"shiny": false,
 			"trainers": 2,
-			"nickname": null
+			"nickname": [
+				"kanto-weezing",
+				"weezing-kanto"
+			]
 		},
 		{
 			"name": "WEEZING GALARIAN",
@@ -3015,7 +3072,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"hoenn-zigzagoon",
+				"zigzagoon-hoenn"
+			]
 		},
 		{
 			"name": "ZIGZAGOON GALARIAN",
@@ -3025,7 +3085,12 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null,
+			"nickname": [
+				"galar-zigzagoon",
+				"zigzagoon-galar",
+				"galarian-zigzagoon",
+				"zigzagoon-galarian"
+			],
 			"image_name": "zigzagoon-galar"
 		},
 		{
@@ -3036,7 +3101,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"hoenn-linoone",
+				"linoone-hoenn"
+			]
 		},
 		{
 			"name": "LINOONE GALARIAN",
@@ -3046,7 +3114,12 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null,
+			"nickname": [
+				"galar-linoone",
+				"linoone-galar",
+				"galarian-linoone",
+				"linoone-galarian"
+			],
 			"image_name": "linoone-galar"
 		},
 		{
@@ -7183,7 +7256,10 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
+			"nickname": [
+				"unova-stunfisk",
+				"stunfisk-unova"
+			]
 		},
 		{
 			"name": "STUNFISK GALARIAN",
