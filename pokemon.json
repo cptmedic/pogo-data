@@ -1,5 +1,5 @@
 {
-	"version": "20200806",
+	"version": "20200806a",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -4659,7 +4659,7 @@
 			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -4693,8 +4693,8 @@
 			"channelNickname": "deoxys",
 			"number": 386,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 3,
 			"nickname": [
 				"deoxys-normal"
