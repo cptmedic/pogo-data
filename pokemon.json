@@ -1,5 +1,5 @@
 {
-	"version": "20200807",
+	"version": "20200807d",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -94,7 +94,7 @@
 			"channelNickname": "charizard",
 			"number": 6,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -312,7 +312,7 @@
 			"channelNickname": "arbok",
 			"number": 24,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -479,7 +479,7 @@
 			"channelNickname": "clefairy",
 			"number": 35,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -557,7 +557,7 @@
 			"channelNickname": "jigglypuff",
 			"number": 39,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -1385,7 +1385,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1424,7 +1424,7 @@
 			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -1569,7 +1569,7 @@
 			"channelNickname": "seadra",
 			"number": 117,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -1599,7 +1599,7 @@
 			"channelNickname": "staryu",
 			"number": 120,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -1882,7 +1882,7 @@
 			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1902,7 +1902,7 @@
 			"channelNickname": "dragonite",
 			"number": 149,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": null
@@ -2022,7 +2022,7 @@
 			"channelNickname": "croconaw",
 			"number": 159,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -2194,7 +2194,7 @@
 			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -2441,15 +2441,24 @@
 		},
 		{
 			"name": "UNOWN",
+			"channelNickname": "unown",
+			"number": 201,
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null,
+			"image_name": "unown-interrogation"
+		},
+		{
+			"name": "UNOWN A",
 			"channelNickname": "unown-a",
 			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
-			"nickname": [
-				"UNOWN A"
-			]
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"image_name": "unown"
 		},
 		{
 			"name": "UNOWN B",
@@ -2565,10 +2574,10 @@
 			"name": "UNOWN L",
 			"channelNickname": "unown-l",
 			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-lima"
 		},
@@ -2631,10 +2640,10 @@
 			"name": "UNOWN R",
 			"channelNickname": "unown-r",
 			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-romeo"
 		},
@@ -2653,10 +2662,10 @@
 			"name": "UNOWN T",
 			"channelNickname": "unown-t",
 			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-tango"
 		},
@@ -2664,10 +2673,10 @@
 			"name": "UNOWN U",
 			"channelNickname": "unown-u",
 			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"tier": 2,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-uniform"
 		},
@@ -2727,17 +2736,6 @@
 			"image_name": "unown-zulu"
 		},
 		{
-			"name": "UNOWN QUESTION",
-			"channelNickname": "unown-question",
-			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
-			"nickname": null,
-			"image_name": "unown-interrogation"
-		},
-		{
 			"name": "UNOWN EXCLAMATION",
 			"channelNickname": "unown-exclamation",
 			"number": 201,
@@ -2747,6 +2745,17 @@
 			"trainers": null,
 			"nickname": null,
 			"image_name": "unown-exclamation"
+		},
+		{
+			"name": "UNOWN QUESTION",
+			"channelNickname": "unown-question",
+			"number": 201,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null,
+			"image_name": "unown-interrogation"
 		},
 		{
 			"name": "WOBBUFFET",
@@ -2883,7 +2892,7 @@
 			"channelNickname": "sneasel",
 			"number": 215,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2943,7 +2952,7 @@
 			"channelNickname": "piloswine",
 			"number": 221,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3258,7 +3267,7 @@
 			"channelNickname": "treecko",
 			"number": 252,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4066,7 +4075,7 @@
 			"channelNickname": "vibrava",
 			"number": 329,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -4106,7 +4115,7 @@
 			"channelNickname": "swablu",
 			"number": 333,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4146,7 +4155,7 @@
 			"channelNickname": "lunatone",
 			"number": 337,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -4156,7 +4165,7 @@
 			"channelNickname": "solrock",
 			"number": 338,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -4216,7 +4225,7 @@
 			"channelNickname": "claydol",
 			"number": 344,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4459,7 +4468,7 @@
 			"channelNickname": "walrein",
 			"number": 365,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": null
@@ -4541,7 +4550,7 @@
 			"channelNickname": "salamence",
 			"number": 373,
 			"tier": 4,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -4571,7 +4580,7 @@
 			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 6,
 			"nickname": null
@@ -5320,7 +5329,7 @@
 			"channelNickname": "bronzong",
 			"number": 437,
 			"tier": 4,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": null
@@ -5381,7 +5390,7 @@
 			"channelNickname": "gible",
 			"number": 443,
 			"tier": 2,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": null,
 			"nickname": null
@@ -6206,7 +6215,7 @@
 			"channelNickname": "snivy",
 			"number": 495,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -7021,8 +7030,8 @@
 			"name": "GOTHITA",
 			"channelNickname": "gothita",
 			"number": 574,
-			"tier": 1,
-			"active": false,
+			"tier": 2,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -7051,8 +7060,8 @@
 			"name": "SOLOSIS",
 			"channelNickname": "solosis",
 			"number": 577,
-			"tier": 1,
-			"active": false,
+			"tier": 2,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
@@ -7362,7 +7371,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7421,8 +7430,8 @@
 			"name": "ELGYEM",
 			"channelNickname": "elgyem",
 			"number": 605,
-			"tier": 1,
-			"active": false,
+			"tier": 2,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
