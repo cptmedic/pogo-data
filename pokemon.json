@@ -1,5 +1,5 @@
 {
-	"version": "20200813",
+	"version": "20200813b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -7981,6 +7981,16 @@
 			"image_name": "meloetta-pirouette"
 		},
 		{
+			"name": "GENESECT",
+			"channelNickname": "genesect",
+			"number": 649,
+			"tier": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 3,
+			"nickname": null
+		},
+		{
 			"name": "GENESECT SHOCK",
 			"channelNickname": "genesect-shock",
 			"number": 649,
@@ -7998,16 +8008,6 @@
 			"active": false,
 			"shiny": false,
 			"trainers": null,
-			"nickname": null
-		},
-		{
-			"name": "GENESECT",
-			"channelNickname": "genesect",
-			"number": 649,
-			"tier": 5,
-			"active": true,
-			"shiny": false,
-			"trainers": 3,
 			"nickname": null
 		},
 		{
