@@ -1,5 +1,5 @@
 {
-	"version": "20200807d",
+	"version": "20200813",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -4702,7 +4702,7 @@
 			"channelNickname": "deoxys",
 			"number": 386,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": [
@@ -8004,10 +8004,10 @@
 			"name": "GENESECT",
 			"channelNickname": "genesect",
 			"number": 649,
-			"tier": 1,
-			"active": false,
+			"tier": 5,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 3,
 			"nickname": null
 		},
 		{
