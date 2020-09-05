@@ -1,5 +1,5 @@
 {
-	"version": "20200827",
+	"version": "20200829",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -70,7 +70,7 @@
 			"number": 3,
 			"tier": 3,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 5,
 			"nickname": null
 		},
@@ -80,7 +80,7 @@
 			"number": 3,
 			"tier": "mega",
 			"active": true,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
 			"image_name": "venusaur-mega"
@@ -111,7 +111,7 @@
 			"number": 6,
 			"tier": 3,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 4,
 			"nickname": null
 		},
@@ -121,7 +121,7 @@
 			"number": 6,
 			"tier": "mega",
 			"active": true,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
 			"image_name": "charizard-megax"
@@ -132,7 +132,7 @@
 			"number": 6,
 			"tier": "mega",
 			"active": true,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
 			"image_name": "charizard-megay"
@@ -163,7 +163,7 @@
 			"number": 9,
 			"tier": 3,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 6,
 			"nickname": null
 		},
@@ -173,7 +173,7 @@
 			"number": 9,
 			"tier": "mega",
 			"active": true,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
 			"image_name": "blastoise-mega"
@@ -243,7 +243,7 @@
 			"channelNickname": "mega beedrill",
 			"number": 15,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 3,
 			"nickname": null,
@@ -284,7 +284,7 @@
 			"channelNickname": "mega pidgeot",
 			"number": 18,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null,
@@ -1114,7 +1114,7 @@
 			"channelNickname": "golem",
 			"number": 76,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": [
@@ -1564,7 +1564,7 @@
 			"channelNickname": "weezing-galarian",
 			"number": 310110,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": [
@@ -1763,7 +1763,7 @@
 			"channelNickname": "magikarp",
 			"number": 129,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -3293,7 +3293,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": [
@@ -3716,7 +3716,7 @@
 			"channelNickname": "breloom",
 			"number": 286,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3886,7 +3886,7 @@
 			"channelNickname": "mawile",
 			"number": 303,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6636,7 +6636,7 @@
 			"channelNickname": "excadrill",
 			"number": 530,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -6656,7 +6656,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -7444,7 +7444,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
