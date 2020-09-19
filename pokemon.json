@@ -1,5 +1,5 @@
 {
-	"version": "20200910b",
+	"version": "20200918b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -81,7 +81,7 @@
 			"tier": "mega",
 			"active": true,
 			"shiny": true,
-			"trainers": 5,
+			"trainers": 6,
 			"nickname": null,
 			"image_name": "venusaur-mega"
 		},
@@ -122,7 +122,7 @@
 			"tier": "mega",
 			"active": true,
 			"shiny": true,
-			"trainers": 4,
+			"trainers": 6,
 			"nickname": null,
 			"image_name": "charizard-megax"
 		},
@@ -133,7 +133,7 @@
 			"tier": "mega",
 			"active": true,
 			"shiny": true,
-			"trainers": 4,
+			"trainers": 5,
 			"nickname": null,
 			"image_name": "charizard-megay"
 		},
@@ -284,9 +284,9 @@
 			"channelNickname": "mega pidgeot",
 			"number": 18,
 			"tier": "mega",
-			"active": false,
-			"shiny": false,
-			"trainers": 4,
+			"active": true,
+			"shiny": true,
+			"trainers": 5,
 			"nickname": null,
 			"image_name": "pidgeot-mega"
 		},
@@ -1917,7 +1917,7 @@
 			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": [
@@ -6019,7 +6019,7 @@
 			"channelNickname": "cresselia",
 			"number": 488,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
