@@ -1,5 +1,5 @@
 {
-	"version": "20200921",
+	"version": "20200924",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1917,7 +1917,7 @@
 			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": [
@@ -1929,7 +1929,7 @@
 			"channelNickname": "zapdos",
 			"number": 145,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
