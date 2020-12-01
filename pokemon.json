@@ -1,5 +1,5 @@
 {
-	"version": "20201117",
+	"version": "20201130",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -510,7 +510,7 @@
 			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -583,7 +583,7 @@
 			"channelNickname": "a-vulpix",
 			"number": 10037,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1199,7 +1199,7 @@
 			"channelNickname": "slowpoke",
 			"number": 79,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1219,7 +1219,7 @@
 			"channelNickname": "magnemite",
 			"number": 81,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2879,8 +2879,8 @@
 			"name": "WOBBUFFET",
 			"channelNickname": "wobbuffet",
 			"number": 202,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4313,8 +4313,8 @@
 			"name": "WHISCASH",
 			"channelNickname": "whiscash",
 			"number": 340,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -4597,7 +4597,7 @@
 			"channelNickname": "walrein",
 			"number": 365,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4709,7 +4709,7 @@
 			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4876,7 +4876,7 @@
 			"channelNickname": "turtwig",
 			"number": 387,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4906,7 +4906,7 @@
 			"channelNickname": "chimchar",
 			"number": 390,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4936,7 +4936,7 @@
 			"channelNickname": "piplup",
 			"number": 393,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5242,7 +5242,7 @@
 			"channelNickname": "floatzel",
 			"number": 419,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5448,7 +5448,7 @@
 			"channelNickname": "bronzor",
 			"number": 436,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5658,8 +5658,8 @@
 			"name": "LUMINEON",
 			"channelNickname": "lumineon",
 			"number": 457,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -5945,9 +5945,9 @@
 			"channelNickname": "uxie",
 			"number": 480,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 8,
+			"trainers": 7,
 			"nickname": null,
 			"regions": [
 				"apac"
@@ -5958,9 +5958,9 @@
 			"channelNickname": "mesprit",
 			"number": 481,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 7,
+			"trainers": 6,
 			"nickname": null,
 			"regions": [
 				"emea"
@@ -5971,7 +5971,7 @@
 			"channelNickname": "azelf",
 			"number": 482,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 5,
 			"nickname": [
@@ -6718,7 +6718,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -7915,7 +7915,7 @@
 			"channelNickname": "cobalion",
 			"number": 638,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -7927,7 +7927,7 @@
 			"channelNickname": "terrakion",
 			"number": 639,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -7942,7 +7942,7 @@
 			"channelNickname": "virizion",
 			"number": 640,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -8162,6 +8162,16 @@
 			"number": 649,
 			"tier": 1,
 			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ESPURR",
+			"channelNickname": "espurr",
+			"number": 677,
+			"tier": 1,
+			"active": true,
 			"shiny": false,
 			"trainers": null,
 			"nickname": null
