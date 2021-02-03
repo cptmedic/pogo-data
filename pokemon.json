@@ -1,5 +1,5 @@
 {
-	"version": "20210127",
+	"version": "20210202",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -510,7 +510,7 @@
 			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -809,9 +809,9 @@
 			"channelNickname": "a-meowth",
 			"number": 10052,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": [
 				"alola-meowth",
 				"meowth-alola",
@@ -1304,7 +1304,7 @@
 			"channelNickname": "a-grimer",
 			"number": 10088,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -2070,7 +2070,7 @@
 			"channelNickname": "chikorita",
 			"number": 152,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2100,7 +2100,7 @@
 			"channelNickname": "cyndaquil",
 			"number": 155,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2130,7 +2130,7 @@
 			"channelNickname": "totodile",
 			"number": 158,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2231,10 +2231,10 @@
 			"name": "ARIADOS",
 			"channelNickname": "ariados",
 			"number": 168,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -2312,7 +2312,7 @@
 			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2342,7 +2342,7 @@
 			"channelNickname": "mareep",
 			"number": 179,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2393,7 +2393,7 @@
 			"channelNickname": "marill",
 			"number": 183,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2523,7 +2523,7 @@
 			"channelNickname": "espeon",
 			"number": 196,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2941,7 +2941,7 @@
 			"channelNickname": "gligar",
 			"number": 207,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3021,7 +3021,7 @@
 			"channelNickname": "sneasel",
 			"number": 215,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3141,7 +3141,7 @@
 			"channelNickname": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3292,7 +3292,7 @@
 			"channelNickname": "miltank",
 			"number": 241,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3342,7 +3342,7 @@
 			"channelNickname": "larvitar",
 			"number": 246,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3362,9 +3362,9 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 5,
+			"trainers": 2,
 			"nickname": [
 				"ttar"
 			]
@@ -4548,7 +4548,7 @@
 			"channelNickname": "absol",
 			"number": 359,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -5047,7 +5047,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7528,7 +7528,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
