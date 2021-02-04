@@ -1,5 +1,5 @@
 {
-	"version": "20210202",
+	"version": "20210204",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -3312,7 +3312,7 @@
 			"channelNickname": "raikou",
 			"number": 243,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": null
@@ -3332,7 +3332,7 @@
 			"channelNickname": "suicune",
 			"number": 245,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": null
