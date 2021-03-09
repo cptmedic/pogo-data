@@ -1,5 +1,5 @@
 {
-	"version": "20210307",
+	"version": "20210307b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1097,7 +1097,7 @@
 			"name": "GRAVELER ALOLA",
 			"channelNickname": "a-graveler",
 			"number": 10075,
-			"tier": 1,
+			"tier": 3,
 			"active": true,
 			"shiny": false,
 			"trainers": 1,
