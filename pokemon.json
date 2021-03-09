@@ -1,5 +1,5 @@
 {
-	"version": "20210307b",
+	"version": "20210307c",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -4720,7 +4720,7 @@
 			"name": "METANG",
 			"channelNickname": "metang",
 			"number": 375,
-			"tier": 1,
+			"tier": 3,
 			"active": true,
 			"shiny": false,
 			"trainers": null,
