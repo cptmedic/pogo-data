@@ -1,5 +1,5 @@
 {
-	"version": "20210307c",
+	"version": "20210308",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -7987,7 +7987,7 @@
 			"channelNickname": "tornadus",
 			"number": 641,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -8009,8 +8009,8 @@
 			"channelNickname": "thundurus",
 			"number": 642,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
 			"image_name": "thundurus"
