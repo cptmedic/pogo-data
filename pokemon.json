@@ -1,5 +1,5 @@
 {
-	"version": "20210309",
+	"version": "20210310",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -8030,7 +8030,7 @@
 			"name": "THUNDURUS THERIAN",
 			"channelNickname": "thundurus-t",
 			"number": 642,
-			"tier": 1,
+			"tier": 5,
 			"active": true,
 			"shiny": false,
 			"trainers": null,
