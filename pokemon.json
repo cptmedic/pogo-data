@@ -1,5 +1,5 @@
 {
-	"version": "20210310",
+	"version": "20210327",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -416,7 +416,7 @@
 			"channelNickname": "a-raichu",
 			"number": 10026,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -753,7 +753,7 @@
 			"tier": 1,
 			"active": false,
 			"shiny": true,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": [
 				"alola-diglett",
 				"diglett-alola",
@@ -936,9 +936,9 @@
 			"channelNickname": "poliwrath",
 			"number": 62,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 5,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -1098,9 +1098,9 @@
 			"channelNickname": "a-graveler",
 			"number": 10075,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": [
 				"alola-graveler",
 				"graveler-alola",
@@ -1199,7 +1199,7 @@
 			"channelNickname": "slowpoke",
 			"number": 79,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1229,7 +1229,7 @@
 			"channelNickname": "magneton",
 			"number": 82,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1460,7 +1460,7 @@
 			"channelNickname": "voltorb",
 			"number": 100,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1578,7 +1578,7 @@
 			"channelNickname": "lickitung",
 			"number": 108,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2373,9 +2373,9 @@
 			"channelNickname": "ampharos",
 			"number": 181,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
-			"trainers": 3,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"channelNickname": "murkrow",
 			"number": 198,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3705,10 +3705,10 @@
 			"name": "SWELLOW",
 			"channelNickname": "swellow",
 			"number": 277,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3726,7 +3726,7 @@
 			"channelNickname": "pelipper",
 			"number": 279,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3927,7 +3927,7 @@
 			"number": 299,
 			"tier": 1,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -4734,7 +4734,7 @@
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4830,7 +4830,7 @@
 			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -6662,7 +6662,7 @@
 			"channelNickname": "blitzle",
 			"number": 522,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7550,7 +7550,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8016,6 +8016,17 @@
 			"image_name": "tornadus-therian"
 		},
 		{
+			"name": "THUNDURUS THERIAN",
+			"channelNickname": "thundurus-t",
+			"number": 642,
+			"tier": 5,
+			"active": true,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null,
+			"image_name": "thundurus-therian"
+		},
+		{
 			"name": "THUNDURUS INCARNATE",
 			"channelNickname": "thundurus",
 			"number": 642,
@@ -8025,17 +8036,6 @@
 			"trainers": 5,
 			"nickname": null,
 			"image_name": "thundurus"
-		},
-		{
-			"name": "THUNDURUS THERIAN",
-			"channelNickname": "thundurus-t",
-			"number": 642,
-			"tier": 5,
-			"active": true,
-			"shiny": false,
-			"trainers": null,
-			"nickname": null,
-			"image_name": "thundurus-therian"
 		},
 		{
 			"name": "RESHIRAM",
