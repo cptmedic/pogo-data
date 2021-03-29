@@ -1,5 +1,5 @@
 {
-	"version": "20210327",
+	"version": "20210329",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -4830,7 +4830,7 @@
 			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
