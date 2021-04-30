@@ -1,5 +1,5 @@
 {
-	"version": "20210420",
+	"version": "20210429b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -49,7 +49,7 @@
 			"channelNickname": "bulbasaur",
 			"number": 1,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -69,9 +69,9 @@
 			"channelNickname": "venusaur",
 			"number": 3,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 5,
+			"trainers": 4,
 			"nickname": null
 		},
 		{
@@ -688,7 +688,7 @@
 			"channelNickname": "vileplume",
 			"number": 45,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -751,7 +751,7 @@
 			"channelNickname": "a-diglett",
 			"number": 10050,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -854,7 +854,7 @@
 			"channelNickname": "psyduck",
 			"number": 54,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1503,7 +1503,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1637,7 +1637,7 @@
 			"channelNickname": "rhydon",
 			"number": 112,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1873,7 +1873,7 @@
 			"channelNickname": "vaporeon",
 			"number": 134,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -2100,10 +2100,10 @@
 			"name": "MEGANIUM",
 			"channelNickname": "meganium",
 			"number": 154,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3373,7 +3373,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -4137,7 +4137,7 @@
 			"channelNickname": "sharpedo",
 			"number": 319,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -4177,9 +4177,9 @@
 			"channelNickname": "camerupt",
 			"number": 323,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4227,9 +4227,9 @@
 			"channelNickname": "trapinch",
 			"number": 328,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -4929,7 +4929,7 @@
 			"channelNickname": "torterra",
 			"number": 389,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5069,7 +5069,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5633,7 +5633,7 @@
 			"channelNickname": "hippowdon",
 			"number": 450,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -6644,7 +6644,7 @@
 			"number": 519,
 			"tier": 1,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -7161,8 +7161,8 @@
 			"channelNickname": "trubbish",
 			"number": 568,
 			"tier": 1,
-			"active": true,
-			"shiny": false,
+			"active": false,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -7281,7 +7281,7 @@
 			"channelNickname": "ducklett",
 			"number": 580,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7541,7 +7541,7 @@
 			"channelNickname": "ferroseed",
 			"number": 597,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7750,10 +7750,10 @@
 			"name": "STUNFISK",
 			"channelNickname": "stunfisk",
 			"number": 618,
-			"tier": 1,
+			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": [
 				"unova-stunfisk",
 				"stunfisk-unova"
@@ -8005,6 +8005,17 @@
 			]
 		},
 		{
+			"name": "TORNADUS INCARNATE",
+			"channelNickname": "tornadus",
+			"number": 641,
+			"tier": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 5,
+			"nickname": null,
+			"image_name": "tornadus"
+		},
+		{
 			"name": "TORNADUS THERIAN",
 			"channelNickname": "tornadus-t",
 			"number": 641,
@@ -8016,15 +8027,15 @@
 			"image_name": "tornadus-therian"
 		},
 		{
-			"name": "TORNADUS INCARNATE",
-			"channelNickname": "tornadus",
-			"number": 641,
+			"name": "THUNDURUS INCARNATE",
+			"channelNickname": "thundurus",
+			"number": 642,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
-			"image_name": "tornadus"
+			"image_name": "thundurus"
 		},
 		{
 			"name": "THUNDURUS THERIAN",
@@ -8036,17 +8047,6 @@
 			"trainers": 5,
 			"nickname": null,
 			"image_name": "thundurus-therian"
-		},
-		{
-			"name": "THUNDURUS INCARNATE",
-			"channelNickname": "thundurus",
-			"number": 642,
-			"tier": 5,
-			"active": false,
-			"shiny": true,
-			"trainers": 5,
-			"nickname": null,
-			"image_name": "thundurus"
 		},
 		{
 			"name": "RESHIRAM",
@@ -8071,24 +8071,11 @@
 		    ]
 		},
 		{
-			"name": "LANDORUS THERIAN",
-			"channelNickname": "landorus-t",
-			"number": 645,
-			"tier": 5,
-			"active": true,
-			"shiny": false,
-			"trainers": 5,
-			"nickname": [
-				"lando"
-			],
-			"image_name": "landorus-therian"
-		},
-		{
 			"name": "LANDORUS INCARNATE",
 			"channelNickname": "landorus",
 			"number": 645,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -8096,6 +8083,19 @@
 				"calrissian"
 			],
 			"image_name": "landorus"
+		},
+		{
+			"name": "LANDORUS THERIAN",
+			"channelNickname": "landorus-t",
+			"number": 645,
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": [
+				"lando"
+			],
+			"image_name": "landorus-therian"
 		},
 		{
 			"name": "KYUREM",
@@ -8262,7 +8262,7 @@
 			"channelNickname": "espurr",
 			"number": 677,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8272,7 +8272,7 @@
 			"channelNickname": "binacle",
 			"number": 688,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8292,6 +8292,16 @@
 			"channelNickname": "clauncher",
 			"number": 692,
 			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "XERNEAS",
+			"channelNickname": "xerneas",
+			"number": 716,
+			"tier": 5,
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
