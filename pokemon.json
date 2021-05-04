@@ -49,7 +49,7 @@
 			"channelNickname": "bulbasaur",
 			"number": 1,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -69,7 +69,7 @@
 			"channelNickname": "venusaur",
 			"number": 3,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null
@@ -131,7 +131,7 @@
 			"channelNickname": "mega y charizard",
 			"number": 6,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -1156,7 +1156,7 @@
 			"channelNickname": "ponyta-galarian",
 			"number": 310077,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": [
@@ -1503,7 +1503,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1873,7 +1873,7 @@
 			"channelNickname": "vaporeon",
 			"number": 134,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -2011,7 +2011,7 @@
 			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2101,7 +2101,7 @@
 			"channelNickname": "meganium",
 			"number": 154,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2323,7 +2323,7 @@
 			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2404,7 +2404,7 @@
 			"channelNickname": "marill",
 			"number": 183,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3373,7 +3373,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -3966,7 +3966,7 @@
 			"channelNickname": "mawile",
 			"number": 303,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -4137,7 +4137,7 @@
 			"channelNickname": "sharpedo",
 			"number": 319,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -4227,7 +4227,7 @@
 			"channelNickname": "trapinch",
 			"number": 328,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4247,7 +4247,7 @@
 			"channelNickname": "flygon",
 			"number": 330,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4690,7 +4690,7 @@
 			"channelNickname": "bagon",
 			"number": 371,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -5069,7 +5069,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5633,7 +5633,7 @@
 			"channelNickname": "hippowdon",
 			"number": 450,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5743,7 +5743,7 @@
 			"channelNickname": "mega abomasnow",
 			"number": 460,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -7281,7 +7281,7 @@
 			"channelNickname": "ducklett",
 			"number": 580,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8009,7 +8009,7 @@
 			"channelNickname": "tornadus",
 			"number": 641,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -8031,7 +8031,7 @@
 			"channelNickname": "thundurus",
 			"number": 642,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -8075,7 +8075,7 @@
 			"channelNickname": "landorus",
 			"number": 645,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -8302,7 +8302,7 @@
 			"channelNickname": "xerneas",
 			"number": 716,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
