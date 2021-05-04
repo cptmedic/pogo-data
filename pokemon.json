@@ -1,5 +1,5 @@
 {
-	"version": "20210501",
+	"version": "20210501b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -8304,7 +8304,7 @@
 			"tier": 5,
 			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 5,
 			"nickname": null
 		},
 		{
