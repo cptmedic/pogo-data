@@ -1,5 +1,5 @@
 {
-	"version": "20210501b",
+	"version": "20210502",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -8253,6 +8253,16 @@
 			"number": 667,
 			"tier": 1,
 			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "PANCHAM",
+			"channelNickname": "pancham",
+			"number": 674,
+			"tier": 1,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
