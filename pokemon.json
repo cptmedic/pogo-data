@@ -1,5 +1,5 @@
 {
-	"version": "20210601",
+	"version": "20210608",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -432,7 +432,7 @@
 			"channelNickname": "sandshrew",
 			"number": 27,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -996,7 +996,7 @@
 			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1114,7 +1114,7 @@
 			"channelNickname": "golem",
 			"number": 76,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -1205,6 +1205,21 @@
 			"nickname": null
 		},
 		{
+			"name": "SLOWPOKE GALARIAN",
+			"channelNickname": "slowpoke-galarian",
+			"number": 310079,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": [
+				"galar-slowpoke",
+				"slowpoke-galar",
+				"galarian-slowpoke",
+				"slowpoke-galarian"
+			]
+		},
+		{
 			"name": "SLOWBRO",
 			"channelNickname": "slowbro",
 			"number": 80,
@@ -1215,11 +1230,36 @@
 			"nickname": null
 		},
 		{
+			"name": "SLOWBRO GALARIAN",
+			"channelNickname": "slowbro-galarian",
+			"number": 310080,
+			"tier": 3,
+			"active": false,
+			"shiny": false,
+			"trainers": 3,
+			"nickname": [
+				"galar-slowbro",
+				"slowbro-galar",
+				"galarian-slowbro",
+				"slowbro-galarian"
+			]
+		},
+		{
+			"name": "MEGA SLOWBRO",
+			"channelNickname": "mega slowbro",
+			"number": 80,
+			"tier": "mega",
+			"active": true,
+			"shiny": false,
+			"trainers": 7,
+			"nickname": null
+		},
+		{
 			"name": "MAGNEMITE",
 			"channelNickname": "magnemite",
 			"number": 81,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1281,7 +1321,7 @@
 			"channelNickname": "dewgong",
 			"number": 87,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1304,7 +1344,7 @@
 			"channelNickname": "a-grimer",
 			"number": 10088,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1349,9 +1389,9 @@
 			"channelNickname": "shellder",
 			"number": 90,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -1965,9 +2005,9 @@
 			"channelNickname": "snorlax",
 			"number": 143,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 6,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2563,10 +2603,10 @@
 			"name": "SLOWKING",
 			"channelNickname": "slowking",
 			"number": 199,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3082,7 +3122,7 @@
 			"channelNickname": "swinub",
 			"number": 220,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3152,7 +3192,7 @@
 			"channelNickname": "skarmory",
 			"number": 227,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3825,10 +3865,10 @@
 			"name": "SLAKING",
 			"channelNickname": "slaking",
 			"number": 289,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3926,7 +3966,7 @@
 			"channelNickname": "nosepass",
 			"number": 299,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5080,7 +5120,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5422,7 +5462,7 @@
 			"channelNickname": "mega lopunny",
 			"number": 428,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -5684,7 +5724,7 @@
 			"channelNickname": "toxicroak",
 			"number": 454,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
