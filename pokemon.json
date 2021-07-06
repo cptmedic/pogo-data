@@ -1,5 +1,5 @@
 {
-	"version": "20210701",
+	"version": "20210706",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -393,7 +393,7 @@
 			"channelNickname": "pikachu",
 			"number": 25,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1582,7 +1582,7 @@
 			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1668,8 +1668,8 @@
 			"number": 111,
 			"tier": 1,
 			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -1830,7 +1830,7 @@
 			"channelNickname": "pinsir",
 			"number": 127,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3222,7 +3222,7 @@
 			"channelNickname": "mega houndoom",
 			"number": 229,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -3413,7 +3413,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -4621,7 +4621,7 @@
 			"channelNickname": "absol",
 			"number": 359,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -4911,6 +4911,17 @@
 			"nickname": null
 		},
 		{
+			"name": "DEOXYS DEFENSE",
+			"channelNickname": "deoxys-defense",
+			"number": 386,
+			"tier": 5,
+			"active": true,
+			"shiny": false,
+			"trainers": 8,
+			"nickname": null,
+			"image_name": "deoxys-defense"
+		},
+		{
 			"name": "DEOXYS",
 			"channelNickname": "deoxys",
 			"number": 386,
@@ -4932,17 +4943,6 @@
 			"trainers": null,
 			"nickname": null,
 			"image_name": "deoxys-attack"
-		},
-		{
-			"name": "DEOXYS DEFENSE",
-			"channelNickname": "deoxys-defense",
-			"number": 386,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
-			"nickname": null,
-			"image_name": "deoxys-defense"
 		},
 		{
 			"name": "DEOXYS SPEED",
@@ -5080,36 +5080,10 @@
 			"channelNickname": "bidoof",
 			"number": 399,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
-			"nickname": [
-				"bidoof-t1"
-			]
-		},
-		{
-			"name": "BIDOOF",
-			"channelNickname": "bidoof",
-			"number": 399,
-			"tier": 3,
-			"active": true,
-			"shiny": true,
-			"trainers": 2,
-			"nickname": [
-				"bidoof-t3"
-			]
-		},
-		{
-			"name": "BIDOOF",
-			"channelNickname": "bidoof",
-			"number": 399,
-			"tier": 5,
-			"active": true,
-			"shiny": true,
-			"trainers": 4,
-			"nickname": [
-				"bidoof-t5"
-			]
+			"nickname": null
 		},
 		{
 			"name": "BIBAREL",
@@ -7086,8 +7060,8 @@
 			"channelNickname": "darumaka",
 			"number": 554,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -8303,6 +8277,36 @@
 			"trainers": null,
 			"nickname": null,
 			"image_name": "genesect"
+		},
+		{
+			"name": "CHESPIN",
+			"channelNickname": "chespin",
+			"number": 650,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "FENNEKIN",
+			"channelNickname": "fennekin",
+			"number": 651,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "FROAKIE",
+			"channelNickname": "froakie",
+			"number": 650,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
 			"name": "BUNNELBY",
