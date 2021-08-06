@@ -1,5 +1,5 @@
 {
-	"version": "20210723",
+	"version": "20210806b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -120,7 +120,7 @@
 			"channelNickname": "mega x charizard",
 			"number": 6,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -966,7 +966,7 @@
 			"channelNickname": "alakazam",
 			"number": 65,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1269,7 +1269,7 @@
 			"channelNickname": "magneton",
 			"number": 82,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1707,7 +1707,7 @@
 			"channelNickname": "kangaskhan",
 			"number": 115,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1995,7 +1995,7 @@
 			"channelNickname": "aerodactyl",
 			"number": 142,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2423,7 +2423,7 @@
 			"channelNickname": "mega ampharos",
 			"number": 181,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -3061,10 +3061,10 @@
 			"name": "HERACROSS",
 			"channelNickname": "heracross",
 			"number": 214,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"tier": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3263,7 +3263,7 @@
 			"channelNickname": "porygon2",
 			"number": 233,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5170,7 +5170,7 @@
 			"channelNickname": "cranidos",
 			"number": 408,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5190,7 +5190,7 @@
 			"channelNickname": "shieldon",
 			"number": 410,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5368,9 +5368,9 @@
 			"channelNickname": "shellos-west-sea",
 			"number": 422,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "shellos"
 		},
@@ -5379,9 +5379,9 @@
 			"channelNickname": "shellos-east-sea",
 			"number": 422,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "shellos-east"
 		},
@@ -5543,7 +5543,7 @@
 			"channelNickname": "bronzor",
 			"number": 436,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6102,7 +6102,7 @@
 			"channelNickname": "dialga",
 			"number": 483,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -6116,9 +6116,9 @@
 			"channelNickname": "palkia",
 			"number": 484,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
-			"trainers": 8,
+			"active": true,
+			"shiny": true,
+			"trainers": 7,
 			"nickname": [
 				"polka"
 			]
@@ -7612,7 +7612,7 @@
 			"channelNickname": "klink",
 			"number": 599,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7672,9 +7672,9 @@
 			"channelNickname": "elgyem",
 			"number": 605,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -7871,7 +7871,7 @@
 			"channelNickname": "golurk",
 			"number": 623,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -8353,7 +8353,7 @@
 			"channelNickname": "espurr",
 			"number": 677,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
