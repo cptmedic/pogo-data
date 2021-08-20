@@ -1,5 +1,5 @@
 {
-	"version": "20210806b",
+	"version": "20210820b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -243,9 +243,9 @@
 			"channelNickname": "mega beedrill",
 			"number": 15,
 			"tier": "mega",
-			"active": false,
-			"shiny": false,
-			"trainers": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 4,
 			"nickname": null,
 			"image_name": "beedrill-mega"
 		},
@@ -821,6 +821,21 @@
 			"image_name": "alolan meowth"
 		},
 		{
+			"name": "MEOWTH GALARIAN",
+			"channelNickname": "meowth-galarian",
+			"number": 310052,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": [
+				"galar-meowth",
+				"meowth-galar",
+				"galarian-meowth",
+				"meowth-galarian"
+			]
+		},
+		{
 			"name": "PERSIAN",
 			"channelNickname": "persian",
 			"number": 53,
@@ -966,7 +981,7 @@
 			"channelNickname": "alakazam",
 			"number": 65,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -996,7 +1011,7 @@
 			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1195,21 +1210,11 @@
 			]
 		},
 		{
-			"name": "SLOWPOKE",
-			"channelNickname": "slowpoke",
-			"number": 79,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": null
-		},
-		{
 			"name": "SLOWPOKE GALARIAN",
 			"channelNickname": "slowpoke-galarian",
 			"number": 310079,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": [
@@ -1218,6 +1223,16 @@
 				"galarian-slowpoke",
 				"slowpoke-galarian"
 			]
+		},
+		{
+			"name": "SLOWPOKE",
+			"channelNickname": "slowpoke",
+			"number": 79,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
 			"name": "SLOWBRO",
@@ -1273,6 +1288,22 @@
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
+		},
+		{
+			"name": "FARFETCHD GALARIAN",
+			"channelNickname": "farfetchd-galarian",
+			"number": 310083,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": [
+				"galar-farfetchd",
+				"farfetchd-galar",
+				"galarian-farfetchd",
+				"farfetchd-galarian"
+			],
+			"image_name": "farfetchd-galar"
 		},
 		{
 			"name": "FARFETCHD",
@@ -1634,6 +1665,22 @@
 			"nickname": null
 		},
 		{
+			"name": "WEEZING GALARIAN",
+			"channelNickname": "weezing-galarian",
+			"number": 310110,
+			"tier": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 2,
+			"nickname": [
+				"galar-weezing",
+				"weezing-galar",
+				"galarian-weezing",
+				"weezing-galarian"
+			],
+			"image_name": "weezing-galar"
+		},
+		{
 			"name": "WEEZING",
 			"channelNickname": "weezing",
 			"number": 110,
@@ -1645,22 +1692,6 @@
 				"kanto-weezing",
 				"weezing-kanto"
 			]
-		},
-		{
-			"name": "WEEZING GALARIAN",
-			"channelNickname": "weezing-galarian",
-			"number": 310110,
-			"tier": 3,
-			"active": false,
-			"shiny": false,
-			"trainers": 2,
-			"nickname": [
-				"galar-weezing",
-				"weezing-galar",
-				"galarian-weezing",
-				"weezing-galarian"
-			],
-			"image_name": "weezing-galar"
 		},
 		{
 			"name": "RHYHORN",
@@ -1707,7 +1738,7 @@
 			"channelNickname": "kangaskhan",
 			"number": 115,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1883,7 +1914,7 @@
 			"channelNickname": "lapras",
 			"number": 131,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2423,7 +2454,7 @@
 			"channelNickname": "mega ampharos",
 			"number": 181,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -2618,6 +2649,17 @@
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
+		},
+		{
+			"name": "UNOWN U",
+			"channelNickname": "unown-u",
+			"number": 201,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null,
+			"image_name": "unown-uniform"
 		},
 		{
 			"name": "UNOWN",
@@ -2850,17 +2892,6 @@
 			"image_name": "unown-tango"
 		},
 		{
-			"name": "UNOWN U",
-			"channelNickname": "unown-u",
-			"number": 201,
-			"tier": 1,
-			"active": true,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": null,
-			"image_name": "unown-uniform"
-		},
-		{
 			"name": "UNOWN V",
 			"channelNickname": "unown-v",
 			"number": 201,
@@ -3062,7 +3093,7 @@
 			"channelNickname": "heracross",
 			"number": 214,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3566,9 +3597,9 @@
 		{
 			"name": "ZIGZAGOON GALARIAN",
 			"channelNickname": "zigzagoon-galarian",
-			"number": 263,
+			"number": 310263,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -5368,7 +5399,7 @@
 			"channelNickname": "shellos-west-sea",
 			"number": 422,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null,
@@ -5379,7 +5410,7 @@
 			"channelNickname": "shellos-east-sea",
 			"number": 422,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null,
@@ -6116,7 +6147,7 @@
 			"channelNickname": "palkia",
 			"number": 484,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -7066,6 +7097,21 @@
 			"nickname": null
 		},
 		{
+			"name": "DARUMAKA GALARIAN",
+			"channelNickname": "darumaka-galarian",
+			"number": 310554,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": [
+				"galar-darumaka",
+				"darumaka-galar",
+				"galarian-darumaka",
+				"darumaka-galarian"
+			]
+		},
+		{
 			"name": "DARMANITAN STANDARD",
 			"channelNickname": "darmanitan-standard",
 			"number": 555,
@@ -7672,7 +7718,7 @@
 			"channelNickname": "elgyem",
 			"number": 605,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8117,9 +8163,7 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 6,
-			"nickname": [
-			    "zicam"
-		    ]
+			"nickname": null
 		},
 		{
 			"name": "LANDORUS INCARNATE",
@@ -8353,7 +8397,7 @@
 			"channelNickname": "espurr",
 			"number": 677,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8423,6 +8467,38 @@
 			"channelNickname": "melmetal",
 			"number": 809,
 			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "FALINKS",
+			"channelNickname": "falinks",
+			"number": 870,
+			"tier": 3,
+			"active": false,
+			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "ZACIAN",
+			"channelNickname": "zacian",
+			"number": 888,
+			"tier": 5,
+			"active": true,
+			"shiny": false,
+			"trainers": 6,
+			"nickname": [
+			    "zicam"
+		    ]
+		},
+		{
+			"name": "ZAMAZENTA",
+			"channelNickname": "zamazenta",
+			"number": 889,
+			"tier": 5,
 			"active": false,
 			"shiny": false,
 			"trainers": null,
