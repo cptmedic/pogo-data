@@ -1,5 +1,5 @@
 {
-	"version": "20210820b",
+	"version": "20210826",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -243,7 +243,7 @@
 			"channelNickname": "mega beedrill",
 			"number": 15,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -284,7 +284,7 @@
 			"channelNickname": "mega pidgeot",
 			"number": 18,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -792,6 +792,21 @@
 			"image_name": "alolan dugtrio"
 		},
 		{
+			"name": "MEOWTH GALARIAN",
+			"channelNickname": "meowth-galarian",
+			"number": 310052,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": [
+				"galar-meowth",
+				"meowth-galar",
+				"galarian-meowth",
+				"meowth-galarian"
+			]
+		},
+		{
 			"name": "MEOWTH",
 			"channelNickname": "meowth",
 			"number": 52,
@@ -819,21 +834,6 @@
 				"meowth-alolan"
 			],
 			"image_name": "alolan meowth"
-		},
-		{
-			"name": "MEOWTH GALARIAN",
-			"channelNickname": "meowth-galarian",
-			"number": 310052,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": [
-				"galar-meowth",
-				"meowth-galar",
-				"galarian-meowth",
-				"meowth-galarian"
-			]
 		},
 		{
 			"name": "PERSIAN",
@@ -1011,7 +1011,7 @@
 			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1154,6 +1154,21 @@
 			"image_name": "alolan golem"
 		},
 		{
+			"name": "PONYTA GALARIAN",
+			"channelNickname": "ponyta-galarian",
+			"number": 310077,
+			"tier": 1,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": [
+				"galar-ponyta",
+				"ponyta-galar",
+				"galarian-ponyta",
+				"ponyta-galarian"
+			]
+		},
+		{
 			"name": "PONYTA",
 			"channelNickname": "ponyta",
 			"number": 77,
@@ -1164,21 +1179,6 @@
 			"nickname": [
 				"kanto-ponyta",
 				"ponyta-kanto"
-			]
-		},
-		{
-			"name": "PONYTA GALARIAN",
-			"channelNickname": "ponyta-galarian",
-			"number": 310077,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": [
-				"galar-ponyta",
-				"ponyta-galar",
-				"galarian-ponyta",
-				"ponyta-galarian"
 			]
 		},
 		{
@@ -1214,7 +1214,7 @@
 			"channelNickname": "slowpoke-galarian",
 			"number": 310079,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": [
@@ -1294,7 +1294,7 @@
 			"channelNickname": "farfetchd-galarian",
 			"number": 310083,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1460,8 +1460,8 @@
 			"channelNickname": "gengar",
 			"number": 94,
 			"tier": 3,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 2,
 			"nickname": null
 		},
@@ -1669,7 +1669,7 @@
 			"channelNickname": "weezing-galarian",
 			"number": 310110,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1914,7 +1914,7 @@
 			"channelNickname": "lapras",
 			"number": 131,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2036,7 +2036,7 @@
 			"channelNickname": "snorlax",
 			"number": 143,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3599,7 +3599,7 @@
 			"channelNickname": "zigzagoon-galarian",
 			"number": 310263,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -7087,21 +7087,11 @@
 			"nickname": null
 		},
 		{
-			"name": "DARUMAKA",
-			"channelNickname": "darumaka",
-			"number": 554,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": null
-		},
-		{
 			"name": "DARUMAKA GALARIAN",
 			"channelNickname": "darumaka-galarian",
 			"number": 310554,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": [
@@ -7110,6 +7100,16 @@
 				"galarian-darumaka",
 				"darumaka-galarian"
 			]
+		},
+		{
+			"name": "DARUMAKA",
+			"channelNickname": "darumaka",
+			"number": 554,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		},
 		{
 			"name": "DARMANITAN STANDARD",
@@ -7844,6 +7844,22 @@
 			"nickname": null
 		},
 		{
+			"name": "STUNFISK GALARIAN",
+			"channelNickname": "stunfisk-galarian",
+			"number": 310618,
+			"tier": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 2,
+			"nickname": [
+				"galar-stunfisk",
+				"stunfisk-galar",
+				"galarian-stunfisk",
+				"stunfisk-galarian"
+			],
+			"image_name": "stunfisk-galar"
+		},
+		{
 			"name": "STUNFISK",
 			"channelNickname": "stunfisk",
 			"number": 618,
@@ -7855,22 +7871,6 @@
 				"unova-stunfisk",
 				"stunfisk-unova"
 			]
-		},
-		{
-			"name": "STUNFISK GALARIAN",
-			"channelNickname": "stunfisk-galarian",
-			"number": 618,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": 1,
-			"nickname": [
-				"galar-stunfisk",
-				"stunfisk-galar",
-				"galarian-stunfisk",
-				"stunfisk-galarian"
-			],
-			"image_name": "stunfisk-galar"
 		},
 		{
 			"name": "MIENFOO",
@@ -8483,26 +8483,28 @@
 			"nickname": null
 		},
 		{
-			"name": "ZACIAN",
+			"name": "ZACIAN HERO",
 			"channelNickname": "zacian",
 			"number": 888,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"nickname": [
 			    "zicam"
-		    ]
+		    ],
+			"image_name": "zacian-hero"
 		},
 		{
-			"name": "ZAMAZENTA",
+			"name": "ZAMAZENTA HERO",
 			"channelNickname": "zamazenta",
 			"number": 889,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
-			"nickname": null
+			"trainers": 6,
+			"nickname": null,
+			"image_name": "zamazenta-hero"
 		}
 	]
 }
