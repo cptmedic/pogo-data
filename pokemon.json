@@ -1,5 +1,5 @@
 {
-	"version": "20210826",
+	"version": "20210901c",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -284,7 +284,7 @@
 			"channelNickname": "mega pidgeot",
 			"number": 18,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -416,7 +416,7 @@
 			"channelNickname": "a-raichu",
 			"number": 10026,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -796,7 +796,7 @@
 			"channelNickname": "meowth-galarian",
 			"number": 310052,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1158,7 +1158,7 @@
 			"channelNickname": "ponyta-galarian",
 			"number": 310077,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1264,8 +1264,8 @@
 			"channelNickname": "mega slowbro",
 			"number": 80,
 			"tier": "mega",
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 7,
 			"nickname": null
 		},
@@ -1322,7 +1322,7 @@
 			"channelNickname": "doduo",
 			"number": 84,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1460,7 +1460,7 @@
 			"channelNickname": "gengar",
 			"number": 94,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2036,7 +2036,7 @@
 			"channelNickname": "snorlax",
 			"number": 143,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2413,10 +2413,10 @@
 			"name": "XATU",
 			"channelNickname": "xatu",
 			"number": 178,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2655,7 +2655,7 @@
 			"channelNickname": "unown-u",
 			"number": 201,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null,
@@ -3456,7 +3456,7 @@
 			"channelNickname": "lugia",
 			"number": 249,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": null
@@ -3519,7 +3519,7 @@
 			"channelNickname": "torchic",
 			"number": 255,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3797,7 +3797,7 @@
 			"channelNickname": "pelipper",
 			"number": 279,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4672,7 +4672,7 @@
 			"channelNickname": "snorunt",
 			"number": 361,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4814,7 +4814,7 @@
 			"channelNickname": "metang",
 			"number": 375,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5151,7 +5151,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6805,8 +6805,8 @@
 			"channelNickname": "woobat",
 			"number": 527,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -7091,7 +7091,7 @@
 			"channelNickname": "darumaka-galarian",
 			"number": 310554,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": [
@@ -7848,7 +7848,7 @@
 			"channelNickname": "stunfisk-galarian",
 			"number": 310618,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -8500,7 +8500,7 @@
 			"channelNickname": "zamazenta",
 			"number": 889,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"nickname": null,
