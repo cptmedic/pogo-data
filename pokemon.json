@@ -1,5 +1,5 @@
 {
-	"version": "20210908",
+	"version": "20210914",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -416,7 +416,7 @@
 			"channelNickname": "a-raichu",
 			"number": 10026,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -869,7 +869,7 @@
 			"channelNickname": "psyduck",
 			"number": 54,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1264,7 +1264,7 @@
 			"channelNickname": "mega slowbro",
 			"number": 80,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": null
@@ -1501,9 +1501,9 @@
 			"channelNickname": "hypno",
 			"number": 97,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": 3,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -1788,7 +1788,7 @@
 			"channelNickname": "staryu",
 			"number": 120,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1861,7 +1861,7 @@
 			"channelNickname": "pinsir",
 			"number": 127,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2973,7 +2973,7 @@
 			"channelNickname": "wobbuffet",
 			"number": 202,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3253,7 +3253,7 @@
 			"channelNickname": "mega houndoom",
 			"number": 229,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
@@ -3456,7 +3456,7 @@
 			"channelNickname": "lugia",
 			"number": 249,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": null
@@ -3827,7 +3827,7 @@
 			"channelNickname": "gardevoir",
 			"number": 282,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4087,7 +4087,7 @@
 			"channelNickname": "medicham",
 			"number": 308,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4198,7 +4198,7 @@
 			"channelNickname": "carvanha",
 			"number": 318,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4642,7 +4642,7 @@
 			"channelNickname": "chimecho",
 			"number": 358,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4824,7 +4824,7 @@
 			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5564,7 +5564,7 @@
 			"channelNickname": "skuntank",
 			"number": 435,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5574,7 +5574,7 @@
 			"channelNickname": "bronzor",
 			"number": 436,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5725,7 +5725,7 @@
 			"channelNickname": "skorupi",
 			"number": 451,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5805,7 +5805,7 @@
 			"channelNickname": "snover",
 			"number": 459,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6082,8 +6082,8 @@
 			"channelNickname": "uxie",
 			"number": 480,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 7,
 			"nickname": null,
 			"regions": [
@@ -6095,8 +6095,8 @@
 			"channelNickname": "mesprit",
 			"number": 481,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 6,
 			"nickname": null,
 			"regions": [
@@ -6108,8 +6108,8 @@
 			"channelNickname": "azelf",
 			"number": 482,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 5,
 			"nickname": [
 				"Buddy",
@@ -8407,7 +8407,7 @@
 			"channelNickname": "inkay",
 			"number": 686,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
