@@ -1,5 +1,5 @@
 {
-	"version": "20211001b",
+	"version": "20211012",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -393,7 +393,7 @@
 			"channelNickname": "pikachu",
 			"number": 25,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -637,8 +637,8 @@
 			"name": "WIGGLYTUFF",
 			"channelNickname": "wigglytuff",
 			"number": 40,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -1557,6 +1557,22 @@
 			"nickname": null
 		},
 		{
+			"name": "EXEGGUTOR ALOLA",
+			"channelNickname": "a-exeggutor",
+			"number": 10103,
+			"tier": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 2,
+			"nickname": [
+				"alola-exeggutor",
+				"exeggutor-alola",
+				"alolan-exeggutor",
+				"exeggutor-alolan"
+			],
+			"image_name": "alolan exeggutor"
+		},
+		{
 			"name": "EXEGGUTOR",
 			"channelNickname": "exeggutor",
 			"number": 103,
@@ -1568,22 +1584,6 @@
 				"kanto-exeggutor",
 				"exeggutor-kanto"
 			]
-		},
-		{
-			"name": "EXEGGUTOR ALOLA",
-			"channelNickname": "a-exeggutor",
-			"number": 10103,
-			"tier": 3,
-			"active": false,
-			"shiny": true,
-			"trainers": 2,
-			"nickname": [
-				"alola-exeggutor",
-				"exeggutor-alola",
-				"alolan-exeggutor",
-				"exeggutor-alolan"
-			],
-			"image_name": "alolan exeggutor"
 		},
 		{
 			"name": "CUBONE",
@@ -1649,7 +1649,7 @@
 			"channelNickname": "lickitung",
 			"number": 108,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1718,7 +1718,7 @@
 			"channelNickname": "chansey",
 			"number": 113,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1861,7 +1861,7 @@
 			"channelNickname": "pinsir",
 			"number": 127,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2082,7 +2082,7 @@
 			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2645,7 +2645,7 @@
 			"channelNickname": "misdreavus",
 			"number": 200,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3424,7 +3424,7 @@
 			"channelNickname": "larvitar",
 			"number": 246,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3727,7 +3727,7 @@
 			"channelNickname": "ludicolo",
 			"number": 272,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4026,10 +4026,10 @@
 			"name": "SABLEYE",
 			"channelNickname": "sableye",
 			"number": 302,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": true,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4318,7 +4318,7 @@
 			"channelNickname": "flygon",
 			"number": 330,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4592,7 +4592,7 @@
 			"channelNickname": "shuppet",
 			"number": 353,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4672,7 +4672,7 @@
 			"channelNickname": "snorunt",
 			"number": 361,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5453,7 +5453,7 @@
 			"channelNickname": "drifloon",
 			"number": 425,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6181,6 +6181,25 @@
 			]
 		},
 		{
+			"name": "GIRATINA ALTERED",
+			"channelNickname": "giratina-a",
+			"number": 487,
+			"tier": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 6,
+			"nickname": [
+				"tina",
+				"au gratin",
+				"giraffe",
+				"ghirardelli",
+				"giordanos",
+				"gira",
+				"giratina-a"
+			],
+			"image_name": "giratina-altered"
+		},
+		{
 			"name": "GIRATINA ORIGIN",
 			"channelNickname": "giratina-o",
 			"number": 100487,
@@ -6194,24 +6213,6 @@
 				"giratina-o"
 			],
 			"image_name": "giratina-origin"
-		},
-		{
-			"name": "GIRATINA ALTERED",
-			"channelNickname": "giratina-a",
-			"number": 487,
-			"tier": 5,
-			"active": false,
-			"shiny": true,
-			"nickname": [
-				"tina",
-				"au gratin",
-				"giraffe",
-				"ghirardelli",
-				"giordanos",
-				"gira",
-				"giratina-a"
-			],
-			"image_name": "giratina-altered"
 		},
 		{
 			"name": "CRESSELIA",
@@ -6775,7 +6776,7 @@
 			"channelNickname": "roggenrola",
 			"number": 524,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7546,7 +7547,7 @@
 			"channelNickname": "foongus",
 			"number": 590,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7747,10 +7748,10 @@
 			"name": "LAMPENT",
 			"channelNickname": "lampent",
 			"number": 608,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -7957,7 +7958,7 @@
 			"channelNickname": "rufflet",
 			"number": 627,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8273,7 +8274,7 @@
 			"channelNickname": "genesect-douse",
 			"number": 649,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": [
