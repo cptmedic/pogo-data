@@ -1,5 +1,5 @@
 {
-	"version": "20211231",
+	"version": "20220105",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -324,7 +324,7 @@
 			"channelNickname": "raticate",
 			"number": 20,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -531,7 +531,7 @@
 			"channelNickname": "nidorino",
 			"number": 33,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -1012,7 +1012,7 @@
 			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1215,7 +1215,7 @@
 			"channelNickname": "slowpoke",
 			"number": 79,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1354,7 +1354,7 @@
 			"channelNickname": "dewgong",
 			"number": 87,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1462,7 +1462,7 @@
 			"channelNickname": "gengar",
 			"number": 94,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2084,7 +2084,7 @@
 			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2266,7 +2266,7 @@
 			"channelNickname": "hoothoot",
 			"number": 163,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2637,7 +2637,7 @@
 			"channelNickname": "slowking",
 			"number": 199,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2975,7 +2975,7 @@
 			"channelNickname": "wobbuffet",
 			"number": 202,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3116,7 +3116,7 @@
 			"channelNickname": "sneasel",
 			"number": 215,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3552,7 +3552,7 @@
 			"channelNickname": "blaziken",
 			"number": 257,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3980,7 +3980,7 @@
 			"channelNickname": "makuhita",
 			"number": 296,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4050,7 +4050,7 @@
 			"channelNickname": "mawile",
 			"number": 303,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4331,7 +4331,7 @@
 			"channelNickname": "flygon",
 			"number": 330,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4736,7 +4736,7 @@
 			"channelNickname": "walrein",
 			"number": 365,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -6880,7 +6880,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -8409,8 +8409,8 @@
 			"channelNickname": "fletchling",
 			"number": 661,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
