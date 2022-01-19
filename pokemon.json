@@ -1,5 +1,5 @@
 {
-	"version": "20220115",
+	"version": "20220119",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -393,7 +393,7 @@
 			"channelNickname": "pikachu",
 			"number": 25,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -699,7 +699,7 @@
 			"channelNickname": "paras",
 			"number": 46,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1276,7 +1276,7 @@
 			"channelNickname": "magnemite",
 			"number": 81,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2347,7 +2347,7 @@
 			"channelNickname": "chinchou",
 			"number": 170,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4839,7 +4839,7 @@
 			"channelNickname": "beldum",
 			"number": 374,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5056,7 +5056,7 @@
 			"channelNickname": "chimchar",
 			"number": 390,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5186,7 +5186,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6791,8 +6791,8 @@
 			"channelNickname": "blitzle",
 			"number": 522,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
