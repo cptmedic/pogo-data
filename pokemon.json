@@ -1,5 +1,5 @@
 {
-	"version": "20220119",
+	"version": "20220124",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1354,7 +1354,7 @@
 			"channelNickname": "dewgong",
 			"number": 87,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1823,7 +1823,7 @@
 			"channelNickname": "scyther",
 			"number": 123,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2215,7 +2215,7 @@
 			"channelNickname": "typhlosion",
 			"number": 157,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3187,7 +3187,7 @@
 			"channelNickname": "piloswine",
 			"number": 221,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4061,7 +4061,7 @@
 			"channelNickname": "mawile",
 			"number": 303,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -4879,7 +4879,7 @@
 			"channelNickname": "regice",
 			"number": 378,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": null
@@ -5065,8 +5065,8 @@
 			"name": "MONFERNO",
 			"channelNickname": "monferno",
 			"number": 391,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8324,7 +8324,7 @@
 			"channelNickname": "genesect-shock",
 			"number": 649,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": [
