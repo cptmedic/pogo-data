@@ -1,5 +1,5 @@
 {
-	"version": "20220216",
+	"version": "20220219",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -2469,7 +2469,7 @@
 			"tier": "mega",
 			"active": true,
 			"shiny": true,
-			"trainers": 6,
+			"trainers": 5,
 			"nickname": null,
 			"image_name": "ampharos-mega"
 		},
@@ -4484,8 +4484,8 @@
 			"number": 343,
 			"tier": 1,
 			"active": true,
-			"shiny": false,
-			"trainers": null,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -4648,7 +4648,7 @@
 			"tier": 3,
 			"active": true,
 			"shiny": false,
-			"trainers": 3,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4977,6 +4977,29 @@
 			"nickname": null
 		},
 		{
+			"name": "DEOXYS ATTACK",
+			"channelNickname": "deoxys-attack",
+			"number": 386,
+			"tier": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 2,
+			"nickname": null,
+			"image_name": "deoxys-attack"
+		},
+		{
+			"name": "DEOXYS",
+			"channelNickname": "deoxys",
+			"number": 386,
+			"tier": 5,
+			"active": false,
+			"shiny": true,
+			"trainers": 4,
+			"nickname": [
+				"deoxys-normal"
+			]
+		},
+		{
 			"name": "DEOXYS DEFENSE",
 			"channelNickname": "deoxys-defense",
 			"number": 386,
@@ -4986,29 +5009,6 @@
 			"trainers": 8,
 			"nickname": null,
 			"image_name": "deoxys-defense"
-		},
-		{
-			"name": "DEOXYS",
-			"channelNickname": "deoxys",
-			"number": 386,
-			"tier": 5,
-			"active": true,
-			"shiny": true,
-			"trainers": 3,
-			"nickname": [
-				"deoxys-normal"
-			]
-		},
-		{
-			"name": "DEOXYS ATTACK",
-			"channelNickname": "deoxys-attack",
-			"number": 386,
-			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
-			"nickname": null,
-			"image_name": "deoxys-attack"
 		},
 		{
 			"name": "DEOXYS SPEED",
