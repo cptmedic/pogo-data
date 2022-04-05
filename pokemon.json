@@ -1,5 +1,5 @@
 {
-	"version": "20220330",
+	"version": "20220405",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -131,7 +131,7 @@
 			"channelNickname": "mega y charizard",
 			"number": 40006,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -362,10 +362,10 @@
 			"name": "FEAROW",
 			"channelNickname": "fearow",
 			"number": 22,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -399,6 +399,19 @@
 			"nickname": null
 		},
 		{
+			"name": "RAICHU",
+			"channelNickname": "raichu",
+			"number": 26,
+			"tier": 3,
+			"active": true,
+			"shiny": false,
+			"trainers": 2,
+			"nickname": [
+				"kanto-raichu",
+				"raichu-kanto"
+			]
+		},
+		{
 			"name": "RAICHU ALOLA",
 			"channelNickname": "a-raichu",
 			"number": 10026,
@@ -414,19 +427,6 @@
 				"raichu"
 			],
 			"image_name": "alolan raichu"
-		},
-		{
-			"name": "RAICHU",
-			"channelNickname": "raichu",
-			"number": 26,
-			"tier": 3,
-			"active": false,
-			"shiny": false,
-			"trainers": 1,
-			"nickname": [
-				"kanto-raichu",
-				"raichu-kanto"
-			]
 		},
 		{
 			"name": "SANDSHREW",
@@ -982,7 +982,7 @@
 			"channelNickname": "alakazam",
 			"number": 65,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1114,7 +1114,7 @@
 			"channelNickname": "a-graveler",
 			"number": 10075,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -1615,7 +1615,7 @@
 			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -2407,7 +2407,7 @@
 			"channelNickname": "togetic",
 			"number": 176,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3016,7 +3016,7 @@
 			"channelNickname": "forretress",
 			"number": 205,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3067,7 +3067,7 @@
 			"channelNickname": "snubbull",
 			"number": 209,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3831,7 +3831,7 @@
 			"channelNickname": "ralts",
 			"number": 280,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4141,9 +4141,9 @@
 			"channelNickname": "mega manectric",
 			"number": 20310,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 6,
+			"trainers": 4,
 			"nickname": null,
 			"image_name": "manectric-mega"
 		},
@@ -5116,9 +5116,9 @@
 			"channelNickname": "starly",
 			"number": 396,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -5186,7 +5186,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6741,7 +6741,7 @@
 			"channelNickname": "munna",
 			"number": 517,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -6791,7 +6791,7 @@
 			"channelNickname": "blitzle",
 			"number": 522,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7948,7 +7948,7 @@
 			"channelNickname": "druddigon",
 			"number": 621,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -8190,9 +8190,9 @@
 			"channelNickname": "thundurus-t",
 			"number": 642,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
-			"trainers": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 6,
 			"nickname": null,
 			"image_name": "thundurus-therian"
 		},
@@ -8583,7 +8583,7 @@
 			"channelNickname": "tapu lele",
 			"number": 786,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"image_name": "tapulele",
