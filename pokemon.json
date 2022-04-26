@@ -1,5 +1,5 @@
 {
-	"version": "20220412",
+	"version": "20220426",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -659,7 +659,7 @@
 			"channelNickname": "golbat",
 			"number": 42,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1377,7 +1377,7 @@
 			"channelNickname": "a-grimer",
 			"number": 10088,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1576,7 +1576,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -2607,10 +2607,10 @@
 			"name": "QUAGSIRE",
 			"channelNickname": "quagsire",
 			"number": 195,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -3035,10 +3035,10 @@
 			"name": "GLIGAR",
 			"channelNickname": "gligar",
 			"number": 207,
-			"tier": 3,
-			"active": false,
+			"tier": 1,
+			"active": true,
 			"shiny": true,
-			"trainers": 2,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -3077,7 +3077,7 @@
 			"channelNickname": "granbull",
 			"number": 210,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3543,7 +3543,7 @@
 			"channelNickname": "torchic",
 			"number": 255,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3811,7 +3811,7 @@
 			"channelNickname": "wingull",
 			"number": 278,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4717,7 +4717,7 @@
 			"channelNickname": "glalie",
 			"number": 362,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5036,7 +5036,7 @@
 			"channelNickname": "grotle",
 			"number": 388,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5750,7 +5750,7 @@
 			"channelNickname": "hippowdon",
 			"number": 450,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5840,7 +5840,7 @@
 			"channelNickname": "snover",
 			"number": 459,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6891,7 +6891,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -7055,7 +7055,7 @@
 			"channelNickname": "petilil",
 			"number": 548,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7948,7 +7948,7 @@
 			"channelNickname": "druddigon",
 			"number": 621,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -8217,6 +8217,19 @@
 			"nickname": null
 		},
 		{
+			"name": "LANDORUS THERIAN",
+			"channelNickname": "landorus-t",
+			"number": 645,
+			"tier": 5,
+			"active": true,
+			"shiny": true,
+			"trainers": 5,
+			"nickname": [
+				"lando"
+			],
+			"image_name": "landorus-therian"
+		},
+		{
 			"name": "LANDORUS INCARNATE",
 			"channelNickname": "landorus",
 			"number": 645,
@@ -8229,19 +8242,6 @@
 				"calrissian"
 			],
 			"image_name": "landorus"
-		},
-		{
-			"name": "LANDORUS THERIAN",
-			"channelNickname": "landorus-t",
-			"number": 645,
-			"tier": 5,
-			"active": false,
-			"shiny": false,
-			"trainers": 5,
-			"nickname": [
-				"lando"
-			],
-			"image_name": "landorus-therian"
 		},
 		{
 			"name": "KYUREM",
@@ -8472,7 +8472,7 @@
 			"channelNickname": "swirlix",
 			"number": 684,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8604,7 +8604,7 @@
 			"channelNickname": "tapu bulu",
 			"number": 787,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"image_name": "tapubulu",
