@@ -1,5 +1,5 @@
 {
-	"version": "20220426",
+	"version": "20220428b",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -284,7 +284,7 @@
 			"channelNickname": "mega pidgeot",
 			"number": 20018,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -1744,6 +1744,17 @@
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
+		},
+		{
+			"name": "MEGA KANGASKHAN",
+			"channelNickname": "mega kangaskhan",
+			"number": 20115,
+			"tier": "mega",
+			"active": true,
+			"shiny": true,
+			"trainers": 5,
+			"nickname": null,
+			"image_name": "kangaskhan-mega"
 		},
 		{
 			"name": "HORSEA",
