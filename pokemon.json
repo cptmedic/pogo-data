@@ -1,5 +1,5 @@
 {
-	"version": "20220428b",
+	"version": "20220503",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -15,12 +15,25 @@
 		},
 		{
 			"tier": "mega",
-			"number": -6,
+			"number": -4,
 			"nickname": [
 				"mega",
 				"megas",
 				"Tmega",
 				"Tmegas"
+			]
+		},
+		{
+			"tier": "mega-legendary",
+			"number": -6,
+			"nickname": [
+				"mega-legendary",
+				"mega_legendary",
+				"megalegendary",
+				"ml",
+				"Tmega-legendary",
+				"Tmega_legendary",
+				"Tmegalegendary"
 			]
 		},
 		{
@@ -110,7 +123,7 @@
 			"channelNickname": "charizard",
 			"number": 6,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1750,7 +1763,7 @@
 			"channelNickname": "mega kangaskhan",
 			"number": 20115,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -1927,7 +1940,7 @@
 			"channelNickname": "lapras",
 			"number": 131,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2619,7 +2632,7 @@
 			"channelNickname": "quagsire",
 			"number": 195,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3047,7 +3060,7 @@
 			"channelNickname": "gligar",
 			"number": 207,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3822,7 +3835,7 @@
 			"channelNickname": "wingull",
 			"number": 278,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4728,7 +4741,7 @@
 			"channelNickname": "glalie",
 			"number": 362,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4916,6 +4929,16 @@
 			"nickname": null
 		},
 		{
+			"name": "MEGA LATIAS",
+			"channelNickname": "mega latias",
+			"number": 20380,
+			"tier": "mega-legendary",
+			"active": true,
+			"shiny": true,
+			"trainers": 10,
+			"nickname": null
+		},
+		{
 			"name": "LATIOS",
 			"channelNickname": "latios",
 			"number": 381,
@@ -4923,6 +4946,16 @@
 			"active": false,
 			"shiny": true,
 			"trainers": 6,
+			"nickname": null
+		},
+		{
+			"name": "MEGA LATIOS",
+			"channelNickname": "mega latios",
+			"number": 20381,
+			"tier": "mega-legendary",
+			"active": true,
+			"shiny": true,
+			"trainers": 8,
 			"nickname": null
 		},
 		{
@@ -5761,7 +5794,7 @@
 			"channelNickname": "hippowdon",
 			"number": 450,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -5851,7 +5884,7 @@
 			"channelNickname": "snover",
 			"number": 459,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5951,10 +5984,10 @@
 			"name": "TOGEKISS",
 			"channelNickname": "togekiss",
 			"number": 468,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -6902,7 +6935,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -7959,7 +7992,7 @@
 			"channelNickname": "druddigon",
 			"number": 621,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -8232,7 +8265,7 @@
 			"channelNickname": "landorus-t",
 			"number": 645,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -8583,7 +8616,7 @@
 			"channelNickname": "rockruff",
 			"number": 744,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
