@@ -1,5 +1,5 @@
 {
-	"version": "20220525",
+	"version": "20220601",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -321,7 +321,7 @@
 			"channelNickname": "a-rattata",
 			"number": 10019,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -429,7 +429,7 @@
 			"channelNickname": "a-raichu",
 			"number": 10026,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -765,7 +765,7 @@
 			"channelNickname": "a-diglett",
 			"number": 10050,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -883,7 +883,7 @@
 			"channelNickname": "psyduck",
 			"number": 54,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1015,7 +1015,7 @@
 			"channelNickname": "machoke",
 			"number": 67,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1098,7 +1098,7 @@
 			"channelNickname": "a-geodude",
 			"number": 10074,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1390,7 +1390,7 @@
 			"channelNickname": "a-grimer",
 			"number": 10088,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1589,7 +1589,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1628,7 +1628,7 @@
 			"channelNickname": "a-marowak",
 			"number": 10105,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -2541,10 +2541,10 @@
 			"name": "POLITOED",
 			"channelNickname": "politoed",
 			"number": 186,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2632,7 +2632,7 @@
 			"channelNickname": "quagsire",
 			"number": 195,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3070,9 +3070,9 @@
 			"channelNickname": "mega steelix",
 			"number": 20208,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 8,
+			"trainers": 5,
 			"nickname": null,
 			"image_name": "steelix-mega"
 		},
@@ -3201,7 +3201,7 @@
 			"channelNickname": "swinub",
 			"number": 220,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4045,7 +4045,7 @@
 			"channelNickname": "nosepass",
 			"number": 299,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4416,7 +4416,7 @@
 			"channelNickname": "mega altaria",
 			"number": 20334,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -4963,7 +4963,7 @@
 			"channelNickname": "kyogre",
 			"number": 382,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -5724,7 +5724,7 @@
 			"channelNickname": "gible",
 			"number": 443,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8012,7 +8012,7 @@
 			"channelNickname": "golurk",
 			"number": 623,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -8646,7 +8646,7 @@
 			"channelNickname": "tapu koko",
 			"number": 785,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"image_name": "tapukoko",
@@ -8657,7 +8657,7 @@
 			"channelNickname": "tapu lele",
 			"number": 786,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 6,
 			"image_name": "tapulele",
@@ -8668,7 +8668,7 @@
 			"channelNickname": "tapu bulu",
 			"number": 787,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 5,
 			"image_name": "tapubulu",
@@ -8679,7 +8679,7 @@
 			"channelNickname": "tapu fini",
 			"number": 788,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 7,
 			"image_name": "tapufini",
