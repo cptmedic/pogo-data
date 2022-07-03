@@ -1,5 +1,5 @@
 {
-	"version": "20220616",
+	"version": "20220701",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -92,7 +92,7 @@
 			"channelNickname": "mega venusaur",
 			"number": 20003,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -103,7 +103,7 @@
 			"channelNickname": "charmander",
 			"number": 4,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -144,7 +144,7 @@
 			"channelNickname": "mega y charizard",
 			"number": 40006,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": null,
@@ -185,7 +185,7 @@
 			"channelNickname": "mega blastoise",
 			"number": 20009,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -524,7 +524,7 @@
 			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -554,7 +554,7 @@
 			"channelNickname": "nidoking",
 			"number": 34,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -652,7 +652,7 @@
 			"channelNickname": "wigglytuff",
 			"number": 40,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -825,7 +825,7 @@
 			"channelNickname": "meowth",
 			"number": 52,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1496,7 +1496,7 @@
 			"channelNickname": "onix",
 			"number": 95,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1589,7 +1589,7 @@
 			"channelNickname": "a-exeggutor",
 			"number": 10103,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1733,7 +1733,7 @@
 			"channelNickname": "chansey",
 			"number": 113,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1814,7 +1814,7 @@
 			"channelNickname": "staryu",
 			"number": 120,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2073,7 +2073,7 @@
 			"channelNickname": "snorlax",
 			"number": 143,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2083,7 +2083,7 @@
 			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -2139,7 +2139,7 @@
 			"channelNickname": "dragonite",
 			"number": 149,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2149,7 +2149,7 @@
 			"channelNickname": "mewtwo",
 			"number": 150,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -3010,7 +3010,7 @@
 			"channelNickname": "wobbuffet",
 			"number": 202,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3101,7 +3101,7 @@
 			"channelNickname": "granbull",
 			"number": 210,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3472,7 +3472,7 @@
 			"channelNickname": "larvitar",
 			"number": 246,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3945,7 +3945,7 @@
 			"channelNickname": "slaking",
 			"number": 289,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -6935,7 +6935,7 @@
 			"channelNickname": "timburr",
 			"number": 532,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -8657,7 +8657,7 @@
 			"channelNickname": "wimpod",
 			"number": 767,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
