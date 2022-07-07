@@ -1,5 +1,5 @@
 {
-	"version": "20220701",
+	"version": "20220706",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -82,9 +82,9 @@
 			"channelNickname": "venusaur",
 			"number": 3,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 4,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -103,7 +103,7 @@
 			"channelNickname": "charmander",
 			"number": 4,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -123,7 +123,7 @@
 			"channelNickname": "charizard",
 			"number": 6,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -133,7 +133,7 @@
 			"channelNickname": "mega x charizard",
 			"number": 20006,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -144,7 +144,7 @@
 			"channelNickname": "mega y charizard",
 			"number": 40006,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": null,
@@ -175,9 +175,9 @@
 			"channelNickname": "blastoise",
 			"number": 9,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 6,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -406,7 +406,7 @@
 			"channelNickname": "pikachu",
 			"number": 25,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -524,7 +524,7 @@
 			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -554,7 +554,7 @@
 			"channelNickname": "nidoking",
 			"number": 34,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -652,7 +652,7 @@
 			"channelNickname": "wigglytuff",
 			"number": 40,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -825,7 +825,7 @@
 			"channelNickname": "meowth",
 			"number": 52,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -1496,7 +1496,7 @@
 			"channelNickname": "onix",
 			"number": 95,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -1814,7 +1814,7 @@
 			"channelNickname": "staryu",
 			"number": 120,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2083,7 +2083,7 @@
 			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -2095,7 +2095,7 @@
 			"channelNickname": "zapdos",
 			"number": 145,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -2119,7 +2119,7 @@
 			"channelNickname": "dratini",
 			"number": 147,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -2757,9 +2757,9 @@
 			"channelNickname": "unown-e",
 			"number": 201,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-echo"
 		},
@@ -3010,7 +3010,7 @@
 			"channelNickname": "wobbuffet",
 			"number": 202,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3101,7 +3101,7 @@
 			"channelNickname": "granbull",
 			"number": 210,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3492,7 +3492,7 @@
 			"channelNickname": "tyranitar",
 			"number": 248,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -4883,7 +4883,7 @@
 			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -6745,9 +6745,9 @@
 			"channelNickname": "pansear",
 			"number": 513,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
