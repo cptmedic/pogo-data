@@ -1,5 +1,5 @@
 {
-	"version": "20220727",
+	"version": "20220731a",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1485,7 +1485,7 @@
 			"channelNickname": "mega gengar",
 			"number": 20094,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -5904,9 +5904,9 @@
 			"channelNickname": "mega abomasnow",
 			"number": 20460,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 4,
+			"trainers": 3,
 			"nickname": null,
 			"image_name": "abomasnow-mega"
 		},
@@ -6212,7 +6212,7 @@
 			"channelNickname": "dialga",
 			"number": 483,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -6226,7 +6226,7 @@
 			"channelNickname": "palkia",
 			"number": 484,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": [
@@ -6765,9 +6765,9 @@
 			"channelNickname": "panpour",
 			"number": 515,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -8064,6 +8064,16 @@
 			"tier": 1,
 			"active": false,
 			"shiny": false,
+			"trainers": null,
+			"nickname": null
+		},
+		{
+			"name": "HISUIAN BRAVIARY",
+			"channelNickname": "h-braviary",
+			"number": 628,
+			"tier": 3,
+			"active": false,
+			"shiny": true,
 			"trainers": null,
 			"nickname": null
 		},
