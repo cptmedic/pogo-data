@@ -1,5 +1,5 @@
 {
-	"version": "20220901",
+	"version": "20220906",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1001,6 +1001,17 @@
 			"nickname": null
 		},
 		{
+			"name": "MEGA ALAKAZAM",
+			"channelNickname": "mega alakazam",
+			"number": 20065,
+			"tier": "mega",
+			"active": true,
+			"shiny": true,
+			"trainers": 4,
+			"nickname": null,
+			"image_name": "alakazam-mega"
+		},
+		{
 			"name": "MACHOP",
 			"channelNickname": "machop",
 			"number": 66,
@@ -1684,7 +1695,7 @@
 			"channelNickname": "weezing-galarian",
 			"number": 310110,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": [
@@ -1982,7 +1993,7 @@
 			"channelNickname": "jolteon",
 			"number": 135,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2491,7 +2502,7 @@
 			"channelNickname": "mega ampharos",
 			"number": 20181,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": null,
@@ -2688,28 +2699,6 @@
 			"nickname": null
 		},
 		{
-			"name": "UNOWN S",
-			"channelNickname": "unown-s",
-			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": null,
-			"image_name": "unown-sierra"
-		},
-		{
-			"name": "UNOWN U",
-			"channelNickname": "unown-u",
-			"number": 201,
-			"tier": 1,
-			"active": false,
-			"shiny": true,
-			"trainers": 1,
-			"nickname": null,
-			"image_name": "unown-uniform"
-		},
-		{
 			"name": "UNOWN",
 			"channelNickname": "unown",
 			"number": 201,
@@ -2768,8 +2757,8 @@
 			"channelNickname": "unown-e",
 			"number": 201,
 			"tier": 1,
-			"active": false,
-			"shiny": true,
+			"active": true,
+			"shiny": false,
 			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-echo"
@@ -2889,9 +2878,9 @@
 			"channelNickname": "unown-p",
 			"number": 201,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-papa"
 		},
@@ -2918,6 +2907,17 @@
 			"image_name": "unown-romeo"
 		},
 		{
+			"name": "UNOWN S",
+			"channelNickname": "unown-s",
+			"number": 201,
+			"tier": 1,
+			"active": true,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null,
+			"image_name": "unown-sierra"
+		},
+		{
 			"name": "UNOWN T",
 			"channelNickname": "unown-t",
 			"number": 201,
@@ -2927,6 +2927,17 @@
 			"trainers": 1,
 			"nickname": null,
 			"image_name": "unown-tango"
+		},
+		{
+			"name": "UNOWN U",
+			"channelNickname": "unown-u",
+			"number": 201,
+			"tier": 1,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null,
+			"image_name": "unown-uniform"
 		},
 		{
 			"name": "UNOWN V",
@@ -3009,8 +3020,8 @@
 			"name": "WOBBUFFET",
 			"channelNickname": "wobbuffet",
 			"number": 202,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3866,7 +3877,7 @@
 			"channelNickname": "ralts",
 			"number": 280,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5241,7 +5252,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7424,7 +7435,7 @@
 			"channelNickname": "gothita",
 			"number": 574,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7454,7 +7465,7 @@
 			"channelNickname": "solosis",
 			"number": 577,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8663,14 +8674,13 @@
 			"nickname": null
 		},
 		{
-			"name": "TAPU KOKO",
-			"channelNickname": "tapu koko",
-			"number": 785,
-			"tier": 5,
-			"active": false,
+			"name": "ORANGURU",
+			"channelNickname": "oranguru",
+			"number": 765,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 6,
-			"image_name": "tapukoko",
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -8681,6 +8691,17 @@
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "TAPU KOKO",
+			"channelNickname": "tapu koko",
+			"number": 785,
+			"tier": 5,
+			"active": false,
+			"shiny": false,
+			"trainers": 6,
+			"image_name": "tapukoko",
 			"nickname": null
 		},
 		{
