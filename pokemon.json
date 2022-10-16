@@ -1,5 +1,5 @@
 {
-	"version": "20221014b",
+	"version": "20221016",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -45,10 +45,11 @@
 		},
 		{
 			"tier": "ex",
-			"number": -99,
+			"number": -9,
 			"nickname": [
 				"ex",
-				"exclusive"
+				"exclusive",
+				"elite"
 			],
 			"exclusive": true
 		},
@@ -7875,7 +7876,7 @@
 			"name": "LAMPENT",
 			"channelNickname": "lampent",
 			"number": 608,
-			"tier": 3,
+			"tier": 4,
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
@@ -8682,6 +8683,7 @@
 			"active": true,
 			"shiny": false,
 			"trainers": 10,
+			"image_name": "hoopa-unbound",
 			"nickname": null
 		},
 		{
@@ -8689,9 +8691,10 @@
 			"channelNickname": "hoopa confined",
 			"number": 720,
 			"tier": "ex",
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 10,
+			"image_name": "hoopa",
 			"nickname": null
 		},
 		{
