@@ -1,5 +1,5 @@
 {
-	"version": "20221027b",
+	"version": "20221103",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -1487,7 +1487,7 @@
 			"channelNickname": "gengar",
 			"number": 94,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -2151,7 +2151,7 @@
 			"channelNickname": "dragonite",
 			"number": 149,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2664,7 +2664,7 @@
 			"channelNickname": "umbreon",
 			"number": 197,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2694,7 +2694,7 @@
 			"channelNickname": "misdreavus",
 			"number": 200,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4097,10 +4097,10 @@
 			"name": "SABLEYE",
 			"channelNickname": "sableye",
 			"number": 302,
-			"tier": 1,
+			"tier": 3,
 			"active": true,
 			"shiny": true,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4705,7 +4705,7 @@
 			"channelNickname": "duskull",
 			"number": 355,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -4876,7 +4876,7 @@
 			"channelNickname": "bagon",
 			"number": 371,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -5577,7 +5577,7 @@
 			"channelNickname": "drifloon",
 			"number": 425,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5587,7 +5587,7 @@
 			"channelNickname": "drifblim",
 			"number": 426,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -5859,7 +5859,7 @@
 			"channelNickname": "drapion",
 			"number": 452,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 3,
 			"nickname": null
@@ -6750,7 +6750,7 @@
 			"channelNickname": "purrloin",
 			"number": 509,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7323,7 +7323,7 @@
 			"channelNickname": "yamask",
 			"number": 562,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -7333,7 +7333,7 @@
 			"channelNickname": "galarian-yamask",
 			"number": 310562,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": [
@@ -8037,7 +8037,7 @@
 			"channelNickname": "druddigon",
 			"number": 621,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -8047,7 +8047,7 @@
 			"channelNickname": "golett",
 			"number": 622,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -8651,7 +8651,7 @@
 			"channelNickname": "phantump",
 			"number": 708,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
