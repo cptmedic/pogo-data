@@ -1,5 +1,5 @@
 {
-	"version": "20230208b",
+	"version": "20230222",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -525,7 +525,7 @@
 			"channelNickname": "nidoqueen",
 			"number": 31,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -555,7 +555,7 @@
 			"channelNickname": "nidoking",
 			"number": 34,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -1686,7 +1686,7 @@
 			"channelNickname": "lickitung",
 			"number": 108,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -1755,7 +1755,7 @@
 			"channelNickname": "chansey",
 			"number": 113,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3455,7 +3455,7 @@
 			"channelNickname": "miltank",
 			"number": 241,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 2,
 			"nickname": null
@@ -3570,7 +3570,7 @@
 			"channelNickname": "treecko",
 			"number": 252,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3579,8 +3579,8 @@
 			"name": "GROVYLE",
 			"channelNickname": "grovyle",
 			"number": 253,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3611,7 +3611,7 @@
 			"channelNickname": "torchic",
 			"number": 255,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3621,7 +3621,7 @@
 			"channelNickname": "combusken",
 			"number": 256,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3652,7 +3652,7 @@
 			"channelNickname": "mudkip",
 			"number": 258,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3661,8 +3661,8 @@
 			"name": "MARSHTOMP",
 			"channelNickname": "marshtomp",
 			"number": 259,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3951,7 +3951,7 @@
 			"channelNickname": "mega gardevoir",
 			"number": 20282,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -5053,9 +5053,9 @@
 			"channelNickname": "mega latias",
 			"number": 20380,
 			"tier": "mega-legendary",
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 10,
+			"trainers": 8,
 			"nickname": null
 		},
 		{
@@ -5073,9 +5073,9 @@
 			"channelNickname": "mega latios",
 			"number": 20381,
 			"tier": "mega-legendary",
-			"active": false,
+			"active": true,
 			"shiny": true,
-			"trainers": 8,
+			"trainers": 7,
 			"nickname": null
 		},
 		{
@@ -5111,7 +5111,7 @@
 			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -5350,7 +5350,7 @@
 			"channelNickname": "shinx",
 			"number": 403,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -6176,7 +6176,7 @@
 			"channelNickname": "gallade",
 			"number": 475,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -7762,7 +7762,7 @@
 			"number": 590,
 			"tier": 1,
 			"active": false,
-			"shiny": false,
+			"shiny": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -8636,7 +8636,7 @@
 			"channelNickname": "furfrou",
 			"number": 676,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8646,7 +8646,7 @@
 			"channelNickname": "espurr",
 			"number": 677,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8899,7 +8899,7 @@
 			"channelNickname": "tapu lele",
 			"number": 786,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"image_name": "tapulele",
