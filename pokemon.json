@@ -1,5 +1,5 @@
 {
-	"version": "20230222",
+	"version": "20230321",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -93,7 +93,7 @@
 			"channelNickname": "mega venusaur",
 			"number": 20003,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -417,7 +417,7 @@
 			"channelNickname": "raichu",
 			"number": 26,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": [
@@ -1379,7 +1379,7 @@
 			"channelNickname": "dewgong",
 			"number": 87,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -2483,7 +2483,7 @@
 			"channelNickname": "mareep",
 			"number": 179,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3244,7 +3244,7 @@
 			"channelNickname": "piloswine",
 			"number": 221,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -3570,7 +3570,7 @@
 			"channelNickname": "treecko",
 			"number": 252,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3580,7 +3580,7 @@
 			"channelNickname": "grovyle",
 			"number": 253,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3611,7 +3611,7 @@
 			"channelNickname": "torchic",
 			"number": 255,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3621,7 +3621,7 @@
 			"channelNickname": "combusken",
 			"number": 256,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -3652,7 +3652,7 @@
 			"channelNickname": "mudkip",
 			"number": 258,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -3662,7 +3662,7 @@
 			"channelNickname": "marshtomp",
 			"number": 259,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -4227,6 +4227,17 @@
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
+		},
+		{
+			"name": "MEGA MEDICHAM",
+			"channelNickname": "mega medicham",
+			"number": 20308,
+			"tier": "mega",
+			"active": false,
+			"shiny": true,
+			"trainers": 5,
+			"nickname": null,
+			"image_name": "medicham-mega"
 		},
 		{
 			"name": "ELECTRIKE",
@@ -4952,10 +4963,10 @@
 			"name": "SHELGON",
 			"channelNickname": "shelgon",
 			"number": 372,
-			"tier": 1,
+			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -5053,7 +5064,7 @@
 			"channelNickname": "mega latias",
 			"number": 20380,
 			"tier": "mega-legendary",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 8,
 			"nickname": null
@@ -5073,7 +5084,7 @@
 			"channelNickname": "mega latios",
 			"number": 20381,
 			"tier": "mega-legendary",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 7,
 			"nickname": null
@@ -5092,6 +5103,20 @@
 			]
 		},
 		{
+			"name": "PRIMAL KYOGRE",
+			"channelNickname": "primal kyogre",
+			"number": 20382,
+			"tier": "mega-legendary",
+			"active": false,
+			"shiny": true,
+			"trainers": 8,
+			"nickname": [
+				"mega kyogre",
+				"primal kroger",
+				"primal kyocera"
+			]
+		},
+		{
 			"name": "GROUDON",
 			"channelNickname": "groudon",
 			"number": 383,
@@ -5103,7 +5128,25 @@
 				"crouton",
 				"grouper",
 				"geodon",
-				"groupie"
+				"groupie",
+				"groupon"
+			]
+		},
+		{
+			"name": "PRIMAL GROUDON",
+			"channelNickname": "primal groudon",
+			"number": 20383,
+			"tier": "mega-legendary",
+			"active": false,
+			"shiny": true,
+			"trainers": 7,
+			"nickname": [
+				"mega groudon",
+				"primal crouton",
+				"primal grouper",
+				"primal geodon",
+				"primal groupie",
+				"primal groupon"
 			]
 		},
 		{
@@ -5111,7 +5154,7 @@
 			"channelNickname": "rayquaza",
 			"number": 384,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -5302,7 +5345,7 @@
 			"tier": 3,
 			"active": false,
 			"shiny": false,
-			"trainers": 5,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -7613,7 +7656,7 @@
 			"channelNickname": "vanillite",
 			"number": 582,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -7731,9 +7774,9 @@
 			"channelNickname": "emolga",
 			"number": 587,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -7912,10 +7955,10 @@
 			"name": "EELEKTRIK",
 			"channelNickname": "eelektrik",
 			"number": 603,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -8013,7 +8056,7 @@
 			"channelNickname": "cubchoo",
 			"number": 613,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8353,7 +8396,7 @@
 			"channelNickname": "thundurus",
 			"number": 642,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -8726,7 +8769,7 @@
 			"channelNickname": "dedenne",
 			"number": 702,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8837,7 +8880,7 @@
 			"name": "MAREANIE",
 			"channelNickname": "mareanie",
 			"number": 747,
-			"tier": 3,
+			"tier": 1,
 			"active": false,
 			"shiny": false,
 			"trainers": 1,
@@ -8877,6 +8920,16 @@
 			"name": "TOGEDEMARU",
 			"channelNickname": "togedemaru",
 			"number": 777,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "BRUXISH",
+			"channelNickname": "bruxish",
+			"number": 779,
 			"tier": 1,
 			"active": false,
 			"shiny": false,
