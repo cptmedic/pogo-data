@@ -1,5 +1,5 @@
 {
-	"version": "20230508",
+	"version": "20230527",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -932,6 +932,16 @@
 			"nickname": null
 		},
 		{
+			"name": "GROWLITHE HISUIAN",
+			"channelNickname": "h-growlithe",
+			"number": 10058,
+			"tier": 1,
+			"active": false,
+			"shiny": false,
+			"trainers": 1,
+			"nickname": null
+		},
+		{
 			"name": "ARCANINE",
 			"channelNickname": "arcanine",
 			"number": 59,
@@ -946,8 +956,9 @@
 			"channelNickname": "poliwag",
 			"number": 60,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -1017,8 +1028,9 @@
 			"channelNickname": "machop",
 			"number": 66,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -1047,8 +1059,9 @@
 			"channelNickname": "bellsprout",
 			"number": 69,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -1077,9 +1090,9 @@
 			"channelNickname": "tentacool",
 			"number": 72,
 			"tier": 1,
-			"active": false,
-			"shiny": false,
-			"trainers": null,
+			"active": true,
+			"shiny": true,
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -1915,6 +1928,16 @@
 			"nickname": null
 		},
 		{
+			"name": "MEGA PINSIR",
+			"channelNickname": "mega pinsir",
+			"number": 20127,
+			"tier": "mega",
+			"active": true,
+			"shiny": true,
+			"trainers": 3,
+			"nickname": null
+		},
+		{
 			"name": "TAUROS",
 			"channelNickname": "tauros",
 			"number": 128,
@@ -2171,8 +2194,9 @@
 			"channelNickname": "mewtwo",
 			"number": 150,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 6,
 			"nickname": [
 				"mewtwo",
@@ -2220,10 +2244,11 @@
 			"name": "BAYLEEF",
 			"channelNickname": "bayleef",
 			"number": 153,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"shadow": true,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2250,10 +2275,11 @@
 			"name": "QUILAVA",
 			"channelNickname": "quilava",
 			"number": 156,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"shadow": true,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -2280,10 +2306,11 @@
 			"name": "CROCONAW",
 			"channelNickname": "croconaw",
 			"number": 159,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": false,
-			"trainers": 1,
+			"shadow": true,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -3153,7 +3180,7 @@
 			"channelNickname": "mega scizor",
 			"number": 20212,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": null,
@@ -3183,10 +3210,11 @@
 			"name": "SNEASEL",
 			"channelNickname": "sneasel",
 			"number": 215,
-			"tier": 1,
-			"active": false,
+			"tier": 3,
+			"active": true,
 			"shiny": true,
-			"trainers": 1,
+			"shadow": true,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -4994,8 +5022,9 @@
 			"channelNickname": "beldum",
 			"number": 374,
 			"tier": 1,
-			"active": false,
+			"active": true,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 1,
 			"nickname": null
 		},
@@ -5312,10 +5341,10 @@
 			"name": "EMPOLEON",
 			"channelNickname": "empoleon",
 			"number": 395,
-			"tier": 1,
+			"tier": 3,
 			"active": true,
 			"shiny": false,
-			"trainers": null,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -7391,7 +7420,7 @@
 			"channelNickname": "dwebble",
 			"number": 557,
 			"tier": 1,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
@@ -8821,7 +8850,7 @@
 			"tier": 3,
 			"active": false,
 			"shiny": true,
-			"trainers": 1,
+			"trainers": 2,
 			"nickname": null
 		},
 		{
@@ -8870,11 +8899,10 @@
 			"name": "POPPLIO",
 			"channelNickname": "popplio",
 			"number": 728,
-			"tier": "1",
+			"tier": 1,
 			"active": true,
 			"shiny": false,
-			"trainers": 10,
-			"image_name": "popplio",
+			"trainers": 1,
 			"nickname": null
 		},
 		{
@@ -8995,8 +9023,8 @@
 			"channelNickname": "tapu fini",
 			"number": 788,
 			"tier": 5,
-			"active": true,
-			"shiny": false,
+			"active": false,
+			"shiny": true,
 			"trainers": 7,
 			"image_name": "tapufini",
 			"nickname": null
@@ -9164,6 +9192,16 @@
 			"trainers": 6,
 			"nickname": null,
 			"image_name": "zamazenta-hero"
+		},
+		{
+			"name": "KLEAVOR",
+			"channelNickname": "kleavor",
+			"number": 900,
+			"tier": 3,
+			"active": false,
+			"shiny": true,
+			"trainers": 1,
+			"nickname": null
 		}
 	]
 }
