@@ -1932,7 +1932,7 @@
 			"channelNickname": "mega pinsir",
 			"number": 20127,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 3,
 			"nickname": null
