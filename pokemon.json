@@ -2130,6 +2130,7 @@
 			"tier": 5,
 			"active": false,
 			"shiny": true,
+			"shadow": true,
 			"trainers": 5,
 			"nickname": [
 				"arty"
