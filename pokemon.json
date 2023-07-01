@@ -2128,7 +2128,7 @@
 			"channelNickname": "articuno",
 			"number": 144,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"shadow": true,
 			"trainers": 5,
