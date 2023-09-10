@@ -1049,7 +1049,7 @@
 			"channelNickname": "machamp",
 			"number": 68,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -4434,7 +4434,7 @@
 			"channelNickname": "camerupt",
 			"number": 323,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 1,
 			"nickname": null
@@ -5054,7 +5054,7 @@
 			"channelNickname": "metagross",
 			"number": 376,
 			"tier": 3,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 2,
 			"nickname": null
@@ -9115,7 +9115,7 @@
 			"channelNickname": "celesteela",
 			"number": 797,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 6,
 			"nickname": null
@@ -9125,7 +9125,7 @@
 			"channelNickname": "kartana",
 			"number": 798,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": false,
 			"trainers": 4,
 			"nickname": null
@@ -9229,9 +9229,19 @@
 			"channelNickname": "kleavor",
 			"number": 900,
 			"tier": 3,
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 1,
+			"nickname": null
+		},
+		{
+			"name": "BOMBIRDIER",
+			"channelNickname": "bombirdier",
+			"number": 962,
+			"tier": 3,
+			"active": true,
+			"shiny": true,
+			"trainers": 3,
 			"nickname": null
 		}
 	]
