@@ -1,5 +1,5 @@
 {
-	"version": "20231020",
+	"version": "20231103",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -3366,7 +3366,7 @@
 			"channelNickname": "mega houndoom",
 			"number": 20229,
 			"tier": "mega",
-			"active": false,
+			"active": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -4812,7 +4812,7 @@
 			"channelNickname": "mega banette",
 			"number": 20354,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": null,
@@ -6568,7 +6568,7 @@
 			"channelNickname": "darkrai",
 			"number": 491,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 6,
 			"nickname": [
@@ -8620,8 +8620,8 @@
 			"channelNickname": "genesect-douse",
 			"number": 649,
 			"tier": 5,
-			"active": false,
-			"shiny": false,
+			"active": true,
+			"shiny": true,
 			"trainers": 4,
 			"nickname": [
 				"genesect"
