@@ -1,5 +1,5 @@
 {
-	"version": "20231103",
+	"version": "20240412",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -2131,6 +2131,7 @@
 			"number": 144,
 			"tier": 5,
 			"active": false,
+			"shadow": true,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": [
@@ -3211,6 +3212,16 @@
 			"nickname": null
 		},
 		{
+			"name": "MEGA HERACROSS",
+			"channelNickname": "mega heracross",
+			"number": 20214,
+			"tier": "mega",
+			"active": false,
+			"shiny": true,
+			"trainers": 2,
+			"nickname": null
+		},
+		{
 			"name": "SNEASEL",
 			"channelNickname": "sneasel",
 			"number": 215,
@@ -3366,7 +3377,7 @@
 			"channelNickname": "mega houndoom",
 			"number": 20229,
 			"tier": "mega",
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 5,
 			"nickname": null,
@@ -5977,6 +5988,17 @@
 			"nickname": null
 		},
 		{
+			"name": "MEGA GARCHOMP",
+			"channelNickname": "mega garchomp",
+			"number": 20445,
+			"tier": "mega",
+			"active": false,
+			"shiny": true,
+			"trainers": 3,
+			"nickname": null,
+			"image_name": "garchomp-mega"
+		},
+		{
 			"name": "MUNCHLAX",
 			"channelNickname": "munchlax",
 			"number": 446,
@@ -6449,9 +6471,35 @@
 			]
 		},
 		{
+			"name": "DIALGA ORIGIN",
+			"channelNickname": "dialga-o",
+			"number": 100483,
+			"tier": 5,
+			"active": false,
+			"shiny": true,
+			"trainers": 7,
+			"nickname": [
+				"dial",
+				"diagonal",
+				"diagonally"
+			]
+		},
+		{
 			"name": "PALKIA",
 			"channelNickname": "palkia",
 			"number": 484,
+			"tier": 5,
+			"active": false,
+			"shiny": true,
+			"trainers": 7,
+			"nickname": [
+				"polka"
+			]
+		},
+		{
+			"name": "PALKIA ORIGIN",
+			"channelNickname": "palkia-o",
+			"number": 100484,
 			"tier": 5,
 			"active": false,
 			"shiny": true,
@@ -8620,7 +8668,7 @@
 			"channelNickname": "genesect-douse",
 			"number": 649,
 			"tier": 5,
-			"active": true,
+			"active": false,
 			"shiny": true,
 			"trainers": 4,
 			"nickname": [
@@ -9093,6 +9141,16 @@
 			"nickname": null
 		},
 		{
+			"name": "DRAMPA",
+			"channelNickname": "drampa",
+			"number": 780,
+			"tier": 3,
+			"active": false,
+			"shiny": true,
+			"trainers": 3,
+			"nickname": null
+		},
+		{
 			"name": "TAPU KOKO",
 			"channelNickname": "tapu koko",
 			"number": 785,
@@ -9329,6 +9387,28 @@
 			"shiny": true,
 			"trainers": 1,
 			"nickname": null
+		},
+		{
+			"name": "ENAMORUS INCARNATE",
+			"channelNickname": "enamorus",
+			"number": 905,
+			"tier": "ex",
+			"active": false,
+			"shiny": false,
+			"trainers": 5,
+			"nickname": null,
+			"image_name": "enamorus"
+		},
+		{
+			"name": "ENAMORUS THERIAN",
+			"channelNickname": "enamorus-t",
+			"number": 905,
+			"tier": "ex",
+			"active": false,
+			"shiny": false,
+			"trainers": 6,
+			"nickname": null,
+			"image_name": "enamorus-therian"
 		}
 	]
 }
