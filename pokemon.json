@@ -1,5 +1,5 @@
 {
-	"version": "20240412",
+	"version": "20240413",
 	"pokemon_data": [
 		{
 			"tier": 1,
@@ -9309,7 +9309,7 @@
 			"channelNickname": "blacephalon",
 			"number": 806,
 			"tier": 5,
-			"active": false,
+			"active": true,
 			"shiny": false,
 			"trainers": 8,
 			"nickname": null
